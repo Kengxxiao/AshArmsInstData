@@ -1,0 +1,1002 @@
+[
+    {
+        "EventID": "DVE010101",
+        "EventName": "情報収集 - イージー",
+        "LvRec": "5",
+        "EventDrop": "II10001,II10002",
+        "DropAmount": "大量,中量",
+        "Describe": "月曜日開放 ",
+        "DailyEventType": "1",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "EventID": "DVE010102",
+        "EventName": "情報収集 - ノーマル",
+        "LvRec": "20",
+        "EventDrop": "II10002,II10003",
+        "DropAmount": "大量,中量",
+        "Describe": "月曜日開放 ",
+        "DailyEventType": "1",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "EventID": "DVE010103",
+        "EventName": "情報収集 - ハード",
+        "LvRec": "40",
+        "EventDrop": "II10002,II10003",
+        "DropAmount": "大量,中量",
+        "Describe": "月曜日開放 ",
+        "DailyEventType": "1",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "EventID": "DVE010104",
+        "EventName": "情報収集 - エクストラ",
+        "LvRec": "60",
+        "EventDrop": "II10002,II10003,II10004",
+        "DropAmount": "大量,中量,少量",
+        "Describe": "月曜日開放 ",
+        "DailyEventType": "1",
+        "bgm": "201_Battle_Fused"
+    },
+    {
+        "EventID": "DVE010201",
+        "EventName": "情報収集 - イージー",
+        "LvRec": "5",
+        "EventDrop": "II10001,II10002",
+        "DropAmount": "大量,中量",
+        "Describe": "水曜日開放 ",
+        "DailyEventType": "1",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "EventID": "DVE010202",
+        "EventName": "情報収集 - ノーマル",
+        "LvRec": "20",
+        "EventDrop": "II10002,II10003",
+        "DropAmount": "大量,中量",
+        "Describe": "水曜日開放 ",
+        "DailyEventType": "1",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "EventID": "DVE010203",
+        "EventName": "情報収集 - ハード",
+        "LvRec": "40",
+        "EventDrop": "II10002,II10003",
+        "DropAmount": "大量,中量",
+        "Describe": "水曜日開放 ",
+        "DailyEventType": "1",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "EventID": "DVE010204",
+        "EventName": "情報収集 - エクストラ",
+        "LvRec": "60",
+        "EventDrop": "II10002,II10003,II10004",
+        "DropAmount": "大量,中量,少量",
+        "Describe": "水曜日開放 ",
+        "DailyEventType": "1",
+        "bgm": "201_Battle_Fused"
+    },
+    {
+        "EventID": "DVE010301",
+        "EventName": "情報収集 - イージー",
+        "LvRec": "5",
+        "EventDrop": "II10001,II10002",
+        "DropAmount": "大量,中量",
+        "Describe": "水曜日開放 ",
+        "DailyEventType": "1",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "EventID": "DVE010302",
+        "EventName": "情報収集 - ノーマル",
+        "LvRec": "20",
+        "EventDrop": "II10002,II10003",
+        "DropAmount": "大量,中量",
+        "Describe": "水曜日開放 ",
+        "DailyEventType": "1",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "EventID": "DVE010303",
+        "EventName": "情報収集 - ハード",
+        "LvRec": "40",
+        "EventDrop": "II10002,II10003",
+        "DropAmount": "大量,中量",
+        "Describe": "水曜日開放 ",
+        "DailyEventType": "1",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "EventID": "DVE010304",
+        "EventName": "情報収集 - エクストラ",
+        "LvRec": "60",
+        "EventDrop": "II10002,II10003,II10004",
+        "DropAmount": "大量,中量,少量",
+        "Describe": "水曜日開放 ",
+        "DailyEventType": "1",
+        "bgm": "201_Battle_Fused"
+    },
+    {
+        "EventID": "DVE010401",
+        "EventName": "情報収集 - イージー",
+        "LvRec": "5",
+        "EventDrop": "II10001,II10002",
+        "DropAmount": "大量,中量",
+        "Describe": "金曜日開放 ",
+        "DailyEventType": "1",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "EventID": "DVE010402",
+        "EventName": "情報収集 - ノーマル",
+        "LvRec": "20",
+        "EventDrop": "II10002,II10003",
+        "DropAmount": "大量,中量",
+        "Describe": "金曜日開放 ",
+        "DailyEventType": "1",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "EventID": "DVE010403",
+        "EventName": "情報収集 - ハード",
+        "LvRec": "40",
+        "EventDrop": "II10002,II10003",
+        "DropAmount": "大量,中量",
+        "Describe": "金曜日開放 ",
+        "DailyEventType": "1",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "EventID": "DVE010404",
+        "EventName": "情報収集 - エクストラ",
+        "LvRec": "60",
+        "EventDrop": "II10002,II10003,II10004",
+        "DropAmount": "大量,中量,少量",
+        "Describe": "金曜日開放 ",
+        "DailyEventType": "1",
+        "bgm": "201_Battle_Fused"
+    },
+    {
+        "EventID": "DVE010501",
+        "EventName": "情報収集 - イージー",
+        "LvRec": "5",
+        "EventDrop": "II10001,II10002",
+        "DropAmount": "大量,中量",
+        "Describe": "金曜日開放 ",
+        "DailyEventType": "1",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "EventID": "DVE010502",
+        "EventName": "情報収集 - ノーマル",
+        "LvRec": "20",
+        "EventDrop": "II10002,II10003",
+        "DropAmount": "大量,中量",
+        "Describe": "金曜日開放 ",
+        "DailyEventType": "1",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "EventID": "DVE010503",
+        "EventName": "情報収集 - ハード",
+        "LvRec": "40",
+        "EventDrop": "II10002,II10003",
+        "DropAmount": "大量,中量",
+        "Describe": "金曜日開放 ",
+        "DailyEventType": "1",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "EventID": "DVE010504",
+        "EventName": "情報収集 - エクストラ",
+        "LvRec": "60",
+        "EventDrop": "II10002,II10003,II10004",
+        "DropAmount": "大量,中量,少量",
+        "Describe": "金曜日開放 ",
+        "DailyEventType": "1",
+        "bgm": "201_Battle_Fused"
+    },
+    {
+        "EventID": "DVE010601",
+        "EventName": "情報収集 - イージー",
+        "LvRec": "5",
+        "EventDrop": "II10001,II10002",
+        "DropAmount": "大量,中量",
+        "Describe": "日曜日開放 ",
+        "DailyEventType": "1",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "EventID": "DVE010602",
+        "EventName": "情報収集 - ノーマル",
+        "LvRec": "20",
+        "EventDrop": "II10002,II10003",
+        "DropAmount": "大量,中量",
+        "Describe": "日曜日開放 ",
+        "DailyEventType": "1",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "EventID": "DVE010603",
+        "EventName": "情報収集 - ハード",
+        "LvRec": "40",
+        "EventDrop": "II10002,II10003",
+        "DropAmount": "大量,中量",
+        "Describe": "日曜日開放 ",
+        "DailyEventType": "1",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "EventID": "DVE010604",
+        "EventName": "情報収集 - エクストラ",
+        "LvRec": "60",
+        "EventDrop": "II10002,II10003,II10004",
+        "DropAmount": "大量,中量,少量",
+        "Describe": "日曜日開放 ",
+        "DailyEventType": "1",
+        "bgm": "201_Battle_Fused"
+    },
+    {
+        "EventID": "DVE010701",
+        "EventName": "情報収集 - イージー",
+        "LvRec": "5",
+        "EventDrop": "II10001,II10002",
+        "DropAmount": "大量,中量",
+        "Describe": "日曜日開放 ",
+        "DailyEventType": "1",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "EventID": "DVE010702",
+        "EventName": "情報収集 - ノーマル",
+        "LvRec": "20",
+        "EventDrop": "II10002,II10003",
+        "DropAmount": "大量,中量",
+        "Describe": "日曜日開放 ",
+        "DailyEventType": "1",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "EventID": "DVE010703",
+        "EventName": "情報収集 - ハード",
+        "LvRec": "40",
+        "EventDrop": "II10002,II10003",
+        "DropAmount": "大量,中量",
+        "Describe": "日曜日開放 ",
+        "DailyEventType": "1",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "EventID": "DVE010704",
+        "EventName": "情報収集 - エクストラ",
+        "LvRec": "60",
+        "EventDrop": "II10002,II10003,II10004",
+        "DropAmount": "大量,中量,少量",
+        "Describe": "日曜日開放 ",
+        "DailyEventType": "1",
+        "bgm": "201_Battle_Fused"
+    },
+    {
+        "EventID": "DVE020101",
+        "EventName": "改造工場 - イージー",
+        "LvRec": "5",
+        "EventDrop": "IM3001,IM3011,IC6013,IC6017",
+        "DropAmount": "大量,中量,少量,少量",
+        "Describe": "月曜日開放 ",
+        "DailyEventType": "2",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "EventID": "DVE020102",
+        "EventName": "改造工場 - ノーマル",
+        "LvRec": "20",
+        "EventDrop": "IM3001,IM3011,IC6013,IC6014,IC6015,IC6017",
+        "DropAmount": "大量,大量,中量,中量,少量,少量",
+        "Describe": "月曜日開放 ",
+        "DailyEventType": "2",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "EventID": "DVE020103",
+        "EventName": "改造工場 - ハード",
+        "LvRec": "40",
+        "EventDrop": "IM3011,IC6013,IC6014,IC6015,IC6016,IC6017",
+        "DropAmount": "大量,大量,中量,中量,少量,少量",
+        "Describe": "月曜日開放 ",
+        "DailyEventType": "2",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "EventID": "DVE020104",
+        "EventName": "改造工場 - エクストラ",
+        "LvRec": "60",
+        "EventDrop": "IC6013,IC6014,IC6015,IC6016,IC6017",
+        "DropAmount": "大量,中量,中量,少量,少量",
+        "Describe": "月曜日開放 ",
+        "DailyEventType": "2",
+        "bgm": "201_Battle_Fused"
+    },
+    {
+        "EventID": "DVE020201",
+        "EventName": "改造工場 - イージー",
+        "LvRec": "5",
+        "EventDrop": "IM3001,IM3011,IC6023,IC6027",
+        "DropAmount": "大量,中量,少量,少量",
+        "Describe": "火曜日開放 ",
+        "DailyEventType": "2",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "EventID": "DVE020202",
+        "EventName": "改造工場 - ノーマル",
+        "LvRec": "20",
+        "EventDrop": "IM3001,IM3011,IC6023,IC6024,IC6025,IC6027",
+        "DropAmount": "大量,大量,中量,中量,少量,少量",
+        "Describe": "火曜日開放 ",
+        "DailyEventType": "2",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "EventID": "DVE020203",
+        "EventName": "改造工場 - ハード",
+        "LvRec": "40",
+        "EventDrop": "IM3011,IC6023,IC6024,IC6025,IC6026,IC6027",
+        "DropAmount": "大量,大量,中量,中量,少量,少量",
+        "Describe": "火曜日開放 ",
+        "DailyEventType": "2",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "EventID": "DVE020204",
+        "EventName": "改造工場 - エクストラ",
+        "LvRec": "60",
+        "EventDrop": "IC6023,IC6024,IC6025,IC6026,IC6027",
+        "DropAmount": "大量,中量,中量,少量,少量",
+        "Describe": "火曜日開放 ",
+        "DailyEventType": "2",
+        "bgm": "201_Battle_Fused"
+    },
+    {
+        "EventID": "DVE020301",
+        "EventName": "改造工場 - イージー",
+        "LvRec": "5",
+        "EventDrop": "IM3001,IM3011,IC6013,IC6017",
+        "DropAmount": "大量,中量,少量,少量",
+        "Describe": "水曜日開放 ",
+        "DailyEventType": "2",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "EventID": "DVE020302",
+        "EventName": "改造工場 - ノーマル",
+        "LvRec": "20",
+        "EventDrop": "IM3001,IM3011,IC6013,IC6014,IC6015,IC6017",
+        "DropAmount": "大量,大量,中量,中量,少量,少量",
+        "Describe": "水曜日開放 ",
+        "DailyEventType": "2",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "EventID": "DVE020303",
+        "EventName": "改造工場 - ハード",
+        "LvRec": "40",
+        "EventDrop": "IM3011,IC6013,IC6014,IC6015,IC6016,IC6017",
+        "DropAmount": "大量,大量,中量,中量,少量,少量",
+        "Describe": "水曜日開放 ",
+        "DailyEventType": "2",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "EventID": "DVE020304",
+        "EventName": "改造工場 - エクストラ",
+        "LvRec": "60",
+        "EventDrop": "IC6013,IC6014,IC6015,IC6016,IC6017",
+        "DropAmount": "大量,中量,中量,少量,少量",
+        "Describe": "水曜日開放 ",
+        "DailyEventType": "2",
+        "bgm": "201_Battle_Fused"
+    },
+    {
+        "EventID": "DVE020401",
+        "EventName": "改造工場 - イージー",
+        "LvRec": "5",
+        "EventDrop": "IM3001,IM3011,IC6023,IC6027",
+        "DropAmount": "大量,中量,少量,少量",
+        "Describe": "木曜日開放 ",
+        "DailyEventType": "2",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "EventID": "DVE020402",
+        "EventName": "改造工場 - ノーマル",
+        "LvRec": "20",
+        "EventDrop": "IM3001,IM3011,IC6023,IC6024,IC6025,IC6027",
+        "DropAmount": "大量,大量,中量,中量,少量,少量",
+        "Describe": "木曜日開放 ",
+        "DailyEventType": "2",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "EventID": "DVE020403",
+        "EventName": "改造工場 - ハード",
+        "LvRec": "40",
+        "EventDrop": "IM3011,IC6023,IC6024,IC6025,IC6026,IC6027",
+        "DropAmount": "大量,大量,中量,中量,少量,少量",
+        "Describe": "木曜日開放 ",
+        "DailyEventType": "2",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "EventID": "DVE020404",
+        "EventName": "改造工場 - エクストラ",
+        "LvRec": "60",
+        "EventDrop": "IC6023,IC6024,IC6025,IC6026,IC6027",
+        "DropAmount": "大量,中量,中量,少量,少量",
+        "Describe": "木曜日開放 ",
+        "DailyEventType": "2",
+        "bgm": "201_Battle_Fused"
+    },
+    {
+        "EventID": "DVE020501",
+        "EventName": "改造工場 - イージー",
+        "LvRec": "5",
+        "EventDrop": "IM3001,IM3011,IC6013,IC6017",
+        "DropAmount": "大量,中量,少量,少量",
+        "Describe": "金曜日開放 ",
+        "DailyEventType": "2",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "EventID": "DVE020502",
+        "EventName": "改造工場 - ノーマル",
+        "LvRec": "20",
+        "EventDrop": "IM3001,IM3011,IC6013,IC6014,IC6015,IC6017",
+        "DropAmount": "大量,大量,中量,中量,少量,少量",
+        "Describe": "金曜日開放 ",
+        "DailyEventType": "2",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "EventID": "DVE020503",
+        "EventName": "改造工場 - ハード",
+        "LvRec": "40",
+        "EventDrop": "IM3011,IC6013,IC6014,IC6015,IC6016,IC6017",
+        "DropAmount": "大量,大量,中量,中量,少量,少量",
+        "Describe": "金曜日開放 ",
+        "DailyEventType": "2",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "EventID": "DVE020504",
+        "EventName": "改造工場 - エクストラ",
+        "LvRec": "60",
+        "EventDrop": "IC6013,IC6014,IC6015,IC6016,IC6017",
+        "DropAmount": "大量,中量,中量,少量,少量",
+        "Describe": "金曜日開放 ",
+        "DailyEventType": "2",
+        "bgm": "201_Battle_Fused"
+    },
+    {
+        "EventID": "DVE020601",
+        "EventName": "改造工場 - イージー",
+        "LvRec": "5",
+        "EventDrop": "IM3001,IM3011,IC6023,IC6027",
+        "DropAmount": "大量,中量,少量,少量",
+        "Describe": "土曜日開放 ",
+        "DailyEventType": "2",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "EventID": "DVE020602",
+        "EventName": "改造工場 - ノーマル",
+        "LvRec": "20",
+        "EventDrop": "IM3001,IM3011,IC6023,IC6024,IC6025,IC6027",
+        "DropAmount": "大量,大量,中量,中量,少量,少量",
+        "Describe": "土曜日開放 ",
+        "DailyEventType": "2",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "EventID": "DVE020603",
+        "EventName": "改造工場 - ハード",
+        "LvRec": "40",
+        "EventDrop": "IM3011,IC6023,IC6024,IC6025,IC6026,IC6027",
+        "DropAmount": "大量,大量,中量,中量,少量,少量",
+        "Describe": "土曜日開放 ",
+        "DailyEventType": "2",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "EventID": "DVE020604",
+        "EventName": "改造工場 - エクストラ",
+        "LvRec": "60",
+        "EventDrop": "IC6023,IC6024,IC6025,IC6026,IC6027",
+        "DropAmount": "大量,中量,中量,少量,少量",
+        "Describe": "土曜日開放 ",
+        "DailyEventType": "2",
+        "bgm": "201_Battle_Fused"
+    },
+    {
+        "EventID": "DVE020701",
+        "EventName": "改造工場 - イージー",
+        "LvRec": "5",
+        "EventDrop": "IM3001,IM3011,IC6003,IC6007",
+        "DropAmount": "大量,中量,少量,少量",
+        "Describe": "日曜日開放 ",
+        "DailyEventType": "2",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "EventID": "DVE020702",
+        "EventName": "改造工場 - ノーマル",
+        "LvRec": "20",
+        "EventDrop": "IM3001,IM3011,IC6003,IC6004,IC6005,IC6007",
+        "DropAmount": "大量,大量,中量,中量,少量,少量",
+        "Describe": "日曜日開放 ",
+        "DailyEventType": "2",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "EventID": "DVE020703",
+        "EventName": "改造工場 - ハード",
+        "LvRec": "40",
+        "EventDrop": "IM3011,IC6003,IC6004,IC6005,IC6006,IC6007",
+        "DropAmount": "大量,大量,中量,中量,少量,少量",
+        "Describe": "日曜日開放 ",
+        "DailyEventType": "2",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "EventID": "DVE020704",
+        "EventName": "改造工場 - エクストラ",
+        "LvRec": "60",
+        "EventDrop": "IC6003,IC6004,IC6005,IC6006,IC6007",
+        "DropAmount": "大量,中量,中量,少量,少量",
+        "Describe": "日曜日開放 ",
+        "DailyEventType": "2",
+        "bgm": "201_Battle_Fused"
+    },
+    {
+        "EventID": "DVE030101",
+        "EventName": "戦術訓練- イージー",
+        "LvRec": "5",
+        "EventDrop": "IM2001,IM2011,IM2002,IM2012",
+        "DropAmount": "中量,少量,中量,少量",
+        "Describe": "月曜日開放 ",
+        "DailyEventType": "3",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "EventID": "DVE030102",
+        "EventName": "戦術訓練- ノーマル",
+        "LvRec": "20",
+        "EventDrop": "IM2001,IM2011,IM2002,IM2012",
+        "DropAmount": "大量,中量,大量,中量",
+        "Describe": "月曜日開放 ",
+        "DailyEventType": "3",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "EventID": "DVE030103",
+        "EventName": "戦術訓練- ハード",
+        "LvRec": "40",
+        "EventDrop": "IM2011,IM2021,IM2012,IM2022",
+        "DropAmount": "中量,少量,中量,少量",
+        "Describe": "月曜日開放 ",
+        "DailyEventType": "3",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "EventID": "DVE030104",
+        "EventName": "戦術訓練- エクストラ",
+        "LvRec": "60",
+        "EventDrop": "IM2011,IM2021,IM2012,IM2022",
+        "DropAmount": "大量,中量,大量,中量",
+        "Describe": "月曜日開放 ",
+        "DailyEventType": "3",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "EventID": "DVE030201",
+        "EventName": "戦術訓練- イージー",
+        "LvRec": "5",
+        "EventDrop": "IM2002,IM2012,IM2003,IM2013",
+        "DropAmount": "中量,少量,中量,少量",
+        "Describe": "火曜日開放 ",
+        "DailyEventType": "3",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "EventID": "DVE030202",
+        "EventName": "戦術訓練- ノーマル",
+        "LvRec": "20",
+        "EventDrop": "IM2002,IM2012,IM2003,IM2013",
+        "DropAmount": "大量,中量,大量,中量",
+        "Describe": "火曜日開放 ",
+        "DailyEventType": "3",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "EventID": "DVE030203",
+        "EventName": "戦術訓練- ハード",
+        "LvRec": "40",
+        "EventDrop": "IM2012,IM2022,IM2013,IM2023",
+        "DropAmount": "中量,少量,中量,少量",
+        "Describe": "火曜日開放 ",
+        "DailyEventType": "3",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "EventID": "DVE030204",
+        "EventName": "戦術訓練- エクストラ",
+        "LvRec": "60",
+        "EventDrop": "IM2012,IM2022,IM2013,IM2023",
+        "DropAmount": "大量,中量,大量,中量",
+        "Describe": "火曜日開放 ",
+        "DailyEventType": "3",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "EventID": "DVE030301",
+        "EventName": "戦術訓練- イージー",
+        "LvRec": "5",
+        "EventDrop": "IM2003,IM2013,IM2004,IM2014",
+        "DropAmount": "中量,少量,中量,少量",
+        "Describe": "水曜日開放 ",
+        "DailyEventType": "3",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "EventID": "DVE030302",
+        "EventName": "戦術訓練- ノーマル",
+        "LvRec": "20",
+        "EventDrop": "IM2003,IM2013,IM2004,IM2014",
+        "DropAmount": "大量,中量,大量,中量",
+        "Describe": "水曜日開放 ",
+        "DailyEventType": "3",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "EventID": "DVE030303",
+        "EventName": "戦術訓練- ハード",
+        "LvRec": "40",
+        "EventDrop": "IM2013,IM2023,IM2014,IM2024",
+        "DropAmount": "中量,少量,中量,少量",
+        "Describe": "水曜日開放 ",
+        "DailyEventType": "3",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "EventID": "DVE030304",
+        "EventName": "戦術訓練- エクストラ",
+        "LvRec": "60",
+        "EventDrop": "IM2013,IM2023,IM2014,IM2024",
+        "DropAmount": "大量,中量,大量,中量",
+        "Describe": "水曜日開放 ",
+        "DailyEventType": "3",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "EventID": "DVE030401",
+        "EventName": "戦術訓練- イージー",
+        "LvRec": "5",
+        "EventDrop": "IM2004,IM2014,IM2005,IM2015",
+        "DropAmount": "中量,少量,中量,少量",
+        "Describe": "木曜日開放 ",
+        "DailyEventType": "3",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "EventID": "DVE030402",
+        "EventName": "戦術訓練- ノーマル",
+        "LvRec": "20",
+        "EventDrop": "IM2004,IM2014,IM2005,IM2015",
+        "DropAmount": "大量,中量,大量,中量",
+        "Describe": "木曜日開放 ",
+        "DailyEventType": "3",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "EventID": "DVE030403",
+        "EventName": "戦術訓練- ハード",
+        "LvRec": "40",
+        "EventDrop": "IM2014,IM2024,IM2015,IM2025",
+        "DropAmount": "中量,少量,中量,少量",
+        "Describe": "木曜日開放 ",
+        "DailyEventType": "3",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "EventID": "DVE030404",
+        "EventName": "戦術訓練- エクストラ",
+        "LvRec": "60",
+        "EventDrop": "IM2014,IM2024,IM2015,IM2025",
+        "DropAmount": "大量,中量,大量,中量",
+        "Describe": "木曜日開放 ",
+        "DailyEventType": "3",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "EventID": "DVE030501",
+        "EventName": "戦術訓練- イージー",
+        "LvRec": "5",
+        "EventDrop": "IM2005,IM2015,IM2006,IM2016",
+        "DropAmount": "中量,少量,中量,少量",
+        "Describe": "金曜日開放 ",
+        "DailyEventType": "3",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "EventID": "DVE030502",
+        "EventName": "戦術訓練- ノーマル",
+        "LvRec": "20",
+        "EventDrop": "IM2005,IM2015,IM2006,IM2016",
+        "DropAmount": "大量,中量,大量,中量",
+        "Describe": "金曜日開放 ",
+        "DailyEventType": "3",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "EventID": "DVE030503",
+        "EventName": "戦術訓練- ハード",
+        "LvRec": "40",
+        "EventDrop": "IM2015,IM2025,IM2016,IM2026",
+        "DropAmount": "中量,少量,中量,少量",
+        "Describe": "金曜日開放 ",
+        "DailyEventType": "3",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "EventID": "DVE030504",
+        "EventName": "戦術訓練- エクストラ",
+        "LvRec": "60",
+        "EventDrop": "IM2015,IM2025,IM2016,IM2026",
+        "DropAmount": "大量,中量,大量,中量",
+        "Describe": "金曜日開放 ",
+        "DailyEventType": "3",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "EventID": "DVE030601",
+        "EventName": "戦術訓練- イージー",
+        "LvRec": "5",
+        "EventDrop": "IM2006,IM2016,IM2007,IM2017",
+        "DropAmount": "中量,少量,中量,少量",
+        "Describe": "土曜日開放 ",
+        "DailyEventType": "3",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "EventID": "DVE030602",
+        "EventName": "戦術訓練- ノーマル",
+        "LvRec": "20",
+        "EventDrop": "IM2006,IM2016,IM2007,IM2017",
+        "DropAmount": "大量,中量,大量,中量",
+        "Describe": "土曜日開放 ",
+        "DailyEventType": "3",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "EventID": "DVE030603",
+        "EventName": "戦術訓練- ハード",
+        "LvRec": "40",
+        "EventDrop": "IM2016,IM2026,IM2017,IM2027",
+        "DropAmount": "中量,少量,中量,少量",
+        "Describe": "土曜日開放 ",
+        "DailyEventType": "3",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "EventID": "DVE030604",
+        "EventName": "戦術訓練- エクストラ",
+        "LvRec": "60",
+        "EventDrop": "IM2016,IM2026,IM2017,IM2027",
+        "DropAmount": "大量,中量,大量,中量",
+        "Describe": "土曜日開放 ",
+        "DailyEventType": "3",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "EventID": "DVE030701",
+        "EventName": "戦術訓練- イージー",
+        "LvRec": "5",
+        "EventDrop": "IM2007,IM2017,IM2001,IM2011",
+        "DropAmount": "中量,少量,中量,少量",
+        "Describe": "日曜日開放 ",
+        "DailyEventType": "3",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "EventID": "DVE030702",
+        "EventName": "戦術訓練- ノーマル",
+        "LvRec": "20",
+        "EventDrop": "IM2007,IM2017,IM2001,IM2011",
+        "DropAmount": "大量,中量,大量,中量",
+        "Describe": "日曜日開放 ",
+        "DailyEventType": "3",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "EventID": "DVE030703",
+        "EventName": "戦術訓練- ハード",
+        "LvRec": "40",
+        "EventDrop": "IM2017,IM2027,IM2011,IM2021",
+        "DropAmount": "中量,少量,中量,少量",
+        "Describe": "日曜日開放 ",
+        "DailyEventType": "3",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "EventID": "DVE030704",
+        "EventName": "戦術訓練- エクストラ",
+        "LvRec": "60",
+        "EventDrop": "IM2017,IM2027,IM2011,IM2021",
+        "DropAmount": "大量,中量,大量,中量",
+        "Describe": "日曜日開放 ",
+        "DailyEventType": "3",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "EventID": "DVE040201",
+        "EventName": "予算調達 - イージー",
+        "LvRec": "5",
+        "EventDrop": "Res2",
+        "DropAmount": "大量",
+        "Describe": "火曜日開放 ",
+        "DailyEventType": "4",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "EventID": "DVE040202",
+        "EventName": "予算調達 - ノーマル",
+        "LvRec": "20",
+        "EventDrop": "Res2",
+        "DropAmount": "大量",
+        "Describe": "火曜日開放 ",
+        "DailyEventType": "4",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "EventID": "DVE040203",
+        "EventName": "予算調達 - ハード",
+        "LvRec": "40",
+        "EventDrop": "Res2",
+        "DropAmount": "大量",
+        "Describe": "火曜日開放 ",
+        "DailyEventType": "4",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "EventID": "DVE040204",
+        "EventName": "予算調達 - エクストラ",
+        "LvRec": "60",
+        "EventDrop": "Res2",
+        "DropAmount": "大量",
+        "Describe": "火曜日開放 ",
+        "DailyEventType": "4",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "EventID": "DVE040401",
+        "EventName": "予算調達 - イージー",
+        "LvRec": "5",
+        "EventDrop": "Res2",
+        "DropAmount": "大量",
+        "Describe": "木曜日開放 ",
+        "DailyEventType": "4",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "EventID": "DVE040402",
+        "EventName": "予算調達 - ノーマル",
+        "LvRec": "20",
+        "EventDrop": "Res2",
+        "DropAmount": "大量",
+        "Describe": "木曜日開放 ",
+        "DailyEventType": "4",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "EventID": "DVE040403",
+        "EventName": "予算調達 - ハード",
+        "LvRec": "40",
+        "EventDrop": "Res2",
+        "DropAmount": "大量",
+        "Describe": "木曜日開放 ",
+        "DailyEventType": "4",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "EventID": "DVE040404",
+        "EventName": "予算調達 - エクストラ",
+        "LvRec": "60",
+        "EventDrop": "Res2",
+        "DropAmount": "大量",
+        "Describe": "木曜日開放 ",
+        "DailyEventType": "4",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "EventID": "DVE040601",
+        "EventName": "予算調達 - イージー",
+        "LvRec": "5",
+        "EventDrop": "Res2",
+        "DropAmount": "大量",
+        "Describe": "土曜日開放 ",
+        "DailyEventType": "4",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "EventID": "DVE040602",
+        "EventName": "予算調達 - ノーマル",
+        "LvRec": "20",
+        "EventDrop": "Res2",
+        "DropAmount": "大量",
+        "Describe": "土曜日開放 ",
+        "DailyEventType": "4",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "EventID": "DVE040603",
+        "EventName": "予算調達 - ハード",
+        "LvRec": "40",
+        "EventDrop": "Res2",
+        "DropAmount": "大量",
+        "Describe": "土曜日開放 ",
+        "DailyEventType": "4",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "EventID": "DVE040604",
+        "EventName": "予算調達 - エクストラ",
+        "LvRec": "60",
+        "EventDrop": "Res2",
+        "DropAmount": "大量",
+        "Describe": "土曜日開放 ",
+        "DailyEventType": "4",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "EventID": "DVE040701",
+        "EventName": "予算調達 - イージー",
+        "LvRec": "5",
+        "EventDrop": "Res2",
+        "DropAmount": "大量",
+        "Describe": "日曜日開放 ",
+        "DailyEventType": "4",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "EventID": "DVE040702",
+        "EventName": "予算調達 - ノーマル",
+        "LvRec": "20",
+        "EventDrop": "Res2",
+        "DropAmount": "大量",
+        "Describe": "日曜日開放 ",
+        "DailyEventType": "4",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "EventID": "DVE040703",
+        "EventName": "予算調達 - ハード",
+        "LvRec": "40",
+        "EventDrop": "Res2",
+        "DropAmount": "大量",
+        "Describe": "日曜日開放 ",
+        "DailyEventType": "4",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "EventID": "DVE040704",
+        "EventName": "予算調達 - エクストラ",
+        "LvRec": "60",
+        "EventDrop": "Res2",
+        "DropAmount": "大量",
+        "Describe": "日曜日開放 ",
+        "DailyEventType": "4",
+        "bgm": "204_Battle_Mois"
+    }
+]

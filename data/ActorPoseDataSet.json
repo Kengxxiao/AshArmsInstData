@@ -1,0 +1,338 @@
+[
+    {
+        "actorid": "E_8",
+        "buffList": "BPE100",
+        "describe": "boss",
+        "moveFlag": "1",
+        "pose": "1"
+    },
+    {
+        "actorid": "E_8",
+        "buffList": "BPE100",
+        "describe": "boss",
+        "moveFlag": "0",
+        "pose": "2"
+    },
+    {
+        "actorid": "E_1",
+        "buffList": "BPE100",
+        "describe": "战斗机",
+        "moveFlag": "1",
+        "pose": "1"
+    },
+    {
+        "actorid": "E_1",
+        "buffList": "BPE100",
+        "describe": "战斗机",
+        "moveFlag": "1",
+        "pose": "2"
+    },
+    {
+        "actorid": "E_2",
+        "buffList": "BPE100",
+        "describe": "轰炸机",
+        "moveFlag": "1",
+        "pose": "1"
+    },
+    {
+        "actorid": "E_2",
+        "buffList": "BPE100",
+        "describe": "轰炸机",
+        "moveFlag": "1",
+        "pose": "2"
+    },
+    {
+        "actorid": "E_3",
+        "buffList": "BPE100",
+        "describe": "榍石",
+        "moveFlag": "1",
+        "pose": "1"
+    },
+    {
+        "actorid": "E_3",
+        "buffList": "BPE100",
+        "describe": "榍石",
+        "moveFlag": "1",
+        "pose": "2"
+    },
+    {
+        "actorid": "E_4",
+        "buffList": "BPE100",
+        "describe": "坦克",
+        "moveFlag": "1",
+        "pose": "1"
+    },
+    {
+        "actorid": "E_4",
+        "buffList": "BPE100",
+        "describe": "坦克",
+        "moveFlag": "0",
+        "pose": "2"
+    },
+    {
+        "actorid": "E_5",
+        "buffList": "BPE100",
+        "describe": "TD",
+        "moveFlag": "1",
+        "pose": "1"
+    },
+    {
+        "actorid": "E_5",
+        "buffList": "BPE100",
+        "describe": "TD",
+        "moveFlag": "0",
+        "pose": "2"
+    },
+    {
+        "actorid": "E_6",
+        "buffList": "BPE100",
+        "describe": "火炮防空",
+        "moveFlag": "1",
+        "pose": "1"
+    },
+    {
+        "actorid": "E_6",
+        "buffList": "BPE100",
+        "describe": "火炮防空",
+        "moveFlag": "0",
+        "pose": "2"
+    },
+    {
+        "actorid": "P_3",
+        "buffList": "BJP012",
+        "describe": "突击小队*固守",
+        "moveFlag": "0",
+        "pose": "2"
+    },
+    {
+        "actorid": "P_4",
+        "buffList": "BJP011",
+        "describe": "防卫小队*移动",
+        "moveFlag": "1",
+        "pose": "1"
+    },
+    {
+        "actorid": "P_2",
+        "buffList": "BJP022",
+        "describe": "游击小队*固守",
+        "moveFlag": "0",
+        "pose": "2"
+    },
+    {
+        "actorid": "P_3",
+        "buffList": "BJP011",
+        "describe": "突击小队*移动",
+        "moveFlag": "1",
+        "pose": "1"
+    },
+    {
+        "actorid": "P_1",
+        "buffList": "BJP012",
+        "describe": "前线小队*固守",
+        "moveFlag": "0",
+        "pose": "2"
+    },
+    {
+        "actorid": "P_2",
+        "buffList": "BJP021",
+        "describe": "游击小队*移动",
+        "moveFlag": "1",
+        "pose": "1"
+    },
+    {
+        "actorid": "P_1",
+        "buffList": "BJP011",
+        "describe": "前线小队*移动",
+        "moveFlag": "1",
+        "pose": "1"
+    },
+    {
+        "actorid": "P_7",
+        "buffList": "BJP012",
+        "describe": "远程打击*固守",
+        "moveFlag": "0",
+        "pose": "2"
+    },
+    {
+        "actorid": "P_8",
+        "buffList": "BJP011",
+        "describe": "防空小队*移动",
+        "moveFlag": "1",
+        "pose": "1"
+    },
+    {
+        "actorid": "P_6",
+        "buffList": "BJP012",
+        "describe": "伏击小队*固守",
+        "moveFlag": "0",
+        "pose": "2"
+    },
+    {
+        "actorid": "P_7",
+        "buffList": "BJP011",
+        "describe": "远程打击*移动",
+        "moveFlag": "1",
+        "pose": "1"
+    },
+    {
+        "actorid": "P_5",
+        "buffList": "BJP012",
+        "describe": "火力小队*固守",
+        "moveFlag": "0",
+        "pose": "2"
+    },
+    {
+        "actorid": "P_6",
+        "buffList": "BJP011",
+        "describe": "伏击小队*移动",
+        "moveFlag": "1",
+        "pose": "1"
+    },
+    {
+        "actorid": "P_4",
+        "buffList": "BJP012",
+        "describe": "防卫小队*固守",
+        "moveFlag": "0",
+        "pose": "2"
+    },
+    {
+        "actorid": "P_5",
+        "buffList": "BJP011",
+        "describe": "火力小队*移动",
+        "moveFlag": "1",
+        "pose": "1"
+    },
+    {
+        "actorid": "P_9",
+        "buffList": "BJP092",
+        "describe": "阵地哨戒*固守",
+        "moveFlag": "0",
+        "pose": "2"
+    },
+    {
+        "actorid": "P_8",
+        "buffList": "BJP012",
+        "describe": "防空小队*固守",
+        "moveFlag": "0",
+        "pose": "2"
+    },
+    {
+        "actorid": "P_9",
+        "buffList": "BJP091",
+        "describe": "阵地哨戒*移动",
+        "moveFlag": "1",
+        "pose": "1"
+    },
+    {
+        "actorid": "P_14",
+        "buffList": "BJP142",
+        "describe": "对地小队*固守",
+        "moveFlag": "1",
+        "pose": "2"
+    },
+    {
+        "actorid": "P_15",
+        "buffList": "BJP141",
+        "describe": "近接支援*移动",
+        "moveFlag": "1",
+        "pose": "1"
+    },
+    {
+        "actorid": "P_13",
+        "buffList": "BJP102",
+        "describe": "制空小队*固守",
+        "moveFlag": "1",
+        "pose": "2"
+    },
+    {
+        "actorid": "P_14",
+        "buffList": "BJP141",
+        "describe": "对地小队*移动",
+        "moveFlag": "1",
+        "pose": "1"
+    },
+    {
+        "actorid": "P_16",
+        "buffList": "BJP162",
+        "describe": "战略编队*固守",
+        "moveFlag": "1",
+        "pose": "2"
+    },
+    {
+        "actorid": "P_17",
+        "buffList": "BJP161",
+        "describe": "战术编队*移动",
+        "moveFlag": "1",
+        "pose": "1"
+    },
+    {
+        "actorid": "P_15",
+        "buffList": "BJP142",
+        "describe": "近接支援*固守",
+        "moveFlag": "1",
+        "pose": "2"
+    },
+    {
+        "actorid": "P_16",
+        "buffList": "BJP161",
+        "describe": "战略编队*移动",
+        "moveFlag": "1",
+        "pose": "1"
+    },
+    {
+        "actorid": "P_10",
+        "buffList": "BJP102",
+        "describe": "空战小队*固守",
+        "moveFlag": "1",
+        "pose": "2"
+    },
+    {
+        "actorid": "P_11",
+        "buffList": "BJP101",
+        "describe": "侦查小队*移动",
+        "moveFlag": "1",
+        "pose": "1"
+    },
+    {
+        "actorid": "P_10",
+        "buffList": "BJP101",
+        "describe": "空战小队*移动",
+        "moveFlag": "1",
+        "pose": "1"
+    },
+    {
+        "actorid": "P_12",
+        "buffList": "BJP102",
+        "describe": "截击小队*固守",
+        "moveFlag": "1",
+        "pose": "2"
+    },
+    {
+        "actorid": "P_13",
+        "buffList": "BJP101",
+        "describe": "制空小队*移动",
+        "moveFlag": "1",
+        "pose": "1"
+    },
+    {
+        "actorid": "P_11",
+        "buffList": "BJP102",
+        "describe": "侦查小队*固守",
+        "moveFlag": "1",
+        "pose": "2"
+    },
+    {
+        "actorid": "P_12",
+        "buffList": "BJP101",
+        "describe": "截击小队*移动",
+        "moveFlag": "1",
+        "pose": "1"
+    },
+    {
+        "actorid": "P_17",
+        "buffList": "BJP162",
+        "describe": "战术编队*固守",
+        "moveFlag": "1",
+        "pose": "2"
+    }
+]

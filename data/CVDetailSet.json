@@ -1,0 +1,150 @@
+[
+    {
+        "CVType": "Ready1",
+        "CVDetail": "ログイン時挨拶1"
+    },
+    {
+        "CVType": "GoGo",
+        "CVDetail": "編成"
+    },
+    {
+        "CVType": "Launch",
+        "CVDetail": "出撃"
+    },
+    {
+        "CVType": "Change1",
+        "CVDetail": "状態変換1"
+    },
+    {
+        "CVType": "Change2",
+        "CVDetail": "状態変換2"
+    },
+    {
+        "CVType": "LdSkill",
+        "CVDetail": "隊長スキル"
+    },
+    {
+        "CVType": "Attack1",
+        "CVDetail": "通常攻撃1"
+    },
+    {
+        "CVType": "Attack2",
+        "CVDetail": "通常攻撃2"
+    },
+    {
+        "CVType": "Skill1",
+        "CVDetail": "特殊スキル1"
+    },
+    {
+        "CVType": "Skill2",
+        "CVDetail": "特殊スキル2"
+    },
+    {
+        "CVType": "SPSkill",
+        "CVDetail": "CAスキル"
+    },
+    {
+        "CVType": "Win",
+        "CVDetail": "勝利"
+    },
+    {
+        "CVType": "Lose",
+        "CVDetail": "敗北"
+    },
+    {
+        "CVType": "Dmg1",
+        "CVDetail": "被弾1"
+    },
+    {
+        "CVType": "Dmg2",
+        "CVDetail": "被弾2"
+    },
+    {
+        "CVType": "Miss",
+        "CVDetail": "被弾せず"
+    },
+    {
+        "CVType": "Dead",
+        "CVDetail": "戦闘不能"
+    },
+    {
+        "CVType": "LvUP",
+        "CVDetail": "レベルアップ"
+    },
+    {
+        "CVType": "MVP",
+        "CVDetail": "MVP獲得"
+    },
+    {
+        "CVType": "Intro",
+        "CVDetail": "入手時"
+    },
+    {
+        "CVType": "Order",
+        "CVDetail": "量産発注"
+    },
+    {
+        "CVType": "PowerUp1",
+        "CVDetail": "強化1"
+    },
+    {
+        "CVType": "PowerUp2",
+        "CVDetail": "強化2"
+    },
+    {
+        "CVType": "PowerUp3",
+        "CVDetail": "強化3"
+    },
+    {
+        "CVType": "RTB",
+        "CVDetail": "戦闘帰還"
+    },
+    {
+        "CVType": "TapHead1",
+        "CVDetail": "タップ/頭1"
+    },
+    {
+        "CVType": "TapBody1",
+        "CVDetail": "タップ/全身1"
+    },
+    {
+        "CVType": "TapBody2",
+        "CVDetail": "タップ/全身2"
+    },
+    {
+        "CVType": "TapBody3",
+        "CVDetail": "タップ/全身3"
+    },
+    {
+        "CVType": "Mail",
+        "CVDetail": "メール"
+    },
+    {
+        "CVType": "ModificationRockOn",
+        "CVDetail": "改造開放"
+    },
+    {
+        "CVType": "ModificationChange",
+        "CVDetail": "改造"
+    },
+    {
+        "CVType": "Emotion1",
+        "CVDetail": "コマンド選択1"
+    },
+    {
+        "CVType": "Emotion2",
+        "CVDetail": "コマンド選択2"
+    },
+    {
+        "CVType": "Emotion3",
+        "CVDetail": "コマンド選択3"
+    },
+    {
+        "CVType": "Emotion4",
+        "CVDetail": "コマンド選択4"
+    },
+    {
+        "CVType": "Title",
+        "CVDetail": "タイトルコール"
+    }
+]

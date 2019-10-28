@@ -1,0 +1,68 @@
+[
+    {
+        "activityContent": "期間限定    イベント",
+        "activityId": "1",
+        "activityType": "3",
+        "activityTypeId": "99",
+        "endDatetimeT": "1573675199000",
+        "imgIndex": "Event_Quest02",
+        "index": "1",
+        "position": "",
+        "startDatetimeT": "1571860800000"
+    },
+    {
+        "activityContent": "事前登録報酬",
+        "activityId": "51",
+        "activityType": "1",
+        "activityTypeId": "SC1",
+        "endDatetimeT": "0",
+        "imgIndex": "Event_LoginBeginer",
+        "index": "2",
+        "position": "",
+        "startDatetimeT": "0"
+    },
+    {
+        "activityContent": "リリース記念 ログインボーナス",
+        "activityId": "50",
+        "activityType": "1",
+        "activityTypeId": "SC2",
+        "endDatetimeT": "1573675199000",
+        "imgIndex": "Event_Login01",
+        "index": "3",
+        "position": "",
+        "startDatetimeT": "1571860800000"
+    },
+    {
+        "activityContent": "月間          ログインボーナス",
+        "activityId": "101",
+        "activityType": "1",
+        "activityTypeId": "SM1910",
+        "endDatetimeT": "1572551999000",
+        "imgIndex": "Home_Banner_Default",
+        "index": "5",
+        "position": "",
+        "startDatetimeT": "1569873600000"
+    },
+    {
+        "activityContent": "月間          ログインボーナス",
+        "activityId": "102",
+        "activityType": "1",
+        "activityTypeId": "SM1911",
+        "endDatetimeT": "1575143999000",
+        "imgIndex": "Home_Banner_Default",
+        "index": "5",
+        "position": "",
+        "startDatetimeT": "1572552000000"
+    },
+    {
+        "activityContent": "月間          ログインボーナス",
+        "activityId": "103",
+        "activityType": "1",
+        "activityTypeId": "SM1912",
+        "endDatetimeT": "1577822399000",
+        "imgIndex": "Home_Banner_Default",
+        "index": "5",
+        "position": "",
+        "startDatetimeT": "1575144000000"
+    }
+]

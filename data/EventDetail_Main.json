@@ -1,0 +1,1752 @@
+[
+    {
+        "eventID": "EVE000101",
+        "eventName": "00-01",
+        "eventPoint": "EVE000102",
+        "eventTypeCN": "第一节",
+        "landEsid": "SE101",
+        "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "II10001",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EVE000102",
+        "eventName": "00-02",
+        "eventPoint": "EVE000103",
+        "eventTypeCN": "第二节",
+        "landEsid": "SE101",
+        "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "II10001",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EVE000103",
+        "eventName": "00-03",
+        "eventPoint": "EVE000104",
+        "eventTypeCN": "第三节",
+        "landEsid": "SE101",
+        "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10001",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EVE000104",
+        "eventName": "00-04",
+        "eventPoint": "EVE000105",
+        "eventTypeCN": "第四节",
+        "landEsid": "SE101",
+        "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10001",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EVE000105",
+        "eventName": "00-05",
+        "eventPoint": "EVE000106",
+        "eventTypeCN": "第五节",
+        "landEsid": "SE101",
+        "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10001",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EVE000106",
+        "eventName": "00-06",
+        "eventPoint": "EVE000107",
+        "eventTypeCN": "第六节",
+        "landEsid": "SE101",
+        "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10001",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EVE000107",
+        "eventName": "00-07",
+        "eventPoint": "EVE000108",
+        "eventTypeCN": "第七节",
+        "landEsid": "SE101",
+        "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10001",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EVE000108",
+        "eventName": "00-08",
+        "eventPoint": "",
+        "eventTypeCN": "第八节",
+        "landEsid": "SE101",
+        "describe": "環境：荒野\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10001",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EVE010101",
+        "eventName": "01-01",
+        "eventPoint": "EVE010102",
+        "eventTypeCN": "第一节",
+        "landEsid": "SE111",
+        "describe": "環境：遺跡\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10001",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EVE010102",
+        "eventName": "01-02",
+        "eventPoint": "EVE010103",
+        "eventTypeCN": "第二节",
+        "landEsid": "SE111",
+        "describe": "環境：遺跡\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3001,IM3011,II10001",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EVE010103",
+        "eventName": "01-03",
+        "eventPoint": "EVE010104",
+        "eventTypeCN": "第三节",
+        "landEsid": "SE111",
+        "describe": "環境：遺跡\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10001",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EVE010104",
+        "eventName": "01-04",
+        "eventPoint": "EVE010105",
+        "eventTypeCN": "第四节",
+        "landEsid": "SE111",
+        "describe": "環境：遺跡\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3001,IM3011,II10001",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EVE010105",
+        "eventName": "01-05",
+        "eventPoint": "EVE010106",
+        "eventTypeCN": "第五节",
+        "landEsid": "SE111",
+        "describe": "環境：遺跡\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10001",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EVE010106",
+        "eventName": "01-06",
+        "eventPoint": "EVE010107",
+        "eventTypeCN": "第六节",
+        "landEsid": "SE111",
+        "describe": "環境：遺跡\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3001,IM3011,II10001",
+        "bgm": "200_Battle_Wasteland"
+    },
+    {
+        "eventID": "EVE010107",
+        "eventName": "01-07",
+        "eventPoint": "",
+        "eventTypeCN": "第七节",
+        "landEsid": "SE106",
+        "describe": "環境：遺跡\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0100,IC0200,IEE0101,II10001",
+        "bgm": "303_BGM_Crytal_Throne_A"
+    },
+    {
+        "eventID": "EVE020101",
+        "eventName": "02A-01 N",
+        "eventPoint": "EVE020102",
+        "eventTypeCN": "第一节",
+        "landEsid": "SE102",
+        "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EVE020102",
+        "eventName": "02A-02 N",
+        "eventPoint": "EVE020103",
+        "eventTypeCN": "第二节",
+        "landEsid": "SE102",
+        "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3011,IM3101,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EVE020103",
+        "eventName": "02A-03 N",
+        "eventPoint": "EVE020104",
+        "eventTypeCN": "第三节",
+        "landEsid": "SE102",
+        "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EVE020104",
+        "eventName": "02A-04 N",
+        "eventPoint": "EVE020105",
+        "eventTypeCN": "第四节",
+        "landEsid": "SE102",
+        "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3011,IM3101,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EVE020105",
+        "eventName": "02A-05 N",
+        "eventPoint": "EVE020106",
+        "eventTypeCN": "第五节",
+        "landEsid": "SE102",
+        "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0101,IC0201,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EVE020106",
+        "eventName": "02A-06 N",
+        "eventPoint": "EVE020107",
+        "eventTypeCN": "第六节",
+        "landEsid": "SE102",
+        "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3001,IM3011,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EVE020107",
+        "eventName": "02A-07 N",
+        "eventPoint": "EVE020108",
+        "eventTypeCN": "第七节",
+        "landEsid": "SE102",
+        "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3011,IM3101,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EVE020108",
+        "eventName": "02A-08 N",
+        "eventPoint": "EVE020109",
+        "eventTypeCN": "第八节",
+        "landEsid": "SE112",
+        "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3001,IM3011,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EVE020109",
+        "eventName": "02A-09 N",
+        "eventPoint": "EVE020110",
+        "eventTypeCN": "第九节",
+        "landEsid": "SE112",
+        "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3011,IM3101,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EVE020110",
+        "eventName": "02A-10 N",
+        "eventPoint": "",
+        "eventTypeCN": "第十节",
+        "landEsid": "SE112",
+        "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0101,IC0201,IM3202,IEE0102,II10002",
+        "bgm": "301_BGM_Dark_Bride_Full"
+    },
+    {
+        "eventID": "EVE020201",
+        "eventName": "02A-01 H",
+        "eventPoint": "EVE020202",
+        "eventTypeCN": "第一节",
+        "landEsid": "SE102",
+        "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3011,IM3101,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EVE020202",
+        "eventName": "02A-02 H",
+        "eventPoint": "EVE020203",
+        "eventTypeCN": "第二节",
+        "landEsid": "SE102",
+        "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3101,IM3111,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EVE020203",
+        "eventName": "02A-03 H",
+        "eventPoint": "EVE020204",
+        "eventTypeCN": "第三节",
+        "landEsid": "SE102",
+        "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3111,IM3121,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EVE020204",
+        "eventName": "02A-04 H",
+        "eventPoint": "EVE020205",
+        "eventTypeCN": "第四节",
+        "landEsid": "SE102",
+        "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3121,IM3131,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EVE020205",
+        "eventName": "02A-05 H",
+        "eventPoint": "EVE020206",
+        "eventTypeCN": "第五节",
+        "landEsid": "SE102",
+        "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0101,IC0201,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EVE020206",
+        "eventName": "02A-06 H",
+        "eventPoint": "EVE020207",
+        "eventTypeCN": "第六节",
+        "landEsid": "SE102",
+        "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3011,IM3101,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EVE020207",
+        "eventName": "02A-07 H",
+        "eventPoint": "EVE020208",
+        "eventTypeCN": "第七节",
+        "landEsid": "SE102",
+        "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3101,IM3111,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EVE020208",
+        "eventName": "02A-08 H",
+        "eventPoint": "EVE020209",
+        "eventTypeCN": "第八节",
+        "landEsid": "SE112",
+        "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3111,IM3121,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EVE020209",
+        "eventName": "02A-09 H",
+        "eventPoint": "EVE020210",
+        "eventTypeCN": "第九节",
+        "landEsid": "SE112",
+        "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3121,IM3131,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EVE020210",
+        "eventName": "02A-10 H",
+        "eventPoint": "",
+        "eventTypeCN": "第十节",
+        "landEsid": "SE112",
+        "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0101,IC0201,IM3202,IEE0102,II10002",
+        "bgm": "301_BGM_Dark_Bride_Full"
+    },
+    {
+        "eventID": "EVE030101",
+        "eventName": "03A-01 N",
+        "eventPoint": "EVE030102",
+        "eventTypeCN": "第一节",
+        "landEsid": "SE103",
+        "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "eventID": "EVE030102",
+        "eventName": "03A-02 N",
+        "eventPoint": "EVE030103",
+        "eventTypeCN": "第二节",
+        "landEsid": "SE103",
+        "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3011,IM3102,II10002",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "eventID": "EVE030103",
+        "eventName": "03A-03 N",
+        "eventPoint": "EVE030104",
+        "eventTypeCN": "第三节",
+        "landEsid": "SE103",
+        "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "eventID": "EVE030104",
+        "eventName": "03A-04 N",
+        "eventPoint": "EVE030105",
+        "eventTypeCN": "第四节",
+        "landEsid": "SE103",
+        "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3011,IM3102,II10002",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "eventID": "EVE030105",
+        "eventName": "03A-05 N",
+        "eventPoint": "EVE030106",
+        "eventTypeCN": "第五节",
+        "landEsid": "SE103",
+        "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0101,IC0201,II10002",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "eventID": "EVE030106",
+        "eventName": "03A-06 N",
+        "eventPoint": "EVE030107",
+        "eventTypeCN": "第六节",
+        "landEsid": "SE103",
+        "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3001,IM3011,II10002",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "eventID": "EVE030107",
+        "eventName": "03A-07 N",
+        "eventPoint": "EVE030108",
+        "eventTypeCN": "第七节",
+        "landEsid": "SE103",
+        "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3011,IM3102,II10002",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "eventID": "EVE030108",
+        "eventName": "03A-08 N",
+        "eventPoint": "EVE030109",
+        "eventTypeCN": "第八节",
+        "landEsid": "SE113",
+        "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3001,IM3011,II10002",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "eventID": "EVE030109",
+        "eventName": "03A-09 N",
+        "eventPoint": "EVE030110",
+        "eventTypeCN": "第九节",
+        "landEsid": "SE113",
+        "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3011,IM3102,II10002",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "eventID": "EVE030110",
+        "eventName": "03A-10 N",
+        "eventPoint": "",
+        "eventTypeCN": "第十节",
+        "landEsid": "SE113",
+        "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0101,IC0201,IM3203,IEE0103,II10002",
+        "bgm": "302_BGM_Snow_Bride_Full"
+    },
+    {
+        "eventID": "EVE030201",
+        "eventName": "03A-01 H",
+        "eventPoint": "EVE030202",
+        "eventTypeCN": "第一节",
+        "landEsid": "SE103",
+        "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3011,IM3102,II10002",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "eventID": "EVE030202",
+        "eventName": "03A-02 H",
+        "eventPoint": "EVE030203",
+        "eventTypeCN": "第二节",
+        "landEsid": "SE103",
+        "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3102,IM3112,II10002",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "eventID": "EVE030203",
+        "eventName": "03A-03 H",
+        "eventPoint": "EVE030204",
+        "eventTypeCN": "第三节",
+        "landEsid": "SE103",
+        "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3112,IM3122,II10002",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "eventID": "EVE030204",
+        "eventName": "03A-04 H",
+        "eventPoint": "EVE030205",
+        "eventTypeCN": "第四节",
+        "landEsid": "SE103",
+        "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3122,IM3132,II10002",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "eventID": "EVE030205",
+        "eventName": "03A-05 H",
+        "eventPoint": "EVE030206",
+        "eventTypeCN": "第五节",
+        "landEsid": "SE103",
+        "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0101,IC0201,II10002",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "eventID": "EVE030206",
+        "eventName": "03A-06 H",
+        "eventPoint": "EVE030207",
+        "eventTypeCN": "第六节",
+        "landEsid": "SE103",
+        "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3011,IM3102,II10002",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "eventID": "EVE030207",
+        "eventName": "03A-07 H",
+        "eventPoint": "EVE030208",
+        "eventTypeCN": "第七节",
+        "landEsid": "SE103",
+        "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3102,IM3112,II10002",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "eventID": "EVE030208",
+        "eventName": "03A-08 H",
+        "eventPoint": "EVE030209",
+        "eventTypeCN": "第八节",
+        "landEsid": "SE113",
+        "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3112,IM3122,II10002",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "eventID": "EVE030209",
+        "eventName": "03A-09 H",
+        "eventPoint": "EVE030210",
+        "eventTypeCN": "第九节",
+        "landEsid": "SE113",
+        "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3122,IM3132,II10002",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "eventID": "EVE030210",
+        "eventName": "03A-10 H",
+        "eventPoint": "",
+        "eventTypeCN": "第十节",
+        "landEsid": "SE113",
+        "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0101,IC0201,IM3203,IEE0103,II10002",
+        "bgm": "302_BGM_Snow_Bride_Full"
+    },
+    {
+        "eventID": "EVE040101",
+        "eventName": "04A-01 N",
+        "eventPoint": "EVE040102",
+        "eventTypeCN": "第一节",
+        "landEsid": "SE104",
+        "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "201_Battle_Fused"
+    },
+    {
+        "eventID": "EVE040102",
+        "eventName": "04A-02 N",
+        "eventPoint": "EVE040103",
+        "eventTypeCN": "第二节",
+        "landEsid": "SE104",
+        "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3011,IM3103,II10002",
+        "bgm": "201_Battle_Fused"
+    },
+    {
+        "eventID": "EVE040103",
+        "eventName": "04A-03 N",
+        "eventPoint": "EVE040104",
+        "eventTypeCN": "第三节",
+        "landEsid": "SE104",
+        "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "201_Battle_Fused"
+    },
+    {
+        "eventID": "EVE040104",
+        "eventName": "04A-04 N",
+        "eventPoint": "EVE040105",
+        "eventTypeCN": "第四节",
+        "landEsid": "SE104",
+        "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3011,IM3103,II10002",
+        "bgm": "201_Battle_Fused"
+    },
+    {
+        "eventID": "EVE040105",
+        "eventName": "04A-05 N",
+        "eventPoint": "EVE040106",
+        "eventTypeCN": "第五节",
+        "landEsid": "SE104",
+        "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0102,IC0202,II10002",
+        "bgm": "201_Battle_Fused"
+    },
+    {
+        "eventID": "EVE040106",
+        "eventName": "04A-06 N",
+        "eventPoint": "EVE040107",
+        "eventTypeCN": "第六节",
+        "landEsid": "SE104",
+        "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3001,IM3011,II10002",
+        "bgm": "201_Battle_Fused"
+    },
+    {
+        "eventID": "EVE040107",
+        "eventName": "04A-07 N",
+        "eventPoint": "EVE040108",
+        "eventTypeCN": "第七节",
+        "landEsid": "SE104",
+        "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3011,IM3103,II10002",
+        "bgm": "201_Battle_Fused"
+    },
+    {
+        "eventID": "EVE040108",
+        "eventName": "04A-08 N",
+        "eventPoint": "EVE040109",
+        "eventTypeCN": "第八节",
+        "landEsid": "SE114",
+        "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3001,IM3011,II10002",
+        "bgm": "201_Battle_Fused"
+    },
+    {
+        "eventID": "EVE040109",
+        "eventName": "04A-09 N",
+        "eventPoint": "EVE040110",
+        "eventTypeCN": "第九节",
+        "landEsid": "SE114",
+        "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3011,IM3103,II10002",
+        "bgm": "201_Battle_Fused"
+    },
+    {
+        "eventID": "EVE040110",
+        "eventName": "04A-10 N",
+        "eventPoint": "",
+        "eventTypeCN": "第十节",
+        "landEsid": "SE114",
+        "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0102,IC0202,IM3204,IEE0104,II10002",
+        "bgm": "305_BGM_Sword_Tyrant_Full"
+    },
+    {
+        "eventID": "EVE040201",
+        "eventName": "04A-01 H",
+        "eventPoint": "EVE040202",
+        "eventTypeCN": "第一节",
+        "landEsid": "SE104",
+        "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3011,IM3103,II10002",
+        "bgm": "201_Battle_Fused"
+    },
+    {
+        "eventID": "EVE040202",
+        "eventName": "04A-02 H",
+        "eventPoint": "EVE040203",
+        "eventTypeCN": "第二节",
+        "landEsid": "SE104",
+        "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3103,IM3113,II10002",
+        "bgm": "201_Battle_Fused"
+    },
+    {
+        "eventID": "EVE040203",
+        "eventName": "04A-03 H",
+        "eventPoint": "EVE040204",
+        "eventTypeCN": "第三节",
+        "landEsid": "SE104",
+        "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3113,IM3123,II10002",
+        "bgm": "201_Battle_Fused"
+    },
+    {
+        "eventID": "EVE040204",
+        "eventName": "04A-04 H",
+        "eventPoint": "EVE040205",
+        "eventTypeCN": "第四节",
+        "landEsid": "SE104",
+        "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3123,IM3133,II10002",
+        "bgm": "201_Battle_Fused"
+    },
+    {
+        "eventID": "EVE040205",
+        "eventName": "04A-05 H",
+        "eventPoint": "EVE040206",
+        "eventTypeCN": "第五节",
+        "landEsid": "SE104",
+        "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0102,IC0202,II10002",
+        "bgm": "201_Battle_Fused"
+    },
+    {
+        "eventID": "EVE040206",
+        "eventName": "04A-06 H",
+        "eventPoint": "EVE040207",
+        "eventTypeCN": "第六节",
+        "landEsid": "SE104",
+        "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3011,IM3103,II10002",
+        "bgm": "201_Battle_Fused"
+    },
+    {
+        "eventID": "EVE040207",
+        "eventName": "04A-07 H",
+        "eventPoint": "EVE040208",
+        "eventTypeCN": "第七节",
+        "landEsid": "SE104",
+        "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3103,IM3113,II10002",
+        "bgm": "201_Battle_Fused"
+    },
+    {
+        "eventID": "EVE040208",
+        "eventName": "04A-08 H",
+        "eventPoint": "EVE040209",
+        "eventTypeCN": "第八节",
+        "landEsid": "SE114",
+        "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3113,IM3123,II10002",
+        "bgm": "201_Battle_Fused"
+    },
+    {
+        "eventID": "EVE040209",
+        "eventName": "04A-09 H",
+        "eventPoint": "EVE040210",
+        "eventTypeCN": "第九节",
+        "landEsid": "SE114",
+        "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3123,IM3133,II10002",
+        "bgm": "201_Battle_Fused"
+    },
+    {
+        "eventID": "EVE040210",
+        "eventName": "04A-10 H",
+        "eventPoint": "",
+        "eventTypeCN": "第十节",
+        "landEsid": "SE114",
+        "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0102,IC0202,IM3204,IEE0104,II10002",
+        "bgm": "305_BGM_Sword_Tyrant_Full"
+    },
+    {
+        "eventID": "EVE050101",
+        "eventName": "05A-01 N",
+        "eventPoint": "EVE050102",
+        "eventTypeCN": "第一节",
+        "landEsid": "SE105",
+        "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EVE050102",
+        "eventName": "05A-02 N",
+        "eventPoint": "EVE050103",
+        "eventTypeCN": "第二节",
+        "landEsid": "SE105",
+        "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3011,IM3104,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EVE050103",
+        "eventName": "05A-03 N",
+        "eventPoint": "EVE050104",
+        "eventTypeCN": "第三节",
+        "landEsid": "SE105",
+        "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EVE050104",
+        "eventName": "05A-04 N",
+        "eventPoint": "EVE050105",
+        "eventTypeCN": "第四节",
+        "landEsid": "SE105",
+        "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3011,IM3104,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EVE050105",
+        "eventName": "05A-05 N",
+        "eventPoint": "EVE050106",
+        "eventTypeCN": "第五节",
+        "landEsid": "SE105",
+        "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0102,IC0202,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EVE050106",
+        "eventName": "05A-06 N",
+        "eventPoint": "EVE050107",
+        "eventTypeCN": "第六节",
+        "landEsid": "SE105",
+        "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3001,IM3011,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EVE050107",
+        "eventName": "05A-07 N",
+        "eventPoint": "EVE050108",
+        "eventTypeCN": "第七节",
+        "landEsid": "SE105",
+        "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3011,IM3104,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EVE050108",
+        "eventName": "05A-08 N",
+        "eventPoint": "EVE050109",
+        "eventTypeCN": "第八节",
+        "landEsid": "SE115",
+        "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3001,IM3011,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EVE050109",
+        "eventName": "05A-09 N",
+        "eventPoint": "EVE050110",
+        "eventTypeCN": "第九节",
+        "landEsid": "SE115",
+        "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3011,IM3104,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EVE050110",
+        "eventName": "05A-10 N",
+        "eventPoint": "",
+        "eventTypeCN": "第十节",
+        "landEsid": "SE115",
+        "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0102,IC0202,IM3205,IEE0105,II10002",
+        "bgm": "306_BGM_Despair_Corridor_Full"
+    },
+    {
+        "eventID": "EVE050201",
+        "eventName": "05A-01 H",
+        "eventPoint": "EVE050202",
+        "eventTypeCN": "第一节",
+        "landEsid": "SE105",
+        "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3011,IM3104,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EVE050202",
+        "eventName": "05A-02 H",
+        "eventPoint": "EVE050203",
+        "eventTypeCN": "第二节",
+        "landEsid": "SE105",
+        "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3104,IM3114,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EVE050203",
+        "eventName": "05A-03 H",
+        "eventPoint": "EVE050204",
+        "eventTypeCN": "第三节",
+        "landEsid": "SE105",
+        "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3114,IM3124,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EVE050204",
+        "eventName": "05A-04 H",
+        "eventPoint": "EVE050205",
+        "eventTypeCN": "第四节",
+        "landEsid": "SE105",
+        "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3124,IM3134,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EVE050205",
+        "eventName": "05A-05 H",
+        "eventPoint": "EVE050206",
+        "eventTypeCN": "第五节",
+        "landEsid": "SE105",
+        "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0102,IC0202,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EVE050206",
+        "eventName": "05A-06 H",
+        "eventPoint": "EVE050207",
+        "eventTypeCN": "第六节",
+        "landEsid": "SE105",
+        "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3011,IM3104,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EVE050207",
+        "eventName": "05A-07 H",
+        "eventPoint": "EVE050208",
+        "eventTypeCN": "第七节",
+        "landEsid": "SE105",
+        "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3104,IM3114,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EVE050208",
+        "eventName": "05A-08 H",
+        "eventPoint": "EVE050209",
+        "eventTypeCN": "第八节",
+        "landEsid": "SE115",
+        "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3114,IM3124,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EVE050209",
+        "eventName": "05A-09 H",
+        "eventPoint": "EVE050210",
+        "eventTypeCN": "第九节",
+        "landEsid": "SE115",
+        "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3124,IM3134,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EVE050210",
+        "eventName": "05A-10 H",
+        "eventPoint": "",
+        "eventTypeCN": "第十节",
+        "landEsid": "SE115",
+        "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0102,IC0202,IM3205,IEE0105,II10002",
+        "bgm": "306_BGM_Despair_Corridor_Full"
+    },
+    {
+        "eventID": "EVE060101",
+        "eventName": "02B-01 N",
+        "eventPoint": "EVE060102",
+        "eventTypeCN": "第一节",
+        "landEsid": "SE102",
+        "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EVE060102",
+        "eventName": "02B-02 N",
+        "eventPoint": "EVE060103",
+        "eventTypeCN": "第二节",
+        "landEsid": "SE102",
+        "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3011,IM3101,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EVE060103",
+        "eventName": "02B-03 N",
+        "eventPoint": "EVE060104",
+        "eventTypeCN": "第三节",
+        "landEsid": "SE102",
+        "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3101,IM3111,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EVE060104",
+        "eventName": "02B-04 N",
+        "eventPoint": "EVE060105",
+        "eventTypeCN": "第四节",
+        "landEsid": "SE102",
+        "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3111,IM3121,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EVE060105",
+        "eventName": "02B-05 N",
+        "eventPoint": "EVE060106",
+        "eventTypeCN": "第五节",
+        "landEsid": "SE102",
+        "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0101,IC0201,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EVE060106",
+        "eventName": "02B-06 N",
+        "eventPoint": "EVE060107",
+        "eventTypeCN": "第六节",
+        "landEsid": "SE102",
+        "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3001,IM3011,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EVE060107",
+        "eventName": "02B-07 N",
+        "eventPoint": "EVE060108",
+        "eventTypeCN": "第七节",
+        "landEsid": "SE102",
+        "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3011,IM3101,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EVE060108",
+        "eventName": "02B-08 N",
+        "eventPoint": "EVE060109",
+        "eventTypeCN": "第八节",
+        "landEsid": "SE112",
+        "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3101,IM3111,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EVE060109",
+        "eventName": "02B-09 N",
+        "eventPoint": "EVE060110",
+        "eventTypeCN": "第九节",
+        "landEsid": "SE112",
+        "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3111,IM3121,II10002",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EVE060110",
+        "eventName": "02B-10 N",
+        "eventPoint": "",
+        "eventTypeCN": "第十节",
+        "landEsid": "SE112",
+        "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0101,IC0201,IM3202,IEE0102,II10002",
+        "bgm": "301_BGM_Dark_Bride_Full"
+    },
+    {
+        "eventID": "EVE060201",
+        "eventName": "02B-01 H",
+        "eventPoint": "EVE060202",
+        "eventTypeCN": "第一节",
+        "landEsid": "SE102",
+        "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3101,IM3111,II10003",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EVE060202",
+        "eventName": "02B-02 H",
+        "eventPoint": "EVE060203",
+        "eventTypeCN": "第二节",
+        "landEsid": "SE102",
+        "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3111,IM3121,II10003",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EVE060203",
+        "eventName": "02B-03 H",
+        "eventPoint": "EVE060204",
+        "eventTypeCN": "第三节",
+        "landEsid": "SE102",
+        "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3121,IM3131,II10003",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EVE060204",
+        "eventName": "02B-04 H",
+        "eventPoint": "EVE060205",
+        "eventTypeCN": "第四节",
+        "landEsid": "SE102",
+        "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3101,IM3111,II10003",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EVE060205",
+        "eventName": "02B-05 H",
+        "eventPoint": "EVE060206",
+        "eventTypeCN": "第五节",
+        "landEsid": "SE102",
+        "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0101,IC0201,IM3111,IM3121,II10003",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EVE060206",
+        "eventName": "02B-06 H",
+        "eventPoint": "EVE060207",
+        "eventTypeCN": "第六节",
+        "landEsid": "SE102",
+        "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3121,IM3131,II10003",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EVE060207",
+        "eventName": "02B-07 H",
+        "eventPoint": "EVE060208",
+        "eventTypeCN": "第七节",
+        "landEsid": "SE102",
+        "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3101,IM3111,II10003",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EVE060208",
+        "eventName": "02B-08 H",
+        "eventPoint": "EVE060209",
+        "eventTypeCN": "第八节",
+        "landEsid": "SE112",
+        "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3111,IM3121,II10003",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EVE060209",
+        "eventName": "02B-09 H",
+        "eventPoint": "EVE060210",
+        "eventTypeCN": "第九节",
+        "landEsid": "SE112",
+        "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3121,IM3131,II10003",
+        "bgm": "202_Battle_Heat"
+    },
+    {
+        "eventID": "EVE060210",
+        "eventName": "02B-10 H",
+        "eventPoint": "",
+        "eventTypeCN": "第十节",
+        "landEsid": "SE112",
+        "describe": "環境：砂地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0101,IC0201,IM3202,IEE0102,II10003",
+        "bgm": "301_BGM_Dark_Bride_Full"
+    },
+    {
+        "eventID": "EVE070101",
+        "eventName": "03B-01 N",
+        "eventPoint": "EVE070102",
+        "eventTypeCN": "第一节",
+        "landEsid": "SE103",
+        "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "eventID": "EVE070102",
+        "eventName": "03B-02 N",
+        "eventPoint": "EVE070103",
+        "eventTypeCN": "第二节",
+        "landEsid": "SE103",
+        "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3011,IM3102,II10002",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "eventID": "EVE070103",
+        "eventName": "03B-03 N",
+        "eventPoint": "EVE070104",
+        "eventTypeCN": "第三节",
+        "landEsid": "SE103",
+        "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3102,IM3112,II10002",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "eventID": "EVE070104",
+        "eventName": "03B-04 N",
+        "eventPoint": "EVE070105",
+        "eventTypeCN": "第四节",
+        "landEsid": "SE103",
+        "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3112,IM3122,II10002",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "eventID": "EVE070105",
+        "eventName": "03B-05 N",
+        "eventPoint": "EVE070106",
+        "eventTypeCN": "第五节",
+        "landEsid": "SE103",
+        "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0101,IC0201,II10002",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "eventID": "EVE070106",
+        "eventName": "03B-06 N",
+        "eventPoint": "EVE070107",
+        "eventTypeCN": "第六节",
+        "landEsid": "SE103",
+        "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3001,IM3011,II10002",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "eventID": "EVE070107",
+        "eventName": "03B-07 N",
+        "eventPoint": "EVE070108",
+        "eventTypeCN": "第七节",
+        "landEsid": "SE103",
+        "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3011,IM3102,II10002",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "eventID": "EVE070108",
+        "eventName": "03B-08 N",
+        "eventPoint": "EVE070109",
+        "eventTypeCN": "第八节",
+        "landEsid": "SE113",
+        "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3102,IM3112,II10002",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "eventID": "EVE070109",
+        "eventName": "03B-09 N",
+        "eventPoint": "EVE070110",
+        "eventTypeCN": "第九节",
+        "landEsid": "SE113",
+        "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3112,IM3122,II10002",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "eventID": "EVE070110",
+        "eventName": "03B-10 N",
+        "eventPoint": "",
+        "eventTypeCN": "第十节",
+        "landEsid": "SE113",
+        "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0101,IC0201,IM3203,IEE0103,II10002",
+        "bgm": "302_BGM_Snow_Bride_Full"
+    },
+    {
+        "eventID": "EVE070201",
+        "eventName": "03B-01 H",
+        "eventPoint": "EVE070202",
+        "eventTypeCN": "第一节",
+        "landEsid": "SE103",
+        "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3102,IM3112,II10003",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "eventID": "EVE070202",
+        "eventName": "03B-02 H",
+        "eventPoint": "EVE070203",
+        "eventTypeCN": "第二节",
+        "landEsid": "SE103",
+        "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3112,IM3122,II10003",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "eventID": "EVE070203",
+        "eventName": "03B-03 H",
+        "eventPoint": "EVE070204",
+        "eventTypeCN": "第三节",
+        "landEsid": "SE103",
+        "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3122,IM3132,II10003",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "eventID": "EVE070204",
+        "eventName": "03B-04 H",
+        "eventPoint": "EVE070205",
+        "eventTypeCN": "第四节",
+        "landEsid": "SE103",
+        "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3102,IM3112,II10003",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "eventID": "EVE070205",
+        "eventName": "03B-05 H",
+        "eventPoint": "EVE070206",
+        "eventTypeCN": "第五节",
+        "landEsid": "SE103",
+        "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0101,IC0201,IM3112,IM3122,II10003",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "eventID": "EVE070206",
+        "eventName": "03B-06 H",
+        "eventPoint": "EVE070207",
+        "eventTypeCN": "第六节",
+        "landEsid": "SE103",
+        "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3122,IM3132,II10003",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "eventID": "EVE070207",
+        "eventName": "03B-07 H",
+        "eventPoint": "EVE070208",
+        "eventTypeCN": "第七节",
+        "landEsid": "SE103",
+        "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3102,IM3112,II10003",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "eventID": "EVE070208",
+        "eventName": "03B-08 H",
+        "eventPoint": "EVE070209",
+        "eventTypeCN": "第八节",
+        "landEsid": "SE113",
+        "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3112,IM3122,II10003",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "eventID": "EVE070209",
+        "eventName": "03B-09 H",
+        "eventPoint": "EVE070210",
+        "eventTypeCN": "第九节",
+        "landEsid": "SE113",
+        "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3122,IM3132,II10003",
+        "bgm": "203_Battle_Ice"
+    },
+    {
+        "eventID": "EVE070210",
+        "eventName": "03B-10 H",
+        "eventPoint": "",
+        "eventTypeCN": "第十节",
+        "landEsid": "SE113",
+        "describe": "環境：氷原\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0101,IC0201,IM3203,IEE0103,II10003",
+        "bgm": "302_BGM_Snow_Bride_Full"
+    },
+    {
+        "eventID": "EVE080101",
+        "eventName": "04B-01 N",
+        "eventPoint": "EVE080102",
+        "eventTypeCN": "第一节",
+        "landEsid": "SE104",
+        "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "201_Battle_Fused"
+    },
+    {
+        "eventID": "EVE080102",
+        "eventName": "04B-02 N",
+        "eventPoint": "EVE080103",
+        "eventTypeCN": "第二节",
+        "landEsid": "SE104",
+        "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3011,IM3103,II10002",
+        "bgm": "201_Battle_Fused"
+    },
+    {
+        "eventID": "EVE080103",
+        "eventName": "04B-03 N",
+        "eventPoint": "EVE080104",
+        "eventTypeCN": "第三节",
+        "landEsid": "SE104",
+        "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3103,IM3113,II10002",
+        "bgm": "201_Battle_Fused"
+    },
+    {
+        "eventID": "EVE080104",
+        "eventName": "04B-04 N",
+        "eventPoint": "EVE080105",
+        "eventTypeCN": "第四节",
+        "landEsid": "SE104",
+        "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3113,IM3123,II10002",
+        "bgm": "201_Battle_Fused"
+    },
+    {
+        "eventID": "EVE080105",
+        "eventName": "04B-05 N",
+        "eventPoint": "EVE080106",
+        "eventTypeCN": "第五节",
+        "landEsid": "SE104",
+        "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0102,IC0202,II10002",
+        "bgm": "201_Battle_Fused"
+    },
+    {
+        "eventID": "EVE080106",
+        "eventName": "04B-06 N",
+        "eventPoint": "EVE080107",
+        "eventTypeCN": "第六节",
+        "landEsid": "SE104",
+        "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3001,IM3011,II10002",
+        "bgm": "201_Battle_Fused"
+    },
+    {
+        "eventID": "EVE080107",
+        "eventName": "04B-07 N",
+        "eventPoint": "EVE080108",
+        "eventTypeCN": "第七节",
+        "landEsid": "SE104",
+        "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3011,IM3103,II10002",
+        "bgm": "201_Battle_Fused"
+    },
+    {
+        "eventID": "EVE080108",
+        "eventName": "04B-08 N",
+        "eventPoint": "EVE080109",
+        "eventTypeCN": "第八节",
+        "landEsid": "SE114",
+        "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3103,IM3113,II10002",
+        "bgm": "201_Battle_Fused"
+    },
+    {
+        "eventID": "EVE080109",
+        "eventName": "04B-09 N",
+        "eventPoint": "EVE080110",
+        "eventTypeCN": "第九节",
+        "landEsid": "SE114",
+        "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3113,IM3123,II10002",
+        "bgm": "201_Battle_Fused"
+    },
+    {
+        "eventID": "EVE080110",
+        "eventName": "04B-10 N",
+        "eventPoint": "",
+        "eventTypeCN": "第十节",
+        "landEsid": "SE114",
+        "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0102,IC0202,IM3204,IEE0104,II10002",
+        "bgm": "305_BGM_Sword_Tyrant_Full"
+    },
+    {
+        "eventID": "EVE080201",
+        "eventName": "04B-01 H",
+        "eventPoint": "EVE080202",
+        "eventTypeCN": "第一节",
+        "landEsid": "SE104",
+        "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3103,IM3113,II10003",
+        "bgm": "201_Battle_Fused"
+    },
+    {
+        "eventID": "EVE080202",
+        "eventName": "04B-02 H",
+        "eventPoint": "EVE080203",
+        "eventTypeCN": "第二节",
+        "landEsid": "SE104",
+        "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3113,IM3123,II10003",
+        "bgm": "201_Battle_Fused"
+    },
+    {
+        "eventID": "EVE080203",
+        "eventName": "04B-03 H",
+        "eventPoint": "EVE080204",
+        "eventTypeCN": "第三节",
+        "landEsid": "SE104",
+        "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3123,IM3133,II10003",
+        "bgm": "201_Battle_Fused"
+    },
+    {
+        "eventID": "EVE080204",
+        "eventName": "04B-04 H",
+        "eventPoint": "EVE080205",
+        "eventTypeCN": "第四节",
+        "landEsid": "SE104",
+        "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3103,IM3113,II10003",
+        "bgm": "201_Battle_Fused"
+    },
+    {
+        "eventID": "EVE080205",
+        "eventName": "04B-05 H",
+        "eventPoint": "EVE080206",
+        "eventTypeCN": "第五节",
+        "landEsid": "SE104",
+        "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0102,IC0202,IM3113,IM3123,II10003",
+        "bgm": "201_Battle_Fused"
+    },
+    {
+        "eventID": "EVE080206",
+        "eventName": "04B-06 H",
+        "eventPoint": "EVE080207",
+        "eventTypeCN": "第六节",
+        "landEsid": "SE104",
+        "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3123,IM3133,II10003",
+        "bgm": "201_Battle_Fused"
+    },
+    {
+        "eventID": "EVE080207",
+        "eventName": "04B-07 H",
+        "eventPoint": "EVE080208",
+        "eventTypeCN": "第七节",
+        "landEsid": "SE104",
+        "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3103,IM3113,II10003",
+        "bgm": "201_Battle_Fused"
+    },
+    {
+        "eventID": "EVE080208",
+        "eventName": "04B-08 H",
+        "eventPoint": "EVE080209",
+        "eventTypeCN": "第八节",
+        "landEsid": "SE114",
+        "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3113,IM3123,II10003",
+        "bgm": "201_Battle_Fused"
+    },
+    {
+        "eventID": "EVE080209",
+        "eventName": "04B-09 H",
+        "eventPoint": "EVE080210",
+        "eventTypeCN": "第九节",
+        "landEsid": "SE114",
+        "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3123,IM3133,II10003",
+        "bgm": "201_Battle_Fused"
+    },
+    {
+        "eventID": "EVE080210",
+        "eventName": "04B-10 H",
+        "eventPoint": "",
+        "eventTypeCN": "第十节",
+        "landEsid": "SE114",
+        "describe": "環境：溶岩台地\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0102,IC0202,IM3204,IEE0104,II10003",
+        "bgm": "305_BGM_Sword_Tyrant_Full"
+    },
+    {
+        "eventID": "EVE090101",
+        "eventName": "05B-01 N",
+        "eventPoint": "EVE090102",
+        "eventTypeCN": "第一节",
+        "landEsid": "SE105",
+        "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3001,IM3011,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EVE090102",
+        "eventName": "05B-02 N",
+        "eventPoint": "EVE090103",
+        "eventTypeCN": "第二节",
+        "landEsid": "SE105",
+        "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3011,IM3104,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EVE090103",
+        "eventName": "05B-03 N",
+        "eventPoint": "EVE090104",
+        "eventTypeCN": "第三节",
+        "landEsid": "SE105",
+        "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3104,IM3114,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EVE090104",
+        "eventName": "05B-04 N",
+        "eventPoint": "EVE090105",
+        "eventTypeCN": "第四节",
+        "landEsid": "SE105",
+        "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3114,IM3124,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EVE090105",
+        "eventName": "05B-05 N",
+        "eventPoint": "EVE090106",
+        "eventTypeCN": "第五节",
+        "landEsid": "SE105",
+        "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0102,IC0202,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EVE090106",
+        "eventName": "05B-06 N",
+        "eventPoint": "EVE090107",
+        "eventTypeCN": "第六节",
+        "landEsid": "SE105",
+        "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3001,IM3011,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EVE090107",
+        "eventName": "05B-07 N",
+        "eventPoint": "EVE090108",
+        "eventTypeCN": "第七节",
+        "landEsid": "SE105",
+        "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3011,IM3104,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EVE090108",
+        "eventName": "05B-08 N",
+        "eventPoint": "EVE090109",
+        "eventTypeCN": "第八节",
+        "landEsid": "SE115",
+        "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3104,IM3114,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EVE090109",
+        "eventName": "05B-09 N",
+        "eventPoint": "EVE090110",
+        "eventTypeCN": "第九节",
+        "landEsid": "SE115",
+        "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3114,IM3124,II10002",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EVE090110",
+        "eventName": "05B-10 N",
+        "eventPoint": "",
+        "eventTypeCN": "第十节",
+        "landEsid": "SE115",
+        "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0102,IC0202,IM3205,IEE0105,II10002",
+        "bgm": "306_BGM_Despair_Corridor_Full"
+    },
+    {
+        "eventID": "EVE090201",
+        "eventName": "05B-01 H",
+        "eventPoint": "EVE090202",
+        "eventTypeCN": "第一节",
+        "landEsid": "SE105",
+        "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3104,IM3114,II10003",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EVE090202",
+        "eventName": "05B-02 H",
+        "eventPoint": "EVE090203",
+        "eventTypeCN": "第二节",
+        "landEsid": "SE105",
+        "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3114,IM3124,II10003",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EVE090203",
+        "eventName": "05B-03 H",
+        "eventPoint": "EVE090204",
+        "eventTypeCN": "第三节",
+        "landEsid": "SE105",
+        "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3124,IM3134,II10003",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EVE090204",
+        "eventName": "05B-04 H",
+        "eventPoint": "EVE090205",
+        "eventTypeCN": "第四节",
+        "landEsid": "SE105",
+        "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3104,IM3114,II10003",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EVE090205",
+        "eventName": "05B-05 H",
+        "eventPoint": "EVE090206",
+        "eventTypeCN": "第五节",
+        "landEsid": "SE105",
+        "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0102,IC0202,IM3114,IM3124,II10003",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EVE090206",
+        "eventName": "05B-06 H",
+        "eventPoint": "EVE090207",
+        "eventTypeCN": "第六节",
+        "landEsid": "SE105",
+        "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3124,IM3134,II10003",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EVE090207",
+        "eventName": "05B-07 H",
+        "eventPoint": "EVE090208",
+        "eventTypeCN": "第七节",
+        "landEsid": "SE105",
+        "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3104,IM3114,II10003",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EVE090208",
+        "eventName": "05B-08 H",
+        "eventPoint": "EVE090209",
+        "eventTypeCN": "第八节",
+        "landEsid": "SE115",
+        "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM99997,IM3114,IM3124,II10003",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EVE090209",
+        "eventName": "05B-09 H",
+        "eventPoint": "EVE090210",
+        "eventTypeCN": "第九节",
+        "landEsid": "SE115",
+        "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IM3124,IM3134,II10003",
+        "bgm": "204_Battle_Mois"
+    },
+    {
+        "eventID": "EVE090210",
+        "eventName": "05B-10 H",
+        "eventPoint": "",
+        "eventTypeCN": "第十节",
+        "landEsid": "SE115",
+        "describe": "環境：原始密林\\n勝利条件:全ての敵を撃破",
+        "EventDrop": "IC0102,IC0202,IM3205,IEE0105,II10003",
+        "bgm": "306_BGM_Despair_Corridor_Full"
+    }
+]

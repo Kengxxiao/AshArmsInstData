@@ -1,0 +1,28 @@
+[
+    {
+        "descriptionOne": "購買行為説明",
+        "descriptionTen": "購買行為説明",
+        "item": {
+            "description": "新型ARMSの開発に関する計画書。「開発許可書」へ合成可能。\n中身を伴わない机上の空論は意味を成さず、堅実な企画設計案のみ上層部を説得できる",
+            "dropFrom": "",
+            "goldReward": "0",
+            "icon": "IC3999",
+            "itemType": "2",
+            "itemcostlist": "IC3999,10",
+            "itemid": "IC3999",
+            "maxStack": "2147483647",
+            "name": "開発計画書",
+            "playerLevelReq": "1",
+            "rarity": "3",
+            "sellPriceStr": "0,0,0,0,0,0",
+            "tokenReward": "0",
+            "upicon": "IM3999"
+        },
+        "itemid": "IC3999",
+        "poolName": "B001",
+        "poolid": "B001",
+        "priceReqOneStr": "0,0,0,3,0,0",
+        "priceReqTenStr": "0,0,0,27,0,0",
+        "state": "1"
+    }
+]
