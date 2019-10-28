@@ -1,0 +1,527 @@
+[
+    {
+        "EnemyID": "EMY12111",
+        "Texture_Offset": "-52,2",
+        "Texture_Avatar": "EMY12111",
+        "Texture_Battle": "EMY12111_Texture",
+        "Spine_Name": "EMY12111_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY12121",
+        "Texture_Offset": "-52,2",
+        "Texture_Avatar": "EMY12121",
+        "Texture_Battle": "EMY12121_Texture",
+        "Spine_Name": "EMY12121_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY12131",
+        "Texture_Offset": "-52,2",
+        "Texture_Avatar": "EMY12131",
+        "Texture_Battle": "EMY12131_Texture",
+        "Spine_Name": "EMY12131_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY12141",
+        "Texture_Offset": "-52,2",
+        "Texture_Avatar": "EMY12141",
+        "Texture_Battle": "EMY12141_Texture",
+        "Spine_Name": "EMY12141_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY12151",
+        "Texture_Offset": "-52,2",
+        "Texture_Avatar": "EMY12151",
+        "Texture_Battle": "EMY12151_Texture",
+        "Spine_Name": "EMY12151_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY13111",
+        "Texture_Offset": "-61.99999,-73.00002",
+        "Texture_Avatar": "EMY13111",
+        "Texture_Battle": "EMY13111_Texture",
+        "Spine_Name": "EMY13111_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY13121",
+        "Texture_Offset": "-61.99999,-73.00002",
+        "Texture_Avatar": "EMY13121",
+        "Texture_Battle": "EMY13121_Texture",
+        "Spine_Name": "EMY13121_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY13131",
+        "Texture_Offset": "-61.99999,-73.00002",
+        "Texture_Avatar": "EMY13131",
+        "Texture_Battle": "EMY13131_Texture",
+        "Spine_Name": "EMY13131_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY13141",
+        "Texture_Offset": "-61.99999,-73.00002",
+        "Texture_Avatar": "EMY13141",
+        "Texture_Battle": "EMY13141_Texture",
+        "Spine_Name": "EMY13141_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY13151",
+        "Texture_Offset": "-61.99999,-73.00002",
+        "Texture_Avatar": "EMY13151",
+        "Texture_Battle": "EMY13151_Texture",
+        "Spine_Name": "EMY13151_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY23111",
+        "Texture_Offset": "-12,-252",
+        "Texture_Avatar": "EMY23111",
+        "Texture_Battle": "EMY23111_Texture",
+        "Spine_Name": "EMY23111_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY23121",
+        "Texture_Offset": "-12,-252",
+        "Texture_Avatar": "EMY23121",
+        "Texture_Battle": "EMY23121_Texture",
+        "Spine_Name": "EMY23121_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY23131",
+        "Texture_Offset": "-12,-252",
+        "Texture_Avatar": "EMY23131",
+        "Texture_Battle": "EMY23131_Texture",
+        "Spine_Name": "EMY23131_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY23141",
+        "Texture_Offset": "-12,-252",
+        "Texture_Avatar": "EMY23141",
+        "Texture_Battle": "EMY23141_Texture",
+        "Spine_Name": "EMY23141_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY23151",
+        "Texture_Offset": "-12,-252",
+        "Texture_Avatar": "EMY23151",
+        "Texture_Battle": "EMY23151_Texture",
+        "Spine_Name": "EMY23151_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY31111",
+        "Texture_Offset": "-127,-109",
+        "Texture_Avatar": "EMY31111",
+        "Texture_Battle": "EMY31111_Texture",
+        "Spine_Name": "EMY31111_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY31121",
+        "Texture_Offset": "-127,-109",
+        "Texture_Avatar": "EMY31121",
+        "Texture_Battle": "EMY31121_Texture",
+        "Spine_Name": "EMY31121_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY31131",
+        "Texture_Offset": "-127,-109",
+        "Texture_Avatar": "EMY31131",
+        "Texture_Battle": "EMY31131_Texture",
+        "Spine_Name": "EMY31131_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY31141",
+        "Texture_Offset": "-127,-109",
+        "Texture_Avatar": "EMY31141",
+        "Texture_Battle": "EMY31141_Texture",
+        "Spine_Name": "EMY31141_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY31151",
+        "Texture_Offset": "-127,-109",
+        "Texture_Avatar": "EMY31151",
+        "Texture_Battle": "EMY31151_Texture",
+        "Spine_Name": "EMY31151_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY32111",
+        "Texture_Offset": "-129,-106",
+        "Texture_Avatar": "EMY32111",
+        "Texture_Battle": "EMY32111_Texture",
+        "Spine_Name": "EMY32111_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY32121",
+        "Texture_Offset": "-129,-106",
+        "Texture_Avatar": "EMY32121",
+        "Texture_Battle": "EMY32121_Texture",
+        "Spine_Name": "EMY32121_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY32131",
+        "Texture_Offset": "-129,-106",
+        "Texture_Avatar": "EMY32131",
+        "Texture_Battle": "EMY32131_Texture",
+        "Spine_Name": "EMY32131_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY32141",
+        "Texture_Offset": "-129,-106",
+        "Texture_Avatar": "EMY32141",
+        "Texture_Battle": "EMY32141_Texture",
+        "Spine_Name": "EMY32141_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY32151",
+        "Texture_Offset": "-129,-106",
+        "Texture_Avatar": "EMY32151",
+        "Texture_Battle": "EMY32151_Texture",
+        "Spine_Name": "EMY32151_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY41111",
+        "Texture_Offset": "-9,-70.00001",
+        "Texture_Avatar": "EMY41111",
+        "Texture_Battle": "EMY41111_Texture",
+        "Spine_Name": "EMY41111_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY41121",
+        "Texture_Offset": "-9,-70.00001",
+        "Texture_Avatar": "EMY41121",
+        "Texture_Battle": "EMY41121_Texture",
+        "Spine_Name": "EMY41121_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY41131",
+        "Texture_Offset": "-9,-70.00001",
+        "Texture_Avatar": "EMY41131",
+        "Texture_Battle": "EMY41131_Texture",
+        "Spine_Name": "EMY41131_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY41141",
+        "Texture_Offset": "-9,-70.00001",
+        "Texture_Avatar": "EMY41141",
+        "Texture_Battle": "EMY41141_Texture",
+        "Spine_Name": "EMY41141_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY41151",
+        "Texture_Offset": "-9,-70.00001",
+        "Texture_Avatar": "EMY41151",
+        "Texture_Battle": "EMY41151_Texture",
+        "Spine_Name": "EMY41151_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY42111",
+        "Texture_Offset": "0,0",
+        "Texture_Avatar": "EMY42111",
+        "Texture_Battle": "EMY42111_Texture",
+        "Spine_Name": "EMY42111_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY42121",
+        "Texture_Offset": "0,0",
+        "Texture_Avatar": "EMY42121",
+        "Texture_Battle": "EMY42121_Texture",
+        "Spine_Name": "EMY42121_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY42131",
+        "Texture_Offset": "0,0",
+        "Texture_Avatar": "EMY42131",
+        "Texture_Battle": "EMY42131_Texture",
+        "Spine_Name": "EMY42131_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY42141",
+        "Texture_Offset": "0,0",
+        "Texture_Avatar": "EMY42141",
+        "Texture_Battle": "EMY42141_Texture",
+        "Spine_Name": "EMY42141_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY42151",
+        "Texture_Offset": "0,0",
+        "Texture_Avatar": "EMY42151",
+        "Texture_Battle": "EMY42151_Texture",
+        "Spine_Name": "EMY42151_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY43111",
+        "Texture_Offset": "1.000005,-146",
+        "Texture_Avatar": "EMY43111",
+        "Texture_Battle": "EMY43111_Texture",
+        "Spine_Name": "EMY43111_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY43121",
+        "Texture_Offset": "1.000005,-146",
+        "Texture_Avatar": "EMY43121",
+        "Texture_Battle": "EMY43121_Texture",
+        "Spine_Name": "EMY43121_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY43131",
+        "Texture_Offset": "1.000005,-146",
+        "Texture_Avatar": "EMY43131",
+        "Texture_Battle": "EMY43131_Texture",
+        "Spine_Name": "EMY43131_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY43141",
+        "Texture_Offset": "1.000005,-146",
+        "Texture_Avatar": "EMY43141",
+        "Texture_Battle": "EMY43141_Texture",
+        "Spine_Name": "EMY43141_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY43151",
+        "Texture_Offset": "1.000005,-146",
+        "Texture_Avatar": "EMY43151",
+        "Texture_Battle": "EMY43151_Texture",
+        "Spine_Name": "EMY43151_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY51111",
+        "Texture_Offset": "-21,-117",
+        "Texture_Avatar": "EMY51111",
+        "Texture_Battle": "EMY51111_Texture",
+        "Spine_Name": "EMY51111_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY51121",
+        "Texture_Offset": "-21,-117",
+        "Texture_Avatar": "EMY51121",
+        "Texture_Battle": "EMY51121_Texture",
+        "Spine_Name": "EMY51121_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY51131",
+        "Texture_Offset": "-21,-117",
+        "Texture_Avatar": "EMY51131",
+        "Texture_Battle": "EMY51131_Texture",
+        "Spine_Name": "EMY51131_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY51141",
+        "Texture_Offset": "-21,-117",
+        "Texture_Avatar": "EMY51141",
+        "Texture_Battle": "EMY51141_Texture",
+        "Spine_Name": "EMY51141_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY51151",
+        "Texture_Offset": "-21,-117",
+        "Texture_Avatar": "EMY51151",
+        "Texture_Battle": "EMY51151_Texture",
+        "Spine_Name": "EMY51151_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY52111",
+        "Texture_Offset": "-67.99999,-264",
+        "Texture_Avatar": "EMY52111",
+        "Texture_Battle": "EMY52111_Texture",
+        "Spine_Name": "EMY52111_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY52121",
+        "Texture_Offset": "-67.99999,-264",
+        "Texture_Avatar": "EMY52121",
+        "Texture_Battle": "EMY52121_Texture",
+        "Spine_Name": "EMY52121_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY52131",
+        "Texture_Offset": "-67.99999,-264",
+        "Texture_Avatar": "EMY52131",
+        "Texture_Battle": "EMY52131_Texture",
+        "Spine_Name": "EMY52131_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY52141",
+        "Texture_Offset": "-67.99999,-264",
+        "Texture_Avatar": "EMY52141",
+        "Texture_Battle": "EMY52141_Texture",
+        "Spine_Name": "EMY52141_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY52151",
+        "Texture_Offset": "-67.99999,-264",
+        "Texture_Avatar": "EMY52151",
+        "Texture_Battle": "EMY52151_Texture",
+        "Spine_Name": "EMY52151_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY53111",
+        "Texture_Offset": "-51,-230.9999",
+        "Texture_Avatar": "EMY53111",
+        "Texture_Battle": "EMY53111_Texture",
+        "Spine_Name": "EMY53111_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY53121",
+        "Texture_Offset": "-51,-230.9999",
+        "Texture_Avatar": "EMY53121",
+        "Texture_Battle": "EMY53121_Texture",
+        "Spine_Name": "EMY53121_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY53131",
+        "Texture_Offset": "-51,-230.9999",
+        "Texture_Avatar": "EMY53131",
+        "Texture_Battle": "EMY53131_Texture",
+        "Spine_Name": "EMY53131_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY53141",
+        "Texture_Offset": "-51,-230.9999",
+        "Texture_Avatar": "EMY53141",
+        "Texture_Battle": "EMY53141_Texture",
+        "Spine_Name": "EMY53141_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY53151",
+        "Texture_Offset": "-51,-230.9999",
+        "Texture_Avatar": "EMY53151",
+        "Texture_Battle": "EMY53151_Texture",
+        "Spine_Name": "EMY53151_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY61111",
+        "Texture_Offset": "22,-165",
+        "Texture_Avatar": "EMY61111",
+        "Texture_Battle": "EMY61111_Texture",
+        "Spine_Name": "EMY61111_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY61121",
+        "Texture_Offset": "22,-165",
+        "Texture_Avatar": "EMY61121",
+        "Texture_Battle": "EMY61121_Texture",
+        "Spine_Name": "EMY61121_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY61131",
+        "Texture_Offset": "22,-165",
+        "Texture_Avatar": "EMY61131",
+        "Texture_Battle": "EMY61131_Texture",
+        "Spine_Name": "EMY61131_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY61141",
+        "Texture_Offset": "22,-165",
+        "Texture_Avatar": "EMY61141",
+        "Texture_Battle": "EMY61141_Texture",
+        "Spine_Name": "EMY61141_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY61151",
+        "Texture_Offset": "22,-165",
+        "Texture_Avatar": "EMY61151",
+        "Texture_Battle": "EMY61151_Texture",
+        "Spine_Name": "EMY61151_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY62111",
+        "Texture_Offset": "0,0",
+        "Texture_Avatar": "EMY62111",
+        "Texture_Battle": "EMY62111_Texture",
+        "Spine_Name": "EMY62111_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY62121",
+        "Texture_Offset": "0,0",
+        "Texture_Avatar": "EMY62121",
+        "Texture_Battle": "EMY62121_Texture",
+        "Spine_Name": "EMY62121_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY62131",
+        "Texture_Offset": "0,0",
+        "Texture_Avatar": "EMY62131",
+        "Texture_Battle": "EMY62131_Texture",
+        "Spine_Name": "EMY62131_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY62141",
+        "Texture_Offset": "0,0",
+        "Texture_Avatar": "EMY62141",
+        "Texture_Battle": "EMY62141_Texture",
+        "Spine_Name": "EMY62141_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY62151",
+        "Texture_Offset": "0,0",
+        "Texture_Avatar": "EMY62151",
+        "Texture_Battle": "EMY62151_Texture",
+        "Spine_Name": "EMY62151_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY63111",
+        "Texture_Offset": "-43,-125",
+        "Texture_Avatar": "EMY63111",
+        "Texture_Battle": "EMY63111_Texture",
+        "Spine_Name": "EMY63111_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY63121",
+        "Texture_Offset": "-43,-125",
+        "Texture_Avatar": "EMY63121",
+        "Texture_Battle": "EMY63121_Texture",
+        "Spine_Name": "EMY63121_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY63131",
+        "Texture_Offset": "-43,-125",
+        "Texture_Avatar": "EMY63131",
+        "Texture_Battle": "EMY63131_Texture",
+        "Spine_Name": "EMY63131_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY63141",
+        "Texture_Offset": "-43,-125",
+        "Texture_Avatar": "EMY63141",
+        "Texture_Battle": "EMY63141_Texture",
+        "Spine_Name": "EMY63141_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY63151",
+        "Texture_Offset": "-43,-125",
+        "Texture_Avatar": "EMY63151",
+        "Texture_Battle": "EMY63151_Texture",
+        "Spine_Name": "EMY63151_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY84111",
+        "Texture_Offset": "12.00003,-126",
+        "Texture_Avatar": "EMY84111",
+        "Texture_Battle": "EMY84111_Texture",
+        "Spine_Name": "EMY84111_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY84121",
+        "Texture_Offset": "-10,-122",
+        "Texture_Avatar": "EMY84121",
+        "Texture_Battle": "EMY84121_Texture",
+        "Spine_Name": "EMY84121_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY84131",
+        "Texture_Offset": "-218.9999,-1.000001",
+        "Texture_Avatar": "EMY84131",
+        "Texture_Battle": "EMY84131_Texture",
+        "Spine_Name": "EMY84131_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY84141",
+        "Texture_Offset": "-68.99998,-141",
+        "Texture_Avatar": "EMY84141",
+        "Texture_Battle": "EMY84141_Texture",
+        "Spine_Name": "EMY84141_SkeletonData"
+    },
+    {
+        "EnemyID": "EMY84151",
+        "Texture_Offset": "-29,-112",
+        "Texture_Avatar": "EMY84151",
+        "Texture_Battle": "EMY84151_Texture",
+        "Spine_Name": "EMY84151_SkeletonData"
+    }
+]

@@ -1,0 +1,474 @@
+[
+    {
+        "Index": 0,
+        "PlotKey": "VideoCG_00_01",
+        "PlotType": 1,
+        "EventID": "EVE000101",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 1,
+        "PlotKey": "Scenario_00_01",
+        "PlotType": 0,
+        "EventID": "EVE000101",
+        "CheckPost": 2,
+        "CheckTag": 3
+    },
+    {
+        "Index": 2,
+        "PlotKey": "CGAside_00_02",
+        "PlotType": 0,
+        "EventID": "EVE000102",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 3,
+        "PlotKey": "CGAside_00_03",
+        "PlotType": 0,
+        "EventID": "EVE000103",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 4,
+        "PlotKey": "CGAside_00_04",
+        "PlotType": 0,
+        "EventID": "EVE000104",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 5,
+        "PlotKey": "CGAside_00_05",
+        "PlotType": 0,
+        "EventID": "EVE000105",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 6,
+        "PlotKey": "CGAside_00_06",
+        "PlotType": 0,
+        "EventID": "EVE000106",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 7,
+        "PlotKey": "CGAside_00_07",
+        "PlotType": 0,
+        "EventID": "EVE000107",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 8,
+        "PlotKey": "CGAside_00_08",
+        "PlotType": 0,
+        "EventID": "EVE000108",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 9,
+        "PlotKey": "CGAside_01_01",
+        "PlotType": 0,
+        "EventID": "EVE010101",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 10,
+        "PlotKey": "CGAside_01_02",
+        "PlotType": 0,
+        "EventID": "EVE010102",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 11,
+        "PlotKey": "Scenario_00_10",
+        "PlotType": 0,
+        "EventID": "EVE010102",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 12,
+        "PlotKey": "CGAside_01_03",
+        "PlotType": 0,
+        "EventID": "EVE010103",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 13,
+        "PlotKey": "CGAside_01_04",
+        "PlotType": 0,
+        "EventID": "EVE010104",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 14,
+        "PlotKey": "CGAside_01_05",
+        "PlotType": 0,
+        "EventID": "EVE010105",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 15,
+        "PlotKey": "CGAside_01_06",
+        "PlotType": 0,
+        "EventID": "EVE010106",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 16,
+        "PlotKey": "Scenario_00_14",
+        "PlotType": 0,
+        "EventID": "EVE010106",
+        "CheckPost": 2,
+        "CheckTag": 3
+    },
+    {
+        "Index": 17,
+        "PlotKey": "CGAside_01_07",
+        "PlotType": 0,
+        "EventID": "EVE010107",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 18,
+        "PlotKey": "Scenario_00_15",
+        "PlotType": 0,
+        "EventID": "EVE010107",
+        "CheckPost": 2,
+        "CheckTag": 3
+    },
+    {
+        "Index": 19,
+        "PlotKey": "CGAside_02_01",
+        "PlotType": 0,
+        "EventID": "EVE020101",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 20,
+        "PlotKey": "CGAside_02_02",
+        "PlotType": 0,
+        "EventID": "EVE020102",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 21,
+        "PlotKey": "CGAside_02_03",
+        "PlotType": 0,
+        "EventID": "EVE020103",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 22,
+        "PlotKey": "CGAside_02_04",
+        "PlotType": 0,
+        "EventID": "EVE020104",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 23,
+        "PlotKey": "CGAside_02_05",
+        "PlotType": 0,
+        "EventID": "EVE020105",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 24,
+        "PlotKey": "CGAside_02_06",
+        "PlotType": 0,
+        "EventID": "EVE020106",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 25,
+        "PlotKey": "CGAside_02_07",
+        "PlotType": 0,
+        "EventID": "EVE020107",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 26,
+        "PlotKey": "CGAside_02_08",
+        "PlotType": 0,
+        "EventID": "EVE020108",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 27,
+        "PlotKey": "CGAside_02_09",
+        "PlotType": 0,
+        "EventID": "EVE020109",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 28,
+        "PlotKey": "CGAside_02_10",
+        "PlotType": 0,
+        "EventID": "EVE020110",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 29,
+        "PlotKey": "CGAside_03_01",
+        "PlotType": 0,
+        "EventID": "EVE030101",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 30,
+        "PlotKey": "CGAside_03_02",
+        "PlotType": 0,
+        "EventID": "EVE030102",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 31,
+        "PlotKey": "CGAside_03_03",
+        "PlotType": 0,
+        "EventID": "EVE030103",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 32,
+        "PlotKey": "CGAside_03_04",
+        "PlotType": 0,
+        "EventID": "EVE030104",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 33,
+        "PlotKey": "CGAside_03_05",
+        "PlotType": 0,
+        "EventID": "EVE030105",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 34,
+        "PlotKey": "CGAside_03_06",
+        "PlotType": 0,
+        "EventID": "EVE030106",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 35,
+        "PlotKey": "CGAside_03_07",
+        "PlotType": 0,
+        "EventID": "EVE030107",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 36,
+        "PlotKey": "CGAside_03_08",
+        "PlotType": 0,
+        "EventID": "EVE030108",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 37,
+        "PlotKey": "CGAside_03_09",
+        "PlotType": 0,
+        "EventID": "EVE030109",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 38,
+        "PlotKey": "CGAside_03_10",
+        "PlotType": 0,
+        "EventID": "EVE030110",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 39,
+        "PlotKey": "CGAside_04_01",
+        "PlotType": 0,
+        "EventID": "EVE040101",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 40,
+        "PlotKey": "CGAside_04_02",
+        "PlotType": 0,
+        "EventID": "EVE040102",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 41,
+        "PlotKey": "CGAside_04_03",
+        "PlotType": 0,
+        "EventID": "EVE040103",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 42,
+        "PlotKey": "CGAside_04_04",
+        "PlotType": 0,
+        "EventID": "EVE040104",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 43,
+        "PlotKey": "CGAside_04_05",
+        "PlotType": 0,
+        "EventID": "EVE040105",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 44,
+        "PlotKey": "CGAside_04_06",
+        "PlotType": 0,
+        "EventID": "EVE040106",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 45,
+        "PlotKey": "CGAside_04_07",
+        "PlotType": 0,
+        "EventID": "EVE040107",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 46,
+        "PlotKey": "CGAside_04_08",
+        "PlotType": 0,
+        "EventID": "EVE040108",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 47,
+        "PlotKey": "CGAside_04_09",
+        "PlotType": 0,
+        "EventID": "EVE040109",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 48,
+        "PlotKey": "CGAside_04_10",
+        "PlotType": 0,
+        "EventID": "EVE040110",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 49,
+        "PlotKey": "CGAside_05_01",
+        "PlotType": 0,
+        "EventID": "EVE050101",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 50,
+        "PlotKey": "CGAside_05_02",
+        "PlotType": 0,
+        "EventID": "EVE050102",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 51,
+        "PlotKey": "CGAside_05_03",
+        "PlotType": 0,
+        "EventID": "EVE050103",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 52,
+        "PlotKey": "CGAside_05_04",
+        "PlotType": 0,
+        "EventID": "EVE050104",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 53,
+        "PlotKey": "CGAside_05_05",
+        "PlotType": 0,
+        "EventID": "EVE050105",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 54,
+        "PlotKey": "CGAside_05_06",
+        "PlotType": 0,
+        "EventID": "EVE050106",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 55,
+        "PlotKey": "CGAside_05_07",
+        "PlotType": 0,
+        "EventID": "EVE050107",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 56,
+        "PlotKey": "CGAside_05_08",
+        "PlotType": 0,
+        "EventID": "EVE050108",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 57,
+        "PlotKey": "CGAside_05_09",
+        "PlotType": 0,
+        "EventID": "EVE050109",
+        "CheckPost": 1,
+        "CheckTag": 1
+    },
+    {
+        "Index": 58,
+        "PlotKey": "CGAside_05_10",
+        "PlotType": 0,
+        "EventID": "EVE050110",
+        "CheckPost": 1,
+        "CheckTag": 1
+    }
+]
