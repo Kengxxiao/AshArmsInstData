@@ -23606,7 +23606,7 @@
         "criticals": "0,0,0",
         "description": "",
         "dodges": "0,0,0",
-        "goldCosts": "150,150,200",
+        "goldCosts": "0,150,200",
         "hits": "1,2,4",
         "hps": "0,0,0",
         "icon": "1",

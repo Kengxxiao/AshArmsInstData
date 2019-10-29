@@ -20853,10 +20853,10 @@
         "repskillid": "",
         "skillClass": "",
         "skillCutin": "0",
-        "skillDescription": "攻撃準備を行い、当該エリア内の捕捉済みの敵が存在する場合、敵作戦フェーズにて猛烈な攻撃を繰り出す",
+        "skillDescription": "該当エリアに対し攻撃準備を行い、敵軍作戦ターン中に攻撃を行うことが可能\t",
         "skillLevel": "1",
         "skillLevelMax": "0",
-        "skillName": "奇襲警戒",
+        "skillName": "高空警戒",
         "skillTarget": {
             "charClass": "0",
             "charType": "2",

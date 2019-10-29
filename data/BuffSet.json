@@ -1644,7 +1644,7 @@
         "type": "1"
     },
     {
-        "buffName": "捕捉",
+        "buffName": "捕捉状態アップ",
         "buffid": "T009",
         "count": "0",
         "effectType": "target",
@@ -1652,7 +1652,7 @@
         "groupid": "100",
         "grouplevel": "1",
         "icon": "Buff_lock+",
-        "time": "2",
+        "time": "3",
         "type": "0"
     },
     {
@@ -1877,10 +1877,10 @@
         "count": "0",
         "effectType": "target",
         "groupName": "",
-        "groupid": "0",
-        "grouplevel": "0",
+        "groupid": "100",
+        "grouplevel": "1",
         "icon": "Buff_lock+",
-        "time": "2",
+        "time": "3",
         "type": "0"
     },
     {
@@ -1920,7 +1920,7 @@
         "type": "1"
     },
     {
-        "buffName": "捕捉",
+        "buffName": "捕捉状態アップ",
         "buffid": "T001",
         "count": "0",
         "effectType": "target",
@@ -1928,7 +1928,7 @@
         "groupid": "100",
         "grouplevel": "1",
         "icon": "Buff_lock+",
-        "time": "2",
+        "time": "3",
         "type": "0"
     },
     {
@@ -3534,7 +3534,7 @@
         "effectType": "damageReduction",
         "groupName": "不能被自身叠加",
         "groupid": "3011101",
-        "grouplevel": "0",
+        "grouplevel": "1",
         "icon": "Buff_armor+",
         "time": "3",
         "type": "1"
@@ -6401,10 +6401,10 @@
         "count": "0",
         "effectType": "target",
         "groupName": "",
-        "groupid": "0",
-        "grouplevel": "0",
+        "groupid": "100",
+        "grouplevel": "1",
         "icon": "Buff_lock+",
-        "time": "2",
+        "time": "3",
         "type": "0"
     },
     {
@@ -9401,10 +9401,10 @@
         "count": "0",
         "effectType": "target",
         "groupName": "",
-        "groupid": "0",
-        "grouplevel": "0",
+        "groupid": "100",
+        "grouplevel": "1",
         "icon": "Buff_lock+",
-        "time": "2",
+        "time": "3",
         "type": "0"
     },
     {
@@ -10205,8 +10205,8 @@
         "count": "0",
         "effectType": "armor,armorPenetration",
         "groupName": "",
-        "groupid": "0",
-        "grouplevel": "0",
+        "groupid": "10041",
+        "grouplevel": "2",
         "icon": "Buff_armor+,Buff_power+",
         "time": "1",
         "type": "1"
@@ -10229,8 +10229,8 @@
         "count": "0",
         "effectType": "armor,armorPenetration",
         "groupName": "",
-        "groupid": "0",
-        "grouplevel": "0",
+        "groupid": "10041",
+        "grouplevel": "1",
         "icon": "Buff_armor+,Buff_power+",
         "time": "1",
         "type": "1"
