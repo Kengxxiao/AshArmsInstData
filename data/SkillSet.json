@@ -6675,10 +6675,10 @@
         "repskillid": "",
         "skillClass": "",
         "skillCutin": "0",
-        "skillDescription": "戦闘開始後、最初の2ターンの間に発動、機動を大程度アップ、被ダメージを無効化する(6回のみ)",
+        "skillDescription": "自身の耐久値が66%以上の場合、全ての先手攻撃を永久に無効化する。ただし自身の行動フェーズでは発動しない",
         "skillLevel": "1",
         "skillLevelMax": "1",
-        "skillName": "アブソリュート・ゼロ",
+        "skillName": "アブソリュート・ゼロIV",
         "skillTarget": {
             "charClass": "0",
             "charType": "0",
@@ -6695,7 +6695,7 @@
         "skillType": "3",
         "skillTypeMini": "32",
         "skillid": "E8413113",
-        "triggerCount": "6"
+        "triggerCount": "99"
     },
     {
         "apreq": "1",
@@ -8749,10 +8749,10 @@
         "repskillid": "",
         "skillClass": "",
         "skillCutin": "0",
-        "skillDescription": "戦闘開始後、最初の2ターンの間に発動、機動を大程度アップ、被ダメージを無効化する(6回のみ)",
+        "skillDescription": "自身の耐久値が66%以上の場合、全ての先手攻撃を永久に無効化する。ただし自身の行動フェーズでは発動しない",
         "skillLevel": "1",
         "skillLevelMax": "1",
-        "skillName": "アブソリュート・ゼロ",
+        "skillName": "アブソリュート・ゼロII",
         "skillTarget": {
             "charClass": "0",
             "charType": "0",
@@ -8769,7 +8769,7 @@
         "skillType": "3",
         "skillTypeMini": "32",
         "skillid": "E8413111",
-        "triggerCount": "6"
+        "triggerCount": "99"
     },
     {
         "apreq": "0",
@@ -10347,7 +10347,7 @@
         "repskillid": "",
         "skillClass": "SkillBuff",
         "skillCutin": "0",
-        "skillDescription": "敵の小隊残存数が自身より多い場合、会心率を更に55追加　※追加効果はパーセンテージではない",
+        "skillDescription": "敵の小隊残存数が自身より多い場合、会心率を更に30%追加",
         "skillLevel": "1",
         "skillLevelMax": "1",
         "skillName": "深淵ノ悲嘆Ⅲ",
@@ -14736,7 +14736,7 @@
         "skillDescription": "戦場に存在する限り、自軍の航空ユニットの装甲値が12%アップする",
         "skillLevel": "1",
         "skillLevelMax": "1",
-        "skillName": "商店主板",
+        "skillName": "戦場指揮Ⅱ",
         "skillTarget": {
             "charClass": "0",
             "charType": "0",
@@ -14903,7 +14903,7 @@
         "repskillid": "",
         "skillClass": "SkillBuff",
         "skillCutin": "0",
-        "skillDescription": "小隊残存数が敵を上回る場合、更に干渉12%を追加",
+        "skillDescription": "小隊残存数が敵を上回る場合、更に貫通12%を追加",
         "skillLevel": "1",
         "skillLevelMax": "1",
         "skillName": "スパルタⅡ",
@@ -15107,7 +15107,7 @@
         "repskillid": "",
         "skillClass": "SkillBuff",
         "skillCutin": "0",
-        "skillDescription": "自身の小隊残存数が5を上回る場合、更に干渉を15%、火力を15%追加",
+        "skillDescription": "自身の小隊残存数が5を上回る場合、更に貫通を15%、火力を15%追加",
         "skillLevel": "1",
         "skillLevelMax": "1",
         "skillName": "暴君の剣Ⅱ",
@@ -17351,7 +17351,7 @@
         "repskillid": "",
         "skillClass": "SkillBuff",
         "skillCutin": "0",
-        "skillDescription": "敵の小隊残存数が自身より多い場合、会心率を更に30追加　※追加効果はパーセンテージではない",
+        "skillDescription": "敵の小隊残存数が自身より多い場合、会心率を更に15%追加",
         "skillLevel": "1",
         "skillLevelMax": "1",
         "skillName": "深淵ノ悲嘆Ⅰ",
@@ -17419,7 +17419,7 @@
         "repskillid": "",
         "skillClass": "SkillBuff",
         "skillCutin": "0",
-        "skillDescription": "小隊残存数が敵を上回る場合、更に干渉20%を追加",
+        "skillDescription": "小隊残存数が敵を上回る場合、更に貫通20%を追加",
         "skillLevel": "1",
         "skillLevelMax": "1",
         "skillName": "スパルタⅣ",
@@ -17459,7 +17459,7 @@
         "skillName": "戦術的防御",
         "skillTarget": {
             "charClass": "0",
-            "charType": "0",
+            "charType": "1",
             "charVariant": "0",
             "force": "3",
             "nationality": "0",
@@ -17467,8 +17467,8 @@
             "rangeMin": "0",
             "targetCount": "0",
             "targetState": "0",
-            "targetid": "T300000000",
-            "targetname": "自己"
+            "targetid": "T301000000",
+            "targetname": "自己·陆"
         },
         "skillType": "1",
         "skillTypeMini": "19",
@@ -23053,11 +23053,11 @@
     },
     {
         "apreq": "2",
-        "icon": "IFC,IISC",
-        "jobidsStr": "10,11,12,13,14",
+        "icon": "IFC,IIBC",
+        "jobidsStr": "10,11,13",
         "moveSpeed": "0",
         "mps": "0",
-        "mpsreq": "5",
+        "mpsreq": "8",
         "posecha": "0",
         "posereq": "0",
         "repskillid": "",
@@ -23081,9 +23081,9 @@
             "targetname": "敌方空中全部全部单体1-2"
         },
         "skillType": "1",
-        "skillTypeMini": "15",
+        "skillTypeMini": "16",
         "skillid": "SS70105",
-        "triggerCount": "1"
+        "triggerCount": "99"
     },
     {
         "apreq": "0",
@@ -23505,7 +23505,7 @@
         "repskillid": "",
         "skillClass": "SkillBuff",
         "skillCutin": "0",
-        "skillDescription": "自身の小隊残存数が5を上回る場合、更に干渉を10%、火力を5%追加",
+        "skillDescription": "自身の小隊残存数が5を上回る場合、更に貫通を10%、火力を5%追加",
         "skillLevel": "1",
         "skillLevelMax": "1",
         "skillName": "暴君の剣Ⅰ",
@@ -24525,10 +24525,10 @@
         "repskillid": "",
         "skillClass": "",
         "skillCutin": "0",
-        "skillDescription": "戦闘開始後、最初の2ターンの間に発動、機動を大程度アップ、被ダメージを無効化する(6回のみ)",
+        "skillDescription": "自身の耐久値が95%以上の場合、全ての先手攻撃を6回無効化する。ただし自身の行動フェーズでは発動しない",
         "skillLevel": "1",
         "skillLevelMax": "1",
-        "skillName": "アブソリュート・ゼロ",
+        "skillName": "アブソリュート・ゼロIII",
         "skillTarget": {
             "charClass": "0",
             "charType": "0",
@@ -26673,7 +26673,7 @@
         "skillName": "超増圧機構",
         "skillTarget": {
             "charClass": "0",
-            "charType": "0",
+            "charType": "1",
             "charVariant": "0",
             "force": "3",
             "nationality": "0",
@@ -26681,8 +26681,8 @@
             "rangeMin": "0",
             "targetCount": "0",
             "targetState": "0",
-            "targetid": "T300000000",
-            "targetname": "自己"
+            "targetid": "T301000000",
+            "targetname": "自己·陆"
         },
         "skillType": "1",
         "skillTypeMini": "19",
@@ -28503,10 +28503,10 @@
         "repskillid": "",
         "skillClass": "",
         "skillCutin": "0",
-        "skillDescription": "戦闘開始後、最初の2ターンの間に発動、機動を大程度アップ、被ダメージを無効化する(6回のみ)",
+        "skillDescription": "自身の耐久値が95%以上の場合、全ての先手攻撃を6回無効化する。ただし自身の行動フェーズでは発動しない",
         "skillLevel": "1",
         "skillLevelMax": "1",
-        "skillName": "アブソリュート・ゼロ",
+        "skillName": "アブソリュート・ゼロI",
         "skillTarget": {
             "charClass": "0",
             "charType": "0",
@@ -30923,7 +30923,7 @@
         "skillName": "復讐の天使",
         "skillTarget": {
             "charClass": "0",
-            "charType": "0",
+            "charType": "1",
             "charVariant": "0",
             "force": "3",
             "nationality": "0",
@@ -30931,8 +30931,8 @@
             "rangeMin": "0",
             "targetCount": "0",
             "targetState": "0",
-            "targetid": "T300000000",
-            "targetname": "自己"
+            "targetid": "T301000000",
+            "targetname": "自己·陆"
         },
         "skillType": "1",
         "skillTypeMini": "19",
@@ -33773,7 +33773,7 @@
         "repskillid": "",
         "skillClass": "SkillBuff",
         "skillCutin": "0",
-        "skillDescription": "小隊残存数が敵を上回る場合、更に干渉8%を追加",
+        "skillDescription": "小隊残存数が敵を上回る場合、更に貫通8%を追加",
         "skillLevel": "1",
         "skillLevelMax": "1",
         "skillName": "スパルタⅠ",
@@ -35986,7 +35986,7 @@
         "skillDescription": "戦場に存在する限り、自軍の航空ユニットの装甲値が8%アップする",
         "skillLevel": "1",
         "skillLevelMax": "1",
-        "skillName": "商店主板",
+        "skillName": "戦場指揮Ⅰ",
         "skillTarget": {
             "charClass": "0",
             "charType": "0",
@@ -36153,7 +36153,7 @@
         "repskillid": "",
         "skillClass": "SkillBuff",
         "skillCutin": "0",
-        "skillDescription": "小隊残存数が敵を上回る場合、更に干渉16%を追加",
+        "skillDescription": "小隊残存数が敵を上回る場合、更に貫通16%を追加",
         "skillLevel": "1",
         "skillLevelMax": "1",
         "skillName": "スパルタⅢ",
@@ -36187,7 +36187,7 @@
         "repskillid": "",
         "skillClass": "SkillBuff",
         "skillCutin": "0",
-        "skillDescription": "自身の小隊残存数が5を上回る場合、更に干渉を20%、火力を20%追加",
+        "skillDescription": "自身の小隊残存数が5を上回る場合、更に貫通を20%、火力を20%追加",
         "skillLevel": "1",
         "skillLevelMax": "1",
         "skillName": "暴君の剣Ⅲ",
@@ -38162,7 +38162,7 @@
         "skillDescription": "戦場に存在する限り、自軍の航空ユニットの装甲値が15%アップする",
         "skillLevel": "1",
         "skillLevelMax": "1",
-        "skillName": "商店主板",
+        "skillName": "戦場指揮Ⅲ",
         "skillTarget": {
             "charClass": "0",
             "charType": "0",
@@ -38261,7 +38261,7 @@
         "repskillid": "",
         "skillClass": "SkillBuff",
         "skillCutin": "0",
-        "skillDescription": "敵の小隊残存数が自身より多い場合、会心率を更に40追加　※追加効果はパーセンテージではない",
+        "skillDescription": "敵の小隊残存数が自身より多い場合、会心率を更に20%追加",
         "skillLevel": "1",
         "skillLevelMax": "1",
         "skillName": "深淵ノ悲嘆Ⅱ",

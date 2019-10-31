@@ -832,9 +832,9 @@
         "buffid": "BSS3010801",
         "count": "0",
         "effectType": "armor",
-        "groupName": "",
-        "groupid": "0",
-        "grouplevel": "0",
+        "groupName": "不能被自身叠加",
+        "groupid": "3010801",
+        "grouplevel": "1",
         "icon": "Buff_armor-",
         "time": "2",
         "type": "0"
@@ -8007,7 +8007,7 @@
         "buffName": "対地命中アップ",
         "buffid": "ZS10007",
         "count": "0",
-        "effectType": "hitWeightAG",
+        "effectType": "hit",
         "groupName": "不重复，能够被高级覆盖",
         "groupid": "10006",
         "grouplevel": "1",
@@ -8475,7 +8475,7 @@
         "buffName": "対地命中アップ",
         "buffid": "ZS10008",
         "count": "0",
-        "effectType": "hitWeightAG",
+        "effectType": "hit",
         "groupName": "不重复，能够被高级覆盖",
         "groupid": "10006",
         "grouplevel": "2",
@@ -8511,7 +8511,7 @@
         "buffName": "対地命中アップ",
         "buffid": "ZS10009",
         "count": "0",
-        "effectType": "hitWeightAG",
+        "effectType": "hit",
         "groupName": "不重复，能够被高级覆盖",
         "groupid": "10006",
         "grouplevel": "3",
@@ -8648,7 +8648,7 @@
         "groupid": "29",
         "grouplevel": "1",
         "icon": "Buff_power-,Buff_power-",
-        "time": "1",
+        "time": "2",
         "type": "0"
     },
     {
@@ -8948,7 +8948,7 @@
         "groupid": "29",
         "grouplevel": "4",
         "icon": "Buff_power-,Buff_power-",
-        "time": "2",
+        "time": "3",
         "type": "0"
     },
     {
@@ -8972,7 +8972,7 @@
         "groupid": "29",
         "grouplevel": "2",
         "icon": "Buff_power-,Buff_power-",
-        "time": "2",
+        "time": "3",
         "type": "0"
     },
     {
@@ -8984,7 +8984,7 @@
         "groupid": "29",
         "grouplevel": "3",
         "icon": "Buff_power-,Buff_power-",
-        "time": "2",
+        "time": "3",
         "type": "0"
     },
     {

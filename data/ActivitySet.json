@@ -1,12 +1,34 @@
 [
     {
+        "activityContent": "ハロウィン イベント",
+        "activityId": "2",
+        "activityType": "3",
+        "activityTypeId": "98",
+        "endDatetimeT": "1573675199000",
+        "imgIndex": "Event_Quest03",
+        "index": "1",
+        "position": "",
+        "startDatetimeT": "1572465600000"
+    },
+    {
         "activityContent": "期間限定    イベント",
         "activityId": "1",
         "activityType": "3",
         "activityTypeId": "99",
         "endDatetimeT": "1573675199000",
         "imgIndex": "Event_Quest02",
-        "index": "1",
+        "index": "2",
+        "position": "",
+        "startDatetimeT": "1571860800000"
+    },
+    {
+        "activityContent": "ハロウィン    ログインボーナス",
+        "activityId": "53",
+        "activityType": "1",
+        "activityTypeId": "SC3",
+        "endDatetimeT": "1573675199000",
+        "imgIndex": "Event_Login02",
+        "index": "3",
         "position": "",
         "startDatetimeT": "1571860800000"
     },
@@ -17,7 +39,7 @@
         "activityTypeId": "SC1",
         "endDatetimeT": "0",
         "imgIndex": "Event_LoginBeginer",
-        "index": "2",
+        "index": "4",
         "position": "",
         "startDatetimeT": "0"
     },
@@ -28,7 +50,7 @@
         "activityTypeId": "SC2",
         "endDatetimeT": "1573675199000",
         "imgIndex": "Event_Login01",
-        "index": "3",
+        "index": "5",
         "position": "",
         "startDatetimeT": "1571860800000"
     },
@@ -39,7 +61,7 @@
         "activityTypeId": "SM1910",
         "endDatetimeT": "1572551999000",
         "imgIndex": "Home_Banner_Default",
-        "index": "5",
+        "index": "99",
         "position": "",
         "startDatetimeT": "1569873600000"
     },
@@ -50,7 +72,7 @@
         "activityTypeId": "SM1911",
         "endDatetimeT": "1575143999000",
         "imgIndex": "Home_Banner_Default",
-        "index": "5",
+        "index": "99",
         "position": "",
         "startDatetimeT": "1572552000000"
     },
@@ -61,7 +83,7 @@
         "activityTypeId": "SM1912",
         "endDatetimeT": "1577822399000",
         "imgIndex": "Home_Banner_Default",
-        "index": "5",
+        "index": "99",
         "position": "",
         "startDatetimeT": "1575144000000"
     }

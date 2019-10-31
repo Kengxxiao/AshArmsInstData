@@ -48,6 +48,30 @@
         "ResDes": ""
     },
     {
+        "TypeNum": "401",
+        "TypeName": "アイテム交換",
+        "StoreType": 3,
+        "UseRes": "IM99996",
+        "Lock": 0,
+        "ShowRes": 1,
+        "CanBuyMore": 1,
+        "TagName": "Shop_Tag_HLW",
+        "ShowType": 1,
+        "ResDes": ""
+    },
+    {
+        "TypeNum": "402",
+        "TypeName": "構成体交換",
+        "StoreType": 2,
+        "UseRes": "IM99996",
+        "Lock": 0,
+        "ShowRes": 1,
+        "CanBuyMore": 1,
+        "TagName": "Shop_Tag_HLW",
+        "ShowType": 1,
+        "ResDes": ""
+    },
+    {
         "TypeNum": "300",
         "TypeName": "戦役勲章",
         "StoreType": 2,
