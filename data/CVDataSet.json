@@ -88,7 +88,7 @@
             },
             {
                 "CVType": "ModificationRockOn",
-                "CVDetail": "хорошо 強くなれるのは嬉しいです。みんなを守れるから。"
+                "CVDetail": "хорошо 　強くなれるのは嬉しいです。みんなを守れるから。"
             },
             {
                 "CVType": "MVP",
@@ -112,7 +112,7 @@
             },
             {
                 "CVType": "Ready1",
-                "CVDetail": "Свозвращением、同志代理人様。"
+                "CVDetail": "С возвращением、同志代理人様。"
             },
             {
                 "CVType": "Recovery",
@@ -152,7 +152,7 @@
             },
             {
                 "CVType": "Title",
-                "CVDetail": "アッシュアームズ‐灰燼戦線"
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
             },
             {
                 "CVType": "Win",
@@ -313,7 +313,7 @@
             },
             {
                 "CVType": "Title",
-                "CVDetail": "アッシュアームズ‐灰燼戦線"
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
             },
             {
                 "CVType": "Win",
@@ -474,7 +474,7 @@
             },
             {
                 "CVType": "Title",
-                "CVDetail": "アッシュアームズ‐灰燼戦線"
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
             },
             {
                 "CVType": "Win",
@@ -599,7 +599,7 @@
             },
             {
                 "CVType": "Recovery",
-                "CVDetail": "資源回収部隊が戻って参りましたわ。\r\nこれで１００年は戦えますわ！"
+                "CVDetail": "資源回収部隊が戻って参りましたわ。\nこれで１００年は戦えますわ！"
             },
             {
                 "CVType": "RTB",
@@ -619,7 +619,7 @@
             },
             {
                 "CVType": "TapBody1",
-                "CVDetail": "わたくしという素晴らしいDOLLSがいるのですから、敗北は許されませんわ。\r\nアイドルが負けたら、ファンががっかりしてしまいますもの。"
+                "CVDetail": "わたくしという素晴らしいDOLLSがいるのですから、敗北は許されませんわ。\nアイドルが負けたら、ファンががっかりしてしまいますもの。"
             },
             {
                 "CVType": "TapBody2",
@@ -635,7 +635,7 @@
             },
             {
                 "CVType": "Title",
-                "CVDetail": "アッシュアームズ‐灰燼戦線"
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
             },
             {
                 "CVType": "Win",
@@ -796,7 +796,7 @@
             },
             {
                 "CVType": "Title",
-                "CVDetail": "アッシュアームズ‐灰燼戦線"
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
             },
             {
                 "CVType": "Win",
@@ -2196,11 +2196,11 @@
             },
             {
                 "CVType": "ModificationChange",
-                "CVDetail": "見て！エンジンを入れ替えたの！\r\nふふ～ん、モノが違うよ！"
+                "CVDetail": "見て！エンジンを入れ替えたの！\nふふ～ん、モノが違うよ！"
             },
             {
                 "CVType": "ModificationRockOn",
-                "CVDetail": "もっと強くなって、\r\n勲章をたくさん貰うんだ！"
+                "CVDetail": "もっと強くなって、\n勲章をたくさん貰うんだ！"
             },
             {
                 "CVType": "MVP",
@@ -2248,7 +2248,7 @@
             },
             {
                 "CVType": "TapBody1",
-                "CVDetail": "ねえ、代理人くん。\r\nあたしにプレゼントあるんじゃないの？\r\n勲章とか……勲章とかあ……。"
+                "CVDetail": "ねえ、代理人くん。\nあたしにプレゼントあるんじゃないの？\n勲章とか……勲章とかあ……。"
             },
             {
                 "CVType": "TapBody2",
@@ -2640,7 +2640,7 @@
             },
             {
                 "CVType": "Recovery",
-                "CVDetail": "資源回収部隊が帰還しましたね！\r\nこれで１００年は戦えます！"
+                "CVDetail": "資源回収部隊が帰還しましたね！\nこれで１００年は戦えます！"
             },
             {
                 "CVType": "RTB",
@@ -2947,7 +2947,7 @@
             },
             {
                 "CVType": "Intro",
-                "CVDetail": "星屑連邦学連のM10ウルヴァリン！大自然に囲まれた田舎で育ったんだ！\r\nだから見る物全部が楽しい！代理人！一緒に遊ぼうよ！"
+                "CVDetail": "星屑連邦学連のM10ウルヴァリン！大自然に囲まれた田舎で育ったんだ！\nだから見る物全部が楽しい！代理人！一緒に遊ぼうよ！"
             },
             {
                 "CVType": "Launch",
@@ -3035,7 +3035,7 @@
             },
             {
                 "CVType": "TapBody3",
-                "CVDetail": "アタシ、知らないことたくさんあるから、\r\n代理人には色々教えて欲しいな。代理人が知らないことはアタシが教えてあげる！えへへー！"
+                "CVDetail": "アタシ、知らないことたくさんあるから、\n代理人には色々教えて欲しいな。代理人が知らないことはアタシが教えてあげる！えへへー！"
             },
             {
                 "CVType": "TapHead1",
@@ -4054,7 +4054,7 @@
             },
             {
                 "CVType": "Title",
-                "CVDetail": "アッシュアームズ‐灰燼戦線"
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
             },
             {
                 "CVType": "Win",
@@ -4215,7 +4215,7 @@
             },
             {
                 "CVType": "Title",
-                "CVDetail": "アッシュアームズ‐灰燼戦線"
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
             },
             {
                 "CVType": "Win",
@@ -4292,7 +4292,7 @@
             },
             {
                 "CVType": "Lose",
-                "CVDetail": "神の代行者たる私を貶めるとは、どこまでも不敬な……！"
+                "CVDetail": "神の代弁者たる私を貶めるとは、どこまでも不敬な……！"
             },
             {
                 "CVType": "LvUP",
@@ -4368,7 +4368,7 @@
             },
             {
                 "CVType": "TapBody3",
-                "CVDetail": "私は運動を積極的に行う者の正気を疑う。ゆえに神の敵ではと考えたが、寛大な神はこう仰った。それだけでは裁くに能わないので、もう一つ何か気に食わないことがあれば、その時に裁きを与えよ……と"
+                "CVDetail": "私は運動を積極的に行う者の正気を疑う。ゆえに神の敵ではと考えたが、寛大な神はこう仰った。それだけでは裁くには能わないので、もう一つ何か気に食わないことがあれば、その時に裁きを与えよ……と"
             },
             {
                 "CVType": "TapHead1",
@@ -4376,7 +4376,7 @@
             },
             {
                 "CVType": "Title",
-                "CVDetail": "アッシュアームズ‐灰燼戦線"
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
             },
             {
                 "CVType": "Win",
@@ -4469,7 +4469,7 @@
             },
             {
                 "CVType": "ModificationChange",
-                "CVDetail": "グリレＫ型に改造完了、冬季迷彩へお召し替えもして……あ、このエーデルワイスはマルダーちゃんがつけてくれたんです。似合い、ますか……？　……そう。えへへ。\r\n\r\n※「マルダー」じゃないパターン\r\nグリレＫ型に改造完了、冬季迷彩へお召し替えもして……あ、このエーデルワイスはご褒美につけてくれたんです。似合い、ますか……？　……そう。えへへ。"
+                "CVDetail": "グリレＫ型に改造完了、冬季迷彩へお召し替えもして……あ、このエーデルワイスはマルダーちゃんがつけてくれたんです。似合い、ますか……？　……そう。えへへ。"
             },
             {
                 "CVType": "ModificationRockOn",
@@ -4537,11 +4537,333 @@
             },
             {
                 "CVType": "Title",
-                "CVDetail": "アッシュアームズ‐灰燼戦線"
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
             },
             {
                 "CVType": "Win",
                 "CVDetail": "やったー。次の戦場はどこですか？"
+            }
+        ]
+    },
+    {
+        "ARMSID": "ARM105601",
+        "CVDesArray": [
+            {
+                "CVType": "Attack1",
+                "CVDetail": "ドッカーン"
+            },
+            {
+                "CVType": "Attack2",
+                "CVDetail": "やってみるね"
+            },
+            {
+                "CVType": "Change1",
+                "CVDetail": "これでも、早く動ける"
+            },
+            {
+                "CVType": "Change2",
+                "CVDetail": "防御には自信がある。カチンコチン"
+            },
+            {
+                "CVType": "Dead",
+                "CVDetail": "これ以上は、ダメ……"
+            },
+            {
+                "CVType": "Dispatch",
+                "CVDetail": "資源回収部隊が、行っちゃうんだね。寂しい……"
+            },
+            {
+                "CVType": "Dmg1",
+                "CVDetail": "はう"
+            },
+            {
+                "CVType": "Dmg2",
+                "CVDetail": "揺れてる……"
+            },
+            {
+                "CVType": "Emotion1",
+                "CVDetail": "うん……"
+            },
+            {
+                "CVType": "Emotion2",
+                "CVDetail": "やだ……"
+            },
+            {
+                "CVType": "Emotion3",
+                "CVDetail": "どうも"
+            },
+            {
+                "CVType": "Emotion4",
+                "CVDetail": "のそのそ……"
+            },
+            {
+                "CVType": "GoGo",
+                "CVDetail": "頑張る……"
+            },
+            {
+                "CVType": "Intro",
+                "CVDetail": "暑い、働きたくない…赤色十月同盟学連、KV-2。私について、あまり詮索しないで欲しい。代理人のためにも……それがいい。"
+            },
+            {
+                "CVType": "Launch",
+                "CVDetail": "いいよ、行くね……"
+            },
+            {
+                "CVType": "LdSkill",
+                "CVDetail": "みんなのために、ウラー"
+            },
+            {
+                "CVType": "Lose",
+                "CVDetail": "負けちゃった…"
+            },
+            {
+                "CVType": "LvUP",
+                "CVDetail": "私は強い、ぶい"
+            },
+            {
+                "CVType": "Mail",
+                "CVDetail": "メール、持ってきた"
+            },
+            {
+                "CVType": "Miss",
+                "CVDetail": "意外と、動く"
+            },
+            {
+                "CVType": "ModificationChange",
+                "CVDetail": "ぷは～、暑かった…これが本当の私。……うぅ、眩しい。眠っていい？"
+            },
+            {
+                "CVType": "ModificationRockOn",
+                "CVDetail": "本当の私、代理人になら見せてあげてもいい"
+            },
+            {
+                "CVType": "MVP",
+                "CVDetail": "あんまり、見ちゃダメ"
+            },
+            {
+                "CVType": "Order",
+                "CVDetail": "これだけたくさんいれば、私は働かなくてもいいかもしれない……ニートになる、なろう"
+            },
+            {
+                "CVType": "PowerUp1",
+                "CVDetail": "中が快適になった、ぐう……"
+            },
+            {
+                "CVType": "PowerUp2",
+                "CVDetail": "ありがとう、代理人"
+            },
+            {
+                "CVType": "PowerUp3",
+                "CVDetail": "これで、脱がなくても生活できる"
+            },
+            {
+                "CVType": "Ready1",
+                "CVDetail": "代理人、待ってた……。今日は何するの……？あ、やっぱり働きたくない"
+            },
+            {
+                "CVType": "Recovery",
+                "CVDetail": "資源回収部隊が帰ってきたよ。お迎えに行ってあげて"
+            },
+            {
+                "CVType": "RTB",
+                "CVDetail": "帰ってアイス食べたい…"
+            },
+            {
+                "CVType": "Skill1",
+                "CVDetail": "口径こそ…正義！"
+            },
+            {
+                "CVType": "Skill2",
+                "CVDetail": "火力は申し分ないの"
+            },
+            {
+                "CVType": "SPSkill",
+                "CVDetail": "私は格闘戦もできるの。ひっさ～つ、KVアタック～"
+            },
+            {
+                "CVType": "TapBody1",
+                "CVDetail": "着ぐるみの中は暖かいし、寒くないし、好きなときに寝れるから、いい……"
+            },
+            {
+                "CVType": "TapBody2",
+                "CVDetail": "何もしないことをするって、素敵…代理人もそう思わない？え、ニート？耳に152mm砲が詰まって聞こえなーい…"
+            },
+            {
+                "CVType": "TapBody3",
+                "CVDetail": "ウォッカとアイスは、好き。着ぐるみの中に、いつも用意してる"
+            },
+            {
+                "CVType": "TapHead1",
+                "CVDetail": "う……？"
+            },
+            {
+                "CVType": "Title",
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
+            },
+            {
+                "CVType": "Win",
+                "CVDetail": "やったね"
+            }
+        ]
+    },
+    {
+        "ARMSID": "ARM105701",
+        "CVDesArray": [
+            {
+                "CVType": "Attack1",
+                "CVDetail": "Огонь！"
+            },
+            {
+                "CVType": "Attack2",
+                "CVDetail": "神の導きなど必要ない！"
+            },
+            {
+                "CVType": "Change1",
+                "CVDetail": "за мной！"
+            },
+            {
+                "CVType": "Change2",
+                "CVDetail": "Удерживать позицию！"
+            },
+            {
+                "CVType": "Dead",
+                "CVDetail": "また畑から採れるさ、DOLLSなんて"
+            },
+            {
+                "CVType": "Dispatch",
+                "CVDetail": "派遣させるのね、つまりパシリってこと？"
+            },
+            {
+                "CVType": "Dmg1",
+                "CVDetail": "Чёрт！"
+            },
+            {
+                "CVType": "Dmg2",
+                "CVDetail": "んぐっ！"
+            },
+            {
+                "CVType": "Emotion1",
+                "CVDetail": "Да！妥協点ね"
+            },
+            {
+                "CVType": "Emotion2",
+                "CVDetail": "Нет！馬鹿馬鹿しい"
+            },
+            {
+                "CVType": "Emotion3",
+                "CVDetail": "遅いわこの間抜け"
+            },
+            {
+                "CVType": "Emotion4",
+                "CVDetail": "無駄よ"
+            },
+            {
+                "CVType": "GoGo",
+                "CVDetail": "Да！準備はとっくにできてる"
+            },
+            {
+                "CVType": "Intro",
+                "CVDetail": "Очень приятно.ИСシリーズ最初のИС-1よ、Oktyabr　Союзのね。ヤツは何処にいる？Тигрのことよ"
+            },
+            {
+                "CVType": "Launch",
+                "CVDetail": "侵略者どもに鉄槌を！Ураааааааа!"
+            },
+            {
+                "CVType": "LdSkill",
+                "CVDetail": "邪魔をする者は粛清あるのみ"
+            },
+            {
+                "CVType": "Lose",
+                "CVDetail": "「無敗」なんてものは存在しない、心せよ同志代理人"
+            },
+            {
+                "CVType": "LvUP",
+                "CVDetail": "こんなもんでしょう"
+            },
+            {
+                "CVType": "Mail",
+                "CVDetail": "電文だ、早く読み上げなさい"
+            },
+            {
+                "CVType": "Miss",
+                "CVDetail": "あらら"
+            },
+            {
+                "CVType": "ModificationChange",
+                "CVDetail": "ИС-1改め、ИС-2よ。スターリン重戦車とも呼ぶらしい。Тигр！新調した122mm砲の威力を確かめるわよ！って何故逃げる？まあ…改めてよろしく、同志代理人"
+            },
+            {
+                "CVType": "ModificationRockOn",
+                "CVDetail": "改造プランが提示されたわよ、検討する時間を与えてやる"
+            },
+            {
+                "CVType": "MVP",
+                "CVDetail": "「猛獣狩り」の異名は伊達じゃない、そうよね？Тигр"
+            },
+            {
+                "CVType": "Order",
+                "CVDetail": "ふぅん……案外可愛いのね。私って\n触ってみてよ、代理人も"
+            },
+            {
+                "CVType": "PowerUp1",
+                "CVDetail": "真面目にやらないと"
+            },
+            {
+                "CVType": "PowerUp2",
+                "CVDetail": "Спасибо!　"
+            },
+            {
+                "CVType": "PowerUp3",
+                "CVDetail": "やるだけやるけど、期待しないでね"
+            },
+            {
+                "CVType": "Ready1",
+                "CVDetail": "遅いわよ代理人、早く任務を。Давай быстро !"
+            },
+            {
+                "CVType": "Recovery",
+                "CVDetail": "帰ってきて良かったわね、いいと思うわ"
+            },
+            {
+                "CVType": "RTB",
+                "CVDetail": "任務完了、悪いけど休暇を貰うわ。何か異義でも？"
+            },
+            {
+                "CVType": "Skill1",
+                "CVDetail": "恐怖を刻み込んでやる！"
+            },
+            {
+                "CVType": "Skill2",
+                "CVDetail": "「人間」が創った神に用はない、Огонь！"
+            },
+            {
+                "CVType": "SPSkill",
+                "CVDetail": "ЗА Родину！「祖国」の為に！"
+            },
+            {
+                "CVType": "TapBody1",
+                "CVDetail": "そこで倒れている「人間」か？さっき同志T-34のことを「ガキ」ってバカにした「人間」の末路よ。あの子を見た目で判断しちゃダメ。まあ安心しな、手足が変な方向に曲がってるだけよ"
+            },
+            {
+                "CVType": "TapBody2",
+                "CVDetail": "一息付いたらまたТигрと遊びに行くわ、私はヤツを屠る為に生まれたハズなのに、今はお互い仲間みたいなもの。不思議ね、この世界は…"
+            },
+            {
+                "CVType": "TapBody3",
+                "CVDetail": "無意味で効率の悪いことは嫌い、余計な仕事が増えるだけ。ん？何故だって？仕事をさっさと終わらせて、暇なときは遊んでいたいからよ、仕事とプライベートの両立は大事、同志代理人もそう思わない？"
+            },
+            {
+                "CVType": "TapHead1",
+                "CVDetail": "「死」は全てを解決する、これ以上私に言わせないで"
+            },
+            {
+                "CVType": "Title",
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
+            },
+            {
+                "CVType": "Win",
+                "CVDetail": "「祖国」に仇なすものには贅沢すぎる墓場ね"
             }
         ]
     },
@@ -4698,7 +5020,7 @@
             },
             {
                 "CVType": "Title",
-                "CVDetail": "アッシュアームズ‐灰燼戦線"
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
             },
             {
                 "CVType": "Win",
@@ -4859,7 +5181,7 @@
             },
             {
                 "CVType": "Title",
-                "CVDetail": "アッシュアームズ‐灰燼戦線"
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
             },
             {
                 "CVType": "Win",
@@ -5181,7 +5503,7 @@
             },
             {
                 "CVType": "Title",
-                "CVDetail": "アッシュアームズ‐灰燼戦線"
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
             },
             {
                 "CVType": "Win",
@@ -5342,7 +5664,7 @@
             },
             {
                 "CVType": "Title",
-                "CVDetail": "アッシュアームズ‐灰燼戦線"
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
             },
             {
                 "CVType": "Win",
@@ -5503,7 +5825,7 @@
             },
             {
                 "CVType": "Title",
-                "CVDetail": "アッシュアームズ‐灰燼戦線"
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
             },
             {
                 "CVType": "Win",
@@ -5664,7 +5986,7 @@
             },
             {
                 "CVType": "Title",
-                "CVDetail": "アッシュアームズ‐灰燼戦線"
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
             },
             {
                 "CVType": "Win",
@@ -5697,7 +6019,7 @@
             },
             {
                 "CVType": "Dispatch",
-                "CVDetail": "資源回収部隊が出発するみたいです～。\r\n頑張って～。"
+                "CVDetail": "資源回収部隊が出発するみたいです～。\n頑張って～。"
             },
             {
                 "CVType": "Dmg1",
@@ -5761,7 +6083,7 @@
             },
             {
                 "CVType": "ModificationRockOn",
-                "CVDetail": "もっとお役に立ちたいので～。\r\n改造を検討して下さい～。"
+                "CVDetail": "もっとお役に立ちたいので～。\n改造を検討して下さい～。"
             },
             {
                 "CVType": "MVP",
@@ -5785,11 +6107,11 @@
             },
             {
                 "CVType": "Ready1",
-                "CVDetail": "ど～も～。代理人さん。\r\nごきげんよ～です～。"
+                "CVDetail": "ど～も～。代理人さん。\nごきげんよ～です～。"
             },
             {
                 "CVType": "Recovery",
-                "CVDetail": "資源回収部隊が帰ってきました～。\r\n良かったです～。"
+                "CVDetail": "資源回収部隊が帰ってきました～。\n良かったです～。"
             },
             {
                 "CVType": "RTB",
@@ -5809,7 +6131,7 @@
             },
             {
                 "CVType": "TapBody1",
-                "CVDetail": "結構昔から戦っているんですけど～。\r\n足が遅いせいでなかなか活躍できて\r\nいないんですよね～。"
+                "CVDetail": "結構昔から戦っているんですけど～。\n足が遅いせいでなかなか活躍できて\nいないんですよね～。"
             },
             {
                 "CVType": "TapBody2",
@@ -5825,7 +6147,7 @@
             },
             {
                 "CVType": "Title",
-                "CVDetail": "アッシュアームズ‐灰燼戦線"
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
             },
             {
                 "CVType": "Win",
@@ -5986,7 +6308,7 @@
             },
             {
                 "CVType": "Title",
-                "CVDetail": "アッシュアームズ‐灰燼戦線"
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
             },
             {
                 "CVType": "Win",
@@ -6139,7 +6461,7 @@
             },
             {
                 "CVType": "TapBody3",
-                "CVDetail": "いい機会だから言ってやるが、アタシは\r\n触られるのが嫌いなんだ。意味分かったか？だったらあっち行ってくれよ。"
+                "CVDetail": "いい機会だから言ってやるが、アタシは\n触られるのが嫌いなんだ。意味分かったか？だったらあっち行ってくれよ。"
             },
             {
                 "CVType": "TapHead1",
@@ -6147,7 +6469,7 @@
             },
             {
                 "CVType": "Title",
-                "CVDetail": "アッシュアームズ‐灰燼戦線"
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
             },
             {
                 "CVType": "Win",
@@ -6244,7 +6566,7 @@
             },
             {
                 "CVType": "ModificationRockOn",
-                "CVDetail": "現状でも問題はありませんが、\r\n戦力向上は良いことです。"
+                "CVDetail": "現状でも問題はありませんが、\n戦力向上は良いことです。"
             },
             {
                 "CVType": "MVP",
@@ -6264,7 +6586,7 @@
             },
             {
                 "CVType": "PowerUp3",
-                "CVDetail": "なるほど、私を強化するとは。\r\n興味深いことです。"
+                "CVDetail": "なるほど、私を強化するとは。\n興味深いことです。"
             },
             {
                 "CVType": "Ready1",
@@ -6276,7 +6598,7 @@
             },
             {
                 "CVType": "RTB",
-                "CVDetail": "お疲れ様です。この後はマッサージが\r\n科学的に良いかと。"
+                "CVDetail": "お疲れ様です。この後はマッサージが\n科学的に良いかと。"
             },
             {
                 "CVType": "Skill1",
@@ -6308,7 +6630,7 @@
             },
             {
                 "CVType": "Title",
-                "CVDetail": "アッシュアームズ‐灰燼戦線"
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
             },
             {
                 "CVType": "Win",
@@ -6469,7 +6791,7 @@
             },
             {
                 "CVType": "Title",
-                "CVDetail": "アッシュアームズ‐灰燼戦線"
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
             },
             {
                 "CVType": "Win",
@@ -6630,7 +6952,7 @@
             },
             {
                 "CVType": "Title",
-                "CVDetail": "アッシュアームズ‐灰燼戦線"
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
             },
             {
                 "CVType": "Win",
@@ -6836,7 +7158,7 @@
             },
             {
                 "CVType": "Title",
-                "CVDetail": "アッシュアームズ‐灰燼戦線"
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
             },
             {
                 "CVType": "Win",
@@ -7042,7 +7364,7 @@
             },
             {
                 "CVType": "Title",
-                "CVDetail": "アッシュアームズ‐灰燼戦線"
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
             },
             {
                 "CVType": "Win",
@@ -7075,7 +7397,7 @@
             },
             {
                 "CVType": "Dispatch",
-                "CVDetail": "資源回収部隊、しゅっぱーつ！\r\n頑張ってくるんだよぉ～！"
+                "CVDetail": "資源回収部隊、しゅっぱーつ！\n頑張ってくるんだよぉ～！"
             },
             {
                 "CVType": "Dmg1",
@@ -7139,7 +7461,7 @@
             },
             {
                 "CVType": "ModificationRockOn",
-                "CVDetail": "あたしがこれ以上強くなるとか、\r\n最高だよなぁ。"
+                "CVDetail": "あたしがこれ以上強くなるとか、\n最高だよなぁ。"
             },
             {
                 "CVType": "MVP",
@@ -7167,7 +7489,7 @@
             },
             {
                 "CVType": "Recovery",
-                "CVDetail": "資源回収部隊が戻ってきたって！\r\n迎えに行ってあげようよ！"
+                "CVDetail": "資源回収部隊が戻ってきたって！\n迎えに行ってあげようよ！"
             },
             {
                 "CVType": "RTB",
@@ -7195,7 +7517,7 @@
             },
             {
                 "CVType": "TapBody3",
-                "CVDetail": "閣下、あんまり他のDOLLSばっかり見ないでよぉ？　なんでってそりゃ……。\r\nいいでしょ、別になんだって！"
+                "CVDetail": "閣下、あんまり他のDOLLSばっかり見ないでよぉ？なんでってそりゃ……。\nいいでしょ、別になんだって！"
             },
             {
                 "CVType": "TapHead1",
@@ -7203,7 +7525,7 @@
             },
             {
                 "CVType": "Title",
-                "CVDetail": "アッシュアームズ‐灰燼戦線"
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
             },
             {
                 "CVType": "Win",
@@ -7364,7 +7686,7 @@
             },
             {
                 "CVType": "Title",
-                "CVDetail": "アッシュアームズ‐灰燼戦線"
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
             },
             {
                 "CVType": "Win",
@@ -7525,7 +7847,7 @@
             },
             {
                 "CVType": "Title",
-                "CVDetail": "アッシュアームズ‐灰燼戦線"
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
             },
             {
                 "CVType": "Win",
@@ -7686,7 +8008,7 @@
             },
             {
                 "CVType": "Title",
-                "CVDetail": "アッシュアームズ-灰燼戦線-(かいじんせんせん)"
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
             },
             {
                 "CVType": "Win",
@@ -7847,7 +8169,7 @@
             },
             {
                 "CVType": "Title",
-                "CVDetail": "アッシュアームズ-灰燼戦線-(かいじんせんせん)"
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
             },
             {
                 "CVType": "Win",
@@ -8008,7 +8330,7 @@
             },
             {
                 "CVType": "Title",
-                "CVDetail": "アッシュアームズ-灰燼戦線-(かいじんせんせん)"
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
             },
             {
                 "CVType": "Win",
@@ -8169,7 +8491,7 @@
             },
             {
                 "CVType": "Title",
-                "CVDetail": "アッシュアームズ-灰燼戦線-(かいじんせんせん)"
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
             },
             {
                 "CVType": "Win",
@@ -8330,7 +8652,7 @@
             },
             {
                 "CVType": "Title",
-                "CVDetail": "アッシュアームズ-灰燼戦線-(かいじんせんせん)"
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
             },
             {
                 "CVType": "Win",
@@ -8491,7 +8813,7 @@
             },
             {
                 "CVType": "Title",
-                "CVDetail": "アッシュアームズ-灰燼戦線-(かいじんせんせん)"
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
             },
             {
                 "CVType": "Win",
@@ -8652,7 +8974,7 @@
             },
             {
                 "CVType": "Title",
-                "CVDetail": "アッシュアームズ-灰燼戦線-(かいじんせんせん)"
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
             },
             {
                 "CVType": "Win",
@@ -8813,7 +9135,7 @@
             },
             {
                 "CVType": "Title",
-                "CVDetail": "アッシュアームズ‐灰燼戦線"
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
             },
             {
                 "CVType": "Win",

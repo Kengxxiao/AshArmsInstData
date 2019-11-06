@@ -357,7 +357,7 @@
         "ResSlot2": "0,0,0",
         "ResSlot1": "1,0,1",
         "HelpPPT": "Help_MapViewScene_ToBattlePanel",
-        "BGM": "107_Search"
+        "BGM": "103_Team"
     },
     {
         "SceneName": "MapViewScene",

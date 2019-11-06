@@ -17,13 +17,13 @@
         "DropAmount": "大量,中量",
         "Describe": "月曜日開放 ",
         "DailyEventType": "1",
-        "bgm": "202_Battle_Heat"
+        "bgm": "203_Battle_Ice"
     },
     {
         "EventID": "DVE010103",
         "EventName": "情報収集 - ハード",
         "LvRec": "40",
-        "EventDrop": "II10002,II10003",
+        "EventDrop": "II10003,II10004",
         "DropAmount": "大量,中量",
         "Describe": "月曜日開放 ",
         "DailyEventType": "1",
@@ -33,11 +33,11 @@
         "EventID": "DVE010104",
         "EventName": "情報収集 - エクストラ",
         "LvRec": "60",
-        "EventDrop": "II10002,II10003,II10004",
-        "DropAmount": "大量,中量,少量",
+        "EventDrop": "II10003,II10004",
+        "DropAmount": "大量,中量",
         "Describe": "月曜日開放 ",
         "DailyEventType": "1",
-        "bgm": "201_Battle_Fused"
+        "bgm": "203_Battle_Ice"
     },
     {
         "EventID": "DVE010201",
@@ -57,13 +57,13 @@
         "DropAmount": "大量,中量",
         "Describe": "水曜日開放 ",
         "DailyEventType": "1",
-        "bgm": "202_Battle_Heat"
+        "bgm": "203_Battle_Ice"
     },
     {
         "EventID": "DVE010203",
         "EventName": "情報収集 - ハード",
         "LvRec": "40",
-        "EventDrop": "II10002,II10003",
+        "EventDrop": "II10003,II10004",
         "DropAmount": "大量,中量",
         "Describe": "水曜日開放 ",
         "DailyEventType": "1",
@@ -73,11 +73,11 @@
         "EventID": "DVE010204",
         "EventName": "情報収集 - エクストラ",
         "LvRec": "60",
-        "EventDrop": "II10002,II10003,II10004",
-        "DropAmount": "大量,中量,少量",
+        "EventDrop": "II10003,II10004",
+        "DropAmount": "大量,中量",
         "Describe": "水曜日開放 ",
         "DailyEventType": "1",
-        "bgm": "201_Battle_Fused"
+        "bgm": "203_Battle_Ice"
     },
     {
         "EventID": "DVE010301",
@@ -97,13 +97,13 @@
         "DropAmount": "大量,中量",
         "Describe": "水曜日開放 ",
         "DailyEventType": "1",
-        "bgm": "202_Battle_Heat"
+        "bgm": "203_Battle_Ice"
     },
     {
         "EventID": "DVE010303",
         "EventName": "情報収集 - ハード",
         "LvRec": "40",
-        "EventDrop": "II10002,II10003",
+        "EventDrop": "II10003,II10004",
         "DropAmount": "大量,中量",
         "Describe": "水曜日開放 ",
         "DailyEventType": "1",
@@ -113,11 +113,11 @@
         "EventID": "DVE010304",
         "EventName": "情報収集 - エクストラ",
         "LvRec": "60",
-        "EventDrop": "II10002,II10003,II10004",
-        "DropAmount": "大量,中量,少量",
+        "EventDrop": "II10003,II10004",
+        "DropAmount": "大量,中量",
         "Describe": "水曜日開放 ",
         "DailyEventType": "1",
-        "bgm": "201_Battle_Fused"
+        "bgm": "203_Battle_Ice"
     },
     {
         "EventID": "DVE010401",
@@ -137,13 +137,13 @@
         "DropAmount": "大量,中量",
         "Describe": "金曜日開放 ",
         "DailyEventType": "1",
-        "bgm": "202_Battle_Heat"
+        "bgm": "203_Battle_Ice"
     },
     {
         "EventID": "DVE010403",
         "EventName": "情報収集 - ハード",
         "LvRec": "40",
-        "EventDrop": "II10002,II10003",
+        "EventDrop": "II10003,II10004",
         "DropAmount": "大量,中量",
         "Describe": "金曜日開放 ",
         "DailyEventType": "1",
@@ -153,11 +153,11 @@
         "EventID": "DVE010404",
         "EventName": "情報収集 - エクストラ",
         "LvRec": "60",
-        "EventDrop": "II10002,II10003,II10004",
-        "DropAmount": "大量,中量,少量",
+        "EventDrop": "II10003,II10004",
+        "DropAmount": "大量,中量",
         "Describe": "金曜日開放 ",
         "DailyEventType": "1",
-        "bgm": "201_Battle_Fused"
+        "bgm": "203_Battle_Ice"
     },
     {
         "EventID": "DVE010501",
@@ -177,13 +177,13 @@
         "DropAmount": "大量,中量",
         "Describe": "金曜日開放 ",
         "DailyEventType": "1",
-        "bgm": "202_Battle_Heat"
+        "bgm": "203_Battle_Ice"
     },
     {
         "EventID": "DVE010503",
         "EventName": "情報収集 - ハード",
         "LvRec": "40",
-        "EventDrop": "II10002,II10003",
+        "EventDrop": "II10003,II10004",
         "DropAmount": "大量,中量",
         "Describe": "金曜日開放 ",
         "DailyEventType": "1",
@@ -193,11 +193,11 @@
         "EventID": "DVE010504",
         "EventName": "情報収集 - エクストラ",
         "LvRec": "60",
-        "EventDrop": "II10002,II10003,II10004",
-        "DropAmount": "大量,中量,少量",
+        "EventDrop": "II10003,II10004",
+        "DropAmount": "大量,中量",
         "Describe": "金曜日開放 ",
         "DailyEventType": "1",
-        "bgm": "201_Battle_Fused"
+        "bgm": "203_Battle_Ice"
     },
     {
         "EventID": "DVE010601",
@@ -217,13 +217,13 @@
         "DropAmount": "大量,中量",
         "Describe": "日曜日開放 ",
         "DailyEventType": "1",
-        "bgm": "202_Battle_Heat"
+        "bgm": "203_Battle_Ice"
     },
     {
         "EventID": "DVE010603",
         "EventName": "情報収集 - ハード",
         "LvRec": "40",
-        "EventDrop": "II10002,II10003",
+        "EventDrop": "II10003,II10004",
         "DropAmount": "大量,中量",
         "Describe": "日曜日開放 ",
         "DailyEventType": "1",
@@ -233,11 +233,11 @@
         "EventID": "DVE010604",
         "EventName": "情報収集 - エクストラ",
         "LvRec": "60",
-        "EventDrop": "II10002,II10003,II10004",
-        "DropAmount": "大量,中量,少量",
+        "EventDrop": "II10003,II10004",
+        "DropAmount": "大量,中量",
         "Describe": "日曜日開放 ",
         "DailyEventType": "1",
-        "bgm": "201_Battle_Fused"
+        "bgm": "203_Battle_Ice"
     },
     {
         "EventID": "DVE010701",
@@ -257,13 +257,13 @@
         "DropAmount": "大量,中量",
         "Describe": "日曜日開放 ",
         "DailyEventType": "1",
-        "bgm": "202_Battle_Heat"
+        "bgm": "203_Battle_Ice"
     },
     {
         "EventID": "DVE010703",
         "EventName": "情報収集 - ハード",
         "LvRec": "40",
-        "EventDrop": "II10002,II10003",
+        "EventDrop": "II10003,II10004",
         "DropAmount": "大量,中量",
         "Describe": "日曜日開放 ",
         "DailyEventType": "1",
@@ -273,11 +273,11 @@
         "EventID": "DVE010704",
         "EventName": "情報収集 - エクストラ",
         "LvRec": "60",
-        "EventDrop": "II10002,II10003,II10004",
-        "DropAmount": "大量,中量,少量",
+        "EventDrop": "II10003,II10004",
+        "DropAmount": "大量,中量",
         "Describe": "日曜日開放 ",
         "DailyEventType": "1",
-        "bgm": "201_Battle_Fused"
+        "bgm": "203_Battle_Ice"
     },
     {
         "EventID": "DVE020101",
@@ -297,7 +297,7 @@
         "DropAmount": "大量,大量,中量,中量,少量,少量",
         "Describe": "月曜日開放 ",
         "DailyEventType": "2",
-        "bgm": "202_Battle_Heat"
+        "bgm": "204_Battle_Mois"
     },
     {
         "EventID": "DVE020103",
@@ -307,7 +307,7 @@
         "DropAmount": "大量,大量,中量,中量,少量,少量",
         "Describe": "月曜日開放 ",
         "DailyEventType": "2",
-        "bgm": "203_Battle_Ice"
+        "bgm": "204_Battle_Mois"
     },
     {
         "EventID": "DVE020104",
@@ -317,7 +317,7 @@
         "DropAmount": "大量,中量,中量,少量,少量",
         "Describe": "月曜日開放 ",
         "DailyEventType": "2",
-        "bgm": "201_Battle_Fused"
+        "bgm": "204_Battle_Mois"
     },
     {
         "EventID": "DVE020201",
@@ -337,7 +337,7 @@
         "DropAmount": "大量,大量,中量,中量,少量,少量",
         "Describe": "火曜日開放 ",
         "DailyEventType": "2",
-        "bgm": "202_Battle_Heat"
+        "bgm": "204_Battle_Mois"
     },
     {
         "EventID": "DVE020203",
@@ -347,7 +347,7 @@
         "DropAmount": "大量,大量,中量,中量,少量,少量",
         "Describe": "火曜日開放 ",
         "DailyEventType": "2",
-        "bgm": "203_Battle_Ice"
+        "bgm": "204_Battle_Mois"
     },
     {
         "EventID": "DVE020204",
@@ -357,7 +357,7 @@
         "DropAmount": "大量,中量,中量,少量,少量",
         "Describe": "火曜日開放 ",
         "DailyEventType": "2",
-        "bgm": "201_Battle_Fused"
+        "bgm": "204_Battle_Mois"
     },
     {
         "EventID": "DVE020301",
@@ -377,7 +377,7 @@
         "DropAmount": "大量,大量,中量,中量,少量,少量",
         "Describe": "水曜日開放 ",
         "DailyEventType": "2",
-        "bgm": "202_Battle_Heat"
+        "bgm": "204_Battle_Mois"
     },
     {
         "EventID": "DVE020303",
@@ -387,7 +387,7 @@
         "DropAmount": "大量,大量,中量,中量,少量,少量",
         "Describe": "水曜日開放 ",
         "DailyEventType": "2",
-        "bgm": "203_Battle_Ice"
+        "bgm": "204_Battle_Mois"
     },
     {
         "EventID": "DVE020304",
@@ -397,7 +397,7 @@
         "DropAmount": "大量,中量,中量,少量,少量",
         "Describe": "水曜日開放 ",
         "DailyEventType": "2",
-        "bgm": "201_Battle_Fused"
+        "bgm": "204_Battle_Mois"
     },
     {
         "EventID": "DVE020401",
@@ -417,7 +417,7 @@
         "DropAmount": "大量,大量,中量,中量,少量,少量",
         "Describe": "木曜日開放 ",
         "DailyEventType": "2",
-        "bgm": "202_Battle_Heat"
+        "bgm": "204_Battle_Mois"
     },
     {
         "EventID": "DVE020403",
@@ -427,7 +427,7 @@
         "DropAmount": "大量,大量,中量,中量,少量,少量",
         "Describe": "木曜日開放 ",
         "DailyEventType": "2",
-        "bgm": "203_Battle_Ice"
+        "bgm": "204_Battle_Mois"
     },
     {
         "EventID": "DVE020404",
@@ -437,7 +437,7 @@
         "DropAmount": "大量,中量,中量,少量,少量",
         "Describe": "木曜日開放 ",
         "DailyEventType": "2",
-        "bgm": "201_Battle_Fused"
+        "bgm": "204_Battle_Mois"
     },
     {
         "EventID": "DVE020501",
@@ -457,7 +457,7 @@
         "DropAmount": "大量,大量,中量,中量,少量,少量",
         "Describe": "金曜日開放 ",
         "DailyEventType": "2",
-        "bgm": "202_Battle_Heat"
+        "bgm": "204_Battle_Mois"
     },
     {
         "EventID": "DVE020503",
@@ -467,7 +467,7 @@
         "DropAmount": "大量,大量,中量,中量,少量,少量",
         "Describe": "金曜日開放 ",
         "DailyEventType": "2",
-        "bgm": "203_Battle_Ice"
+        "bgm": "204_Battle_Mois"
     },
     {
         "EventID": "DVE020504",
@@ -477,7 +477,7 @@
         "DropAmount": "大量,中量,中量,少量,少量",
         "Describe": "金曜日開放 ",
         "DailyEventType": "2",
-        "bgm": "201_Battle_Fused"
+        "bgm": "204_Battle_Mois"
     },
     {
         "EventID": "DVE020601",
@@ -497,7 +497,7 @@
         "DropAmount": "大量,大量,中量,中量,少量,少量",
         "Describe": "土曜日開放 ",
         "DailyEventType": "2",
-        "bgm": "202_Battle_Heat"
+        "bgm": "204_Battle_Mois"
     },
     {
         "EventID": "DVE020603",
@@ -507,7 +507,7 @@
         "DropAmount": "大量,大量,中量,中量,少量,少量",
         "Describe": "土曜日開放 ",
         "DailyEventType": "2",
-        "bgm": "203_Battle_Ice"
+        "bgm": "204_Battle_Mois"
     },
     {
         "EventID": "DVE020604",
@@ -517,7 +517,7 @@
         "DropAmount": "大量,中量,中量,少量,少量",
         "Describe": "土曜日開放 ",
         "DailyEventType": "2",
-        "bgm": "201_Battle_Fused"
+        "bgm": "204_Battle_Mois"
     },
     {
         "EventID": "DVE020701",
@@ -537,7 +537,7 @@
         "DropAmount": "大量,大量,中量,中量,少量,少量",
         "Describe": "日曜日開放 ",
         "DailyEventType": "2",
-        "bgm": "202_Battle_Heat"
+        "bgm": "204_Battle_Mois"
     },
     {
         "EventID": "DVE020703",
@@ -547,7 +547,7 @@
         "DropAmount": "大量,大量,中量,中量,少量,少量",
         "Describe": "日曜日開放 ",
         "DailyEventType": "2",
-        "bgm": "203_Battle_Ice"
+        "bgm": "204_Battle_Mois"
     },
     {
         "EventID": "DVE020704",
@@ -557,7 +557,7 @@
         "DropAmount": "大量,中量,中量,少量,少量",
         "Describe": "日曜日開放 ",
         "DailyEventType": "2",
-        "bgm": "201_Battle_Fused"
+        "bgm": "204_Battle_Mois"
     },
     {
         "EventID": "DVE030101",
@@ -587,7 +587,7 @@
         "DropAmount": "中量,少量,中量,少量",
         "Describe": "月曜日開放 ",
         "DailyEventType": "3",
-        "bgm": "203_Battle_Ice"
+        "bgm": "202_Battle_Heat"
     },
     {
         "EventID": "DVE030104",
@@ -597,7 +597,7 @@
         "DropAmount": "大量,中量,大量,中量",
         "Describe": "月曜日開放 ",
         "DailyEventType": "3",
-        "bgm": "204_Battle_Mois"
+        "bgm": "202_Battle_Heat"
     },
     {
         "EventID": "DVE030201",
@@ -627,7 +627,7 @@
         "DropAmount": "中量,少量,中量,少量",
         "Describe": "火曜日開放 ",
         "DailyEventType": "3",
-        "bgm": "203_Battle_Ice"
+        "bgm": "202_Battle_Heat"
     },
     {
         "EventID": "DVE030204",
@@ -637,7 +637,7 @@
         "DropAmount": "大量,中量,大量,中量",
         "Describe": "火曜日開放 ",
         "DailyEventType": "3",
-        "bgm": "204_Battle_Mois"
+        "bgm": "202_Battle_Heat"
     },
     {
         "EventID": "DVE030301",
@@ -667,7 +667,7 @@
         "DropAmount": "中量,少量,中量,少量",
         "Describe": "水曜日開放 ",
         "DailyEventType": "3",
-        "bgm": "203_Battle_Ice"
+        "bgm": "202_Battle_Heat"
     },
     {
         "EventID": "DVE030304",
@@ -677,7 +677,7 @@
         "DropAmount": "大量,中量,大量,中量",
         "Describe": "水曜日開放 ",
         "DailyEventType": "3",
-        "bgm": "204_Battle_Mois"
+        "bgm": "202_Battle_Heat"
     },
     {
         "EventID": "DVE030401",
@@ -707,7 +707,7 @@
         "DropAmount": "中量,少量,中量,少量",
         "Describe": "木曜日開放 ",
         "DailyEventType": "3",
-        "bgm": "203_Battle_Ice"
+        "bgm": "202_Battle_Heat"
     },
     {
         "EventID": "DVE030404",
@@ -717,7 +717,7 @@
         "DropAmount": "大量,中量,大量,中量",
         "Describe": "木曜日開放 ",
         "DailyEventType": "3",
-        "bgm": "204_Battle_Mois"
+        "bgm": "202_Battle_Heat"
     },
     {
         "EventID": "DVE030501",
@@ -747,7 +747,7 @@
         "DropAmount": "中量,少量,中量,少量",
         "Describe": "金曜日開放 ",
         "DailyEventType": "3",
-        "bgm": "203_Battle_Ice"
+        "bgm": "202_Battle_Heat"
     },
     {
         "EventID": "DVE030504",
@@ -757,7 +757,7 @@
         "DropAmount": "大量,中量,大量,中量",
         "Describe": "金曜日開放 ",
         "DailyEventType": "3",
-        "bgm": "204_Battle_Mois"
+        "bgm": "202_Battle_Heat"
     },
     {
         "EventID": "DVE030601",
@@ -787,7 +787,7 @@
         "DropAmount": "中量,少量,中量,少量",
         "Describe": "土曜日開放 ",
         "DailyEventType": "3",
-        "bgm": "203_Battle_Ice"
+        "bgm": "202_Battle_Heat"
     },
     {
         "EventID": "DVE030604",
@@ -797,7 +797,7 @@
         "DropAmount": "大量,中量,大量,中量",
         "Describe": "土曜日開放 ",
         "DailyEventType": "3",
-        "bgm": "204_Battle_Mois"
+        "bgm": "202_Battle_Heat"
     },
     {
         "EventID": "DVE030701",
@@ -827,7 +827,7 @@
         "DropAmount": "中量,少量,中量,少量",
         "Describe": "日曜日開放 ",
         "DailyEventType": "3",
-        "bgm": "203_Battle_Ice"
+        "bgm": "202_Battle_Heat"
     },
     {
         "EventID": "DVE030704",
@@ -837,7 +837,7 @@
         "DropAmount": "大量,中量,大量,中量",
         "Describe": "日曜日開放 ",
         "DailyEventType": "3",
-        "bgm": "204_Battle_Mois"
+        "bgm": "202_Battle_Heat"
     },
     {
         "EventID": "DVE040201",
@@ -857,7 +857,7 @@
         "DropAmount": "大量",
         "Describe": "火曜日開放 ",
         "DailyEventType": "4",
-        "bgm": "202_Battle_Heat"
+        "bgm": "201_Battle_Fused"
     },
     {
         "EventID": "DVE040203",
@@ -867,7 +867,7 @@
         "DropAmount": "大量",
         "Describe": "火曜日開放 ",
         "DailyEventType": "4",
-        "bgm": "203_Battle_Ice"
+        "bgm": "201_Battle_Fused"
     },
     {
         "EventID": "DVE040204",
@@ -877,7 +877,7 @@
         "DropAmount": "大量",
         "Describe": "火曜日開放 ",
         "DailyEventType": "4",
-        "bgm": "204_Battle_Mois"
+        "bgm": "201_Battle_Fused"
     },
     {
         "EventID": "DVE040401",
@@ -897,7 +897,7 @@
         "DropAmount": "大量",
         "Describe": "木曜日開放 ",
         "DailyEventType": "4",
-        "bgm": "202_Battle_Heat"
+        "bgm": "201_Battle_Fused"
     },
     {
         "EventID": "DVE040403",
@@ -907,7 +907,7 @@
         "DropAmount": "大量",
         "Describe": "木曜日開放 ",
         "DailyEventType": "4",
-        "bgm": "203_Battle_Ice"
+        "bgm": "201_Battle_Fused"
     },
     {
         "EventID": "DVE040404",
@@ -917,7 +917,7 @@
         "DropAmount": "大量",
         "Describe": "木曜日開放 ",
         "DailyEventType": "4",
-        "bgm": "204_Battle_Mois"
+        "bgm": "201_Battle_Fused"
     },
     {
         "EventID": "DVE040601",
@@ -937,7 +937,7 @@
         "DropAmount": "大量",
         "Describe": "土曜日開放 ",
         "DailyEventType": "4",
-        "bgm": "202_Battle_Heat"
+        "bgm": "201_Battle_Fused"
     },
     {
         "EventID": "DVE040603",
@@ -947,7 +947,7 @@
         "DropAmount": "大量",
         "Describe": "土曜日開放 ",
         "DailyEventType": "4",
-        "bgm": "203_Battle_Ice"
+        "bgm": "201_Battle_Fused"
     },
     {
         "EventID": "DVE040604",
@@ -957,7 +957,7 @@
         "DropAmount": "大量",
         "Describe": "土曜日開放 ",
         "DailyEventType": "4",
-        "bgm": "204_Battle_Mois"
+        "bgm": "201_Battle_Fused"
     },
     {
         "EventID": "DVE040701",
@@ -977,7 +977,7 @@
         "DropAmount": "大量",
         "Describe": "日曜日開放 ",
         "DailyEventType": "4",
-        "bgm": "202_Battle_Heat"
+        "bgm": "201_Battle_Fused"
     },
     {
         "EventID": "DVE040703",
@@ -987,7 +987,7 @@
         "DropAmount": "大量",
         "Describe": "日曜日開放 ",
         "DailyEventType": "4",
-        "bgm": "203_Battle_Ice"
+        "bgm": "201_Battle_Fused"
     },
     {
         "EventID": "DVE040704",
@@ -997,6 +997,6 @@
         "DropAmount": "大量",
         "Describe": "日曜日開放 ",
         "DailyEventType": "4",
-        "bgm": "204_Battle_Mois"
+        "bgm": "201_Battle_Fused"
     }
 ]

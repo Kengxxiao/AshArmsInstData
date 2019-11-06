@@ -1,7 +1,7 @@
 [
     {
         "buffData": "EA010401|EA010411|EA010421",
-        "counterSkillID": "EA0100",
+        "counterSkillID": "EA0104",
         "skillDescription": "環境効果説明",
         "skillName": "雷雨",
         "skillid": "EA0004",
@@ -9,7 +9,7 @@
     },
     {
         "buffData": "|EA010311|EA010321",
-        "counterSkillID": "EA0101",
+        "counterSkillID": "EA0103",
         "skillDescription": "環境効果説明",
         "skillName": "暴風",
         "skillid": "EA0103",
@@ -25,7 +25,7 @@
     },
     {
         "buffData": "|EA010111|EA010121",
-        "counterSkillID": "EA0103",
+        "counterSkillID": "EA0101",
         "skillDescription": "環境効果説明",
         "skillName": "快晴",
         "skillid": "EA0301",
@@ -33,7 +33,7 @@
     },
     {
         "buffData": "EA010401|EA010411|EA010421",
-        "counterSkillID": "EA0101",
+        "counterSkillID": "EA0104",
         "skillDescription": "環境効果説明",
         "skillName": "雷雨",
         "skillid": "EA0104",
@@ -41,7 +41,7 @@
     },
     {
         "buffData": "|EA010311|EA010321",
-        "counterSkillID": "EA0102",
+        "counterSkillID": "EA0103",
         "skillDescription": "環境効果説明",
         "skillName": "暴風",
         "skillid": "EA0203",
@@ -49,7 +49,7 @@
     },
     {
         "buffData": "|EA010211|EA010221",
-        "counterSkillID": "EA0103",
+        "counterSkillID": "EA0102",
         "skillDescription": "環境効果説明",
         "skillName": "曇り",
         "skillid": "EA0302",
@@ -57,7 +57,7 @@
     },
     {
         "buffData": "|EA010111|EA010121",
-        "counterSkillID": "EA0104",
+        "counterSkillID": "EA0101",
         "skillDescription": "環境効果説明",
         "skillName": "快晴",
         "skillid": "EA0401",
@@ -65,7 +65,7 @@
     },
     {
         "buffData": "EA010401|EA010411|EA010421",
-        "counterSkillID": "EA0102",
+        "counterSkillID": "EA0104",
         "skillDescription": "環境効果説明",
         "skillName": "雷雨",
         "skillid": "EA0204",
@@ -81,7 +81,7 @@
     },
     {
         "buffData": "|EA010211|EA010221",
-        "counterSkillID": "EA0104",
+        "counterSkillID": "EA0102",
         "skillDescription": "環境効果説明",
         "skillName": "曇り",
         "skillid": "EA0402",
@@ -89,7 +89,7 @@
     },
     {
         "buffData": "|EA010111|EA010121",
-        "counterSkillID": "EA0105",
+        "counterSkillID": "EA0101",
         "skillDescription": "環境効果説明",
         "skillName": "快晴",
         "skillid": "EA0501",
@@ -97,7 +97,7 @@
     },
     {
         "buffData": "EA010401|EA010411|EA010421",
-        "counterSkillID": "EA0103",
+        "counterSkillID": "EA0104",
         "skillDescription": "環境効果説明",
         "skillName": "雷雨",
         "skillid": "EA0304",
@@ -105,7 +105,7 @@
     },
     {
         "buffData": "|EA010311|EA010321",
-        "counterSkillID": "EA0104",
+        "counterSkillID": "EA0103",
         "skillDescription": "環境効果説明",
         "skillName": "暴風",
         "skillid": "EA0403",
@@ -113,7 +113,7 @@
     },
     {
         "buffData": "|EA010211|EA010221",
-        "counterSkillID": "EA0105",
+        "counterSkillID": "EA0102",
         "skillDescription": "環境効果説明",
         "skillName": "曇り",
         "skillid": "EA0502",
@@ -129,7 +129,7 @@
     },
     {
         "buffData": "|EA010311|EA010321",
-        "counterSkillID": "EA0105",
+        "counterSkillID": "EA0103",
         "skillDescription": "環境効果説明",
         "skillName": "暴風",
         "skillid": "EA0503",
@@ -137,7 +137,7 @@
     },
     {
         "buffData": "EA010401|EA010411|EA010421",
-        "counterSkillID": "EA0105",
+        "counterSkillID": "EA0104",
         "skillDescription": "環境効果説明",
         "skillName": "雷雨",
         "skillid": "EA0504",
@@ -203,7 +203,7 @@
         "buffData": "|EG010211|EG010221",
         "counterSkillID": "EG0101",
         "skillDescription": "環境効果説明",
-        "skillName": "废墟",
+        "skillName": "廃墟",
         "skillid": "EG0102",
         "speedAdd": "0"
     },
@@ -259,7 +259,7 @@
         "buffData": "EG010301|EG010311|EG010321",
         "counterSkillID": "EG0101",
         "skillDescription": "環境効果説明",
-        "skillName": "建筑残骸",
+        "skillName": "建築残骸",
         "skillid": "EG0103",
         "speedAdd": "1"
     },
@@ -289,7 +289,7 @@
     },
     {
         "buffData": "|EA010111|EA010121",
-        "counterSkillID": "EA0100",
+        "counterSkillID": "EA0101",
         "skillDescription": "環境効果説明",
         "skillName": "快晴",
         "skillid": "EA0001",
@@ -297,7 +297,7 @@
     },
     {
         "buffData": "|EA010211|EA010221",
-        "counterSkillID": "EA0100",
+        "counterSkillID": "EA0102",
         "skillDescription": "環境効果説明",
         "skillName": "曇り",
         "skillid": "EA0002",
@@ -313,7 +313,7 @@
     },
     {
         "buffData": "|EA010311|EA010321",
-        "counterSkillID": "EA0100",
+        "counterSkillID": "EA0103",
         "skillDescription": "環境効果説明",
         "skillName": "暴風",
         "skillid": "EA0003",
@@ -321,7 +321,7 @@
     },
     {
         "buffData": "|EA010211|EA010221",
-        "counterSkillID": "EA0101",
+        "counterSkillID": "EA0102",
         "skillDescription": "環境効果説明",
         "skillName": "曇り",
         "skillid": "EA0102",
@@ -329,7 +329,7 @@
     },
     {
         "buffData": "|EA010111|EA010121",
-        "counterSkillID": "EA0102",
+        "counterSkillID": "EA0101",
         "skillDescription": "環境効果説明",
         "skillName": "快晴",
         "skillid": "EA0201",

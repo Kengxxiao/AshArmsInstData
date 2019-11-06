@@ -744,27 +744,27 @@
         "type": "1"
     },
     {
-        "buffName": "ダメージ軽減率アップ",
+        "buffName": "機動性アップ",
         "buffid": "BSS5010701",
         "count": "0",
-        "effectType": "damageReduction",
-        "groupName": "",
-        "groupid": "0",
-        "grouplevel": "0",
-        "icon": "Buff_armor+",
-        "time": "1",
+        "effectType": "dodge",
+        "groupName": "不与自身叠加",
+        "groupid": "5010701",
+        "grouplevel": "1",
+        "icon": "Buff_dodge+",
+        "time": "2",
         "type": "1"
     },
     {
-        "buffName": "ダメージ軽減率アップ,対地火力アップ",
+        "buffName": "対地火力アップ",
         "buffid": "BSS5010702",
         "count": "0",
-        "effectType": "damageReduction,powerAG",
+        "effectType": "powerAG",
         "groupName": "",
         "groupid": "0",
         "grouplevel": "0",
-        "icon": "Buff_armor+,Buff_power+",
-        "time": "3",
+        "icon": "Buff_power+",
+        "time": "2",
         "type": "1"
     },
     {
@@ -934,6 +934,18 @@
         "icon": "Buff_armor+,Buff_hit+",
         "time": "0",
         "type": "0"
+    },
+    {
+        "buffName": "対地火力アップ,会心補正アップ",
+        "buffid": "BSS301241",
+        "count": "0",
+        "effectType": "powerAG,critical",
+        "groupName": "不可叠加",
+        "groupid": "3012401",
+        "grouplevel": "0",
+        "icon": "Buff_power+,Buff_critical+",
+        "time": "3",
+        "type": "1"
     },
     {
         "buffName": "命中アップ",
@@ -3636,14 +3648,14 @@
         "type": "1"
     },
     {
-        "buffName": "貫通アップ",
+        "buffName": "装甲アップ",
         "buffid": "BSP009611",
         "count": "0",
-        "effectType": "armorPenetration",
+        "effectType": "armor",
         "groupName": "",
         "groupid": "0",
         "grouplevel": "0",
-        "icon": "Buff_power+",
+        "icon": "Buff_armor+",
         "time": "1",
         "type": "1"
     },
@@ -3672,26 +3684,26 @@
         "type": "1"
     },
     {
-        "buffName": "貫通アップ",
+        "buffName": "装甲アップ",
         "buffid": "BSP009612",
         "count": "0",
-        "effectType": "armorPenetration",
+        "effectType": "armor",
         "groupName": "",
         "groupid": "0",
         "grouplevel": "0",
-        "icon": "Buff_power+",
+        "icon": "Buff_armor+",
         "time": "1",
         "type": "1"
     },
     {
-        "buffName": "貫通アップ",
+        "buffName": "装甲アップ",
         "buffid": "BSP009613",
         "count": "0",
-        "effectType": "armorPenetration",
+        "effectType": "armor",
         "groupName": "",
         "groupid": "0",
         "grouplevel": "0",
-        "icon": "Buff_power+",
+        "icon": "Buff_armor+",
         "time": "1",
         "type": "1"
     },
@@ -3780,10 +3792,10 @@
         "type": "1"
     },
     {
-        "buffName": "ダメージ軽減率アップ",
+        "buffName": "装甲アップ",
         "buffid": "BSP009621",
         "count": "0",
-        "effectType": "damageReduction",
+        "effectType": "armor",
         "groupName": "",
         "groupid": "0",
         "grouplevel": "0",
@@ -3792,10 +3804,10 @@
         "type": "1"
     },
     {
-        "buffName": "ダメージ軽減率アップ",
+        "buffName": "装甲アップ",
         "buffid": "BSP009622",
         "count": "0",
-        "effectType": "damageReduction",
+        "effectType": "armor",
         "groupName": "",
         "groupid": "0",
         "grouplevel": "0",
@@ -3804,10 +3816,10 @@
         "type": "1"
     },
     {
-        "buffName": "ダメージ軽減率アップ",
+        "buffName": "装甲アップ",
         "buffid": "BSP009623",
         "count": "0",
-        "effectType": "damageReduction",
+        "effectType": "armor",
         "groupName": "",
         "groupid": "0",
         "grouplevel": "0",
@@ -4356,14 +4368,14 @@
         "type": "1"
     },
     {
-        "buffName": "脅威度アップ",
+        "buffName": "装甲アップ,脅威度アップ",
         "buffid": "BDOL105611",
         "count": "0",
-        "effectType": "targetWeight",
+        "effectType": "armor,targetWeight",
         "groupName": "",
         "groupid": "0",
         "grouplevel": "0",
-        "icon": "Buff_target+",
+        "icon": "Buff_armor+,Buff_target+",
         "time": "1",
         "type": "1"
     },
@@ -4664,18 +4676,6 @@
         "groupid": "0",
         "grouplevel": "0",
         "icon": "Buff_dodge-",
-        "time": "3",
-        "type": "0"
-    },
-    {
-        "buffName": "対地火力アップ,会心補正アップ",
-        "buffid": "BSS3012401",
-        "count": "0",
-        "effectType": "powerAG,critical",
-        "groupName": "不能被自身叠加",
-        "groupid": "3012401",
-        "grouplevel": "0",
-        "icon": "Buff_power+,Buff_critical+",
         "time": "3",
         "type": "0"
     },
@@ -5136,16 +5136,16 @@
         "type": "1"
     },
     {
-        "buffName": "命中補正アップ,会心補正アップ",
+        "buffName": "命中補正ダウン,脅威度ダウン",
         "buffid": "BSJ140201",
         "count": "0",
-        "effectType": "hit,critical",
-        "groupName": "",
-        "groupid": "0",
-        "grouplevel": "0",
-        "icon": "Buff_hit+,Buff_critical+",
-        "time": "0",
-        "type": "1"
+        "effectType": "hit,targetWeight",
+        "groupName": "不与自身叠加",
+        "groupid": "140201",
+        "grouplevel": "1",
+        "icon": "Buff_hit-,Buff_target-",
+        "time": "1",
+        "type": "0"
     },
     {
         "buffName": "対空火力アップ",
@@ -5208,14 +5208,14 @@
         "type": "1"
     },
     {
-        "buffName": "脅威度アップ",
+        "buffName": "装甲アップ,脅威度アップ",
         "buffid": "BDOL105612",
         "count": "0",
-        "effectType": "targetWeight",
+        "effectType": "armor,targetWeight",
         "groupName": "",
         "groupid": "0",
         "grouplevel": "0",
-        "icon": "Buff_target+",
+        "icon": "Buff_armor+,Buff_target+",
         "time": "1",
         "type": "1"
     },
@@ -6732,10 +6732,10 @@
         "type": "1"
     },
     {
-        "buffName": "ダメージ軽減率アップ",
+        "buffName": "装甲アップ",
         "buffid": "BSP000221",
         "count": "0",
-        "effectType": "damageReduction",
+        "effectType": "armor",
         "groupName": "",
         "groupid": "0",
         "grouplevel": "0",
@@ -6756,10 +6756,10 @@
         "type": "1"
     },
     {
-        "buffName": "ダメージ軽減率アップ",
+        "buffName": "装甲アップ",
         "buffid": "BSP000222",
         "count": "0",
-        "effectType": "damageReduction",
+        "effectType": "armor",
         "groupName": "",
         "groupid": "0",
         "grouplevel": "0",
@@ -6804,10 +6804,10 @@
         "type": "1"
     },
     {
-        "buffName": "ダメージ軽減率アップ",
+        "buffName": "装甲アップ",
         "buffid": "BSP000223",
         "count": "0",
-        "effectType": "damageReduction",
+        "effectType": "armor",
         "groupName": "",
         "groupid": "0",
         "grouplevel": "0",
@@ -6924,14 +6924,14 @@
         "type": "0"
     },
     {
-        "buffName": "装甲アップ",
+        "buffName": "装甲ダウン",
         "buffid": "BSS7010901",
         "count": "0",
         "effectType": "armor",
         "groupName": "不能被自身叠加",
         "groupid": "7010901",
         "grouplevel": "0",
-        "icon": "Buff_armor+",
+        "icon": "Buff_armor-",
         "time": "3",
         "type": "0"
     },
@@ -7080,14 +7080,14 @@
         "type": "1"
     },
     {
-        "buffName": "貫通アップ",
+        "buffName": "装甲アップ",
         "buffid": "BSP000211",
         "count": "0",
-        "effectType": "armorPenetration",
+        "effectType": "armor",
         "groupName": "",
         "groupid": "0",
         "grouplevel": "0",
-        "icon": "Buff_power+",
+        "icon": "Buff_armor+",
         "time": "1",
         "type": "1"
     },
@@ -7116,14 +7116,14 @@
         "type": "1"
     },
     {
-        "buffName": "貫通アップ",
+        "buffName": "装甲アップ",
         "buffid": "BSP000212",
         "count": "0",
-        "effectType": "armorPenetration",
+        "effectType": "armor",
         "groupName": "",
         "groupid": "0",
         "grouplevel": "0",
-        "icon": "Buff_power+",
+        "icon": "Buff_armor+",
         "time": "1",
         "type": "1"
     },
@@ -7140,14 +7140,14 @@
         "type": "0"
     },
     {
-        "buffName": "貫通アップ",
+        "buffName": "装甲アップ",
         "buffid": "BSP000213",
         "count": "0",
-        "effectType": "armorPenetration",
+        "effectType": "armor",
         "groupName": "",
         "groupid": "0",
         "grouplevel": "0",
-        "icon": "Buff_power+",
+        "icon": "Buff_armor+",
         "time": "1",
         "type": "1"
     },
@@ -8009,7 +8009,7 @@
         "count": "0",
         "effectType": "hit",
         "groupName": "不重复，能够被高级覆盖",
-        "groupid": "10006",
+        "groupid": "10007",
         "grouplevel": "1",
         "icon": "Buff_hit+",
         "time": "1",
@@ -8477,7 +8477,7 @@
         "count": "0",
         "effectType": "hit",
         "groupName": "不重复，能够被高级覆盖",
-        "groupid": "10006",
+        "groupid": "10007",
         "grouplevel": "2",
         "icon": "Buff_hit+",
         "time": "1",
@@ -8513,7 +8513,7 @@
         "count": "0",
         "effectType": "hit",
         "groupName": "不重复，能够被高级覆盖",
-        "groupid": "10006",
+        "groupid": "10007",
         "grouplevel": "3",
         "icon": "Buff_hit+",
         "time": "1",
@@ -10760,7 +10760,7 @@
         "groupid": "0",
         "grouplevel": "0",
         "icon": "Buff_target-",
-        "time": "1",
+        "time": "2",
         "type": "1"
     },
     {
@@ -11152,11 +11152,11 @@
         "buffid": "BDOL105712",
         "count": "0",
         "effectType": "armor,powerAG",
-        "groupName": "",
-        "groupid": "0",
+        "groupName": "两种buff不叠加",
+        "groupid": "10571",
         "grouplevel": "0",
         "icon": "Buff_armor+,Buff_power+",
-        "time": "1",
+        "time": "2",
         "type": "1"
     },
     {
@@ -11164,11 +11164,11 @@
         "buffid": "BDOL105711",
         "count": "0",
         "effectType": "armor,powerAG",
-        "groupName": "",
-        "groupid": "0",
+        "groupName": "两种buff不叠加",
+        "groupid": "10571",
         "grouplevel": "0",
         "icon": "Buff_armor+,Buff_power+",
-        "time": "1",
+        "time": "2",
         "type": "1"
     },
     {
@@ -11184,26 +11184,26 @@
         "type": "1"
     },
     {
-        "buffName": "装甲ダウン",
+        "buffName": "装甲ダウン,対地火力ダウン",
         "buffid": "BDOL105721",
         "count": "0",
-        "effectType": "armor",
-        "groupName": "",
-        "groupid": "0",
+        "effectType": "armor,powerAG",
+        "groupName": "两种buff不叠加",
+        "groupid": "10571",
         "grouplevel": "0",
-        "icon": "Buff_armor-",
+        "icon": "Buff_armor-,Buff_power-",
         "time": "1",
         "type": "0"
     },
     {
-        "buffName": "機動性アップ",
+        "buffName": "機動性ダウン",
         "buffid": "BSS7010701",
         "count": "0",
         "effectType": "dodge",
-        "groupName": "",
-        "groupid": "0",
+        "groupName": "不能被自身叠加",
+        "groupid": "7010701",
         "grouplevel": "0",
-        "icon": "Buff_dodge+",
+        "icon": "Buff_dodge-",
         "time": "3",
         "type": "0"
     },
@@ -11268,14 +11268,14 @@
         "type": "1"
     },
     {
-        "buffName": "装甲ダウン",
+        "buffName": "装甲ダウン,対地火力ダウン",
         "buffid": "BDOL105722",
         "count": "0",
-        "effectType": "armor",
-        "groupName": "",
-        "groupid": "0",
+        "effectType": "armor,powerAG",
+        "groupName": "两种buff不叠加",
+        "groupid": "10571",
         "grouplevel": "0",
-        "icon": "Buff_armor-",
+        "icon": "Buff_armor-,Buff_power-",
         "time": "1",
         "type": "0"
     },
