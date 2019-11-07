@@ -5685,7 +5685,7 @@
         "mps": "0",
         "mpsreq": "8",
         "posecha": "0",
-        "posereq": "0",
+        "posereq": "2",
         "repskillid": "",
         "skillClass": "",
         "skillCutin": "1",
