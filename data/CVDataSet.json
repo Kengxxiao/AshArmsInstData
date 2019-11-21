@@ -378,7 +378,7 @@
             },
             {
                 "CVType": "Intro",
-                "CVDetail": "わらわこそ超重戦車、VIII号戦車マウス 試作A0型だ。わらわがいれば常勝は約束されたようなもの。代理人(エージェント)よ。ひれ伏し、崇めるがよいぞ。ふはははは！"
+                "CVDetail": "わらわこそ超重戦車、VIII号戦車マウス 試作A0型だ。わらわがいれば常勝は約束されたようなもの。代理人よ。ひれ伏し、崇めるがよいぞ。ふはははは！"
             },
             {
                 "CVType": "Launch",
@@ -410,11 +410,11 @@
             },
             {
                 "CVType": "ModificationRockOn",
-                "CVDetail": "代理人(エージェント)よ。さらなる力を得られるようだ。新しい主砲に換装したいぞ、280㎜砲を用意してくれるのだな？って、何だその呆れた顔は！"
+                "CVDetail": "代理人よ。さらなる力を得られるようだ。新しい主砲に換装したいぞ、280㎜砲を用意してくれるのだな？って、何だその呆れた顔は！"
             },
             {
                 "CVType": "MVP",
-                "CVDetail": "わらわなら当然だ。代理人(エージェント)も鼻が高いであろう？　さあ、存分に褒め讃えるがよいぞ。"
+                "CVDetail": "わらわなら当然だ。代理人も鼻が高いであろう？　さあ、存分に褒め讃えるがよいぞ。"
             },
             {
                 "CVType": "Order",
@@ -434,7 +434,7 @@
             },
             {
                 "CVType": "Ready1",
-                "CVDetail": "来たか代理人(エージェント)。わらわの期待にしっかり応えるのだぞ。"
+                "CVDetail": "来たか代理人。わらわの期待にしっかり応えるのだぞ。"
             },
             {
                 "CVType": "Recovery",
@@ -458,7 +458,7 @@
             },
             {
                 "CVType": "TapBody1",
-                "CVDetail": "代理人(エージェント)よ。せいぜいわらわのために尽くすがいい。そうすれば、そうだな、おぬしに常勝を約束しようではないか。"
+                "CVDetail": "代理人よ。せいぜいわらわのために尽くすがいい。そうすれば、そうだな、おぬしに常勝を約束しようではないか。"
             },
             {
                 "CVType": "TapBody2",
@@ -805,6 +805,212 @@
         ]
     },
     {
+        "ARMSID": "ARM100601",
+        "CVDesArray": [
+            {
+                "CVType": "Attack1",
+                "CVDetail": "Feuer…"
+            },
+            {
+                "CVType": "Attack2",
+                "CVDetail": "当てて見せる……"
+            },
+            {
+                "CVType": "Change1",
+                "CVDetail": "前進、しよう……"
+            },
+            {
+                "CVType": "Change2",
+                "CVDetail": "ど、どうにか耐えるね……"
+            },
+            {
+                "CVType": "Dead",
+                "CVDetail": "一人で……終わるの……？"
+            },
+            {
+                "CVType": "Dispatch",
+                "CVDetail": "いってらっしゃい……がんばってください"
+            },
+            {
+                "CVType": "Dmg1",
+                "CVDetail": "うっ……"
+            },
+            {
+                "CVType": "Dmg2",
+                "CVDetail": "あっ……"
+            },
+            {
+                "CVType": "Emotion1",
+                "CVDetail": "わかった……"
+            },
+            {
+                "CVType": "Emotion2",
+                "CVDetail": "それはちょっと……"
+            },
+            {
+                "CVType": "Emotion3",
+                "CVDetail": "おはようございます……"
+            },
+            {
+                "CVType": "Emotion4",
+                "CVDetail": "また一人……"
+            },
+            {
+                "CVType": "GoGo",
+                "CVDetail": "私の出番？"
+            },
+            {
+                "CVType": "Intro",
+                "CVDetail": "えっと……こんにちは。LT-38です……。ごめん、私、人付き合いとか苦手なので……愛想良くないかもしれないけど……仕事は頑張るね……よろしくお願いします"
+            },
+            {
+                "CVType": "Launch",
+                "CVDetail": "できれば……出撃したくないのに……"
+            },
+            {
+                "CVType": "LdSkill",
+                "CVDetail": "どんな時も、冷静に……"
+            },
+            {
+                "CVType": "Lose",
+                "CVDetail": "私のせいで……ごめんなさい、代理人"
+            },
+            {
+                "CVType": "LvUP",
+                "CVDetail": "うん、これならもっと……"
+            },
+            {
+                "CVType": "Mail",
+                "CVDetail": "メール、届いてるよ……見た方がいいんじゃないかな？"
+            },
+            {
+                "CVType": "Miss",
+                "CVDetail": "大丈夫……今のは当たらない……"
+            },
+            {
+                "CVType": "ModificationChange",
+                "CVDetail": "えっと、改造されて38（ｔ）になりました……。この姿なら……代理人も見たことあるんじゃ……ないかな？"
+            },
+            {
+                "CVType": "ModificationRockOn",
+                "CVDetail": "あの……迷惑じゃなければ……改造してほしいかな……そうすれば、もっと代理人の役に立てると……思うから……"
+            },
+            {
+                "CVType": "MVP",
+                "CVDetail": "まあ、その……みんなの役に立てたなら……嬉しいかな？"
+            },
+            {
+                "CVType": "Order",
+                "CVDetail": "自分とはいえ、人が増えるのは……ちょっとやだな……"
+            },
+            {
+                "CVType": "PowerUp1",
+                "CVDetail": "大丈夫、今なら……"
+            },
+            {
+                "CVType": "PowerUp2",
+                "CVDetail": "みんなの為にも……"
+            },
+            {
+                "CVType": "PowerUp3",
+                "CVDetail": "私を信じてくれた人の為に……"
+            },
+            {
+                "CVType": "Ready1",
+                "CVDetail": "お疲れ様、代理人……じゃあ、仕事……しようか"
+            },
+            {
+                "CVType": "Recovery",
+                "CVDetail": "おかえりなさい……お疲れ様でした……"
+            },
+            {
+                "CVType": "RTB",
+                "CVDetail": "お、終わった……やっぱり戦いはすきじゃないな……"
+            },
+            {
+                "CVType": "Skill1",
+                "CVDetail": "火力が足りなくとも…"
+            },
+            {
+                "CVType": "Skill2",
+                "CVDetail": "落ち着いて狙えば……"
+            },
+            {
+                "CVType": "SPSkill",
+                "CVDetail": "こいつは…「モンスター」だ…"
+            },
+            {
+                "CVType": "TapBody1",
+                "CVDetail": "亀は好きか？……特に思い入れはないよ……でも優雅に泳ぐウミガメの姿は少し羨ましいかもね"
+            },
+            {
+                "CVType": "TapBody2",
+                "CVDetail": "もし起きた時体が虫になってしまっていたら……代理人は、どうする……？私は多分……もしそうなっても……今とそう変わらないと思う……"
+            },
+            {
+                "CVType": "TapBody3",
+                "CVDetail": "何より大事なことは……食べることだって……私は思う。食べることさえできれば……とりあえずの問題は……解決されているんだと思う……"
+            },
+            {
+                "CVType": "TapHead1",
+                "CVDetail": "え？"
+            },
+            {
+                "CVType": "Title",
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
+            },
+            {
+                "CVType": "Win",
+                "CVDetail": "おお……勝ったんだ……"
+            }
+        ]
+    },
+    {
+        "ARMSID": "ARM100603",
+        "CVDesArray": [
+            {
+                "CVType": "Attack1",
+                "CVDetail": "駆逐する…"
+            },
+            {
+                "CVType": "Attack2",
+                "CVDetail": "狙い撃つ……"
+            },
+            {
+                "CVType": "Change1",
+                "CVDetail": "振り返らないよ……固定砲塔なので……"
+            },
+            {
+                "CVType": "Change2",
+                "CVDetail": "今の私なら……耐えられるはず！"
+            },
+            {
+                "CVType": "LdSkill",
+                "CVDetail": "少しでも……皆さんの為になるのなら……"
+            },
+            {
+                "CVType": "ModificationChange",
+                "CVDetail": "えっと……ヘッツァーです……回転砲塔が無くなちゃったけど……その分火力は上がった……これからは自走砲として……活用して、代理人。"
+            },
+            {
+                "CVType": "Ready1",
+                "CVDetail": "おはようございます……代理人、今日の仕事は……確認した？"
+            },
+            {
+                "CVType": "Skill1",
+                "CVDetail": "照準よし…狙いは完璧……"
+            },
+            {
+                "CVType": "Skill2",
+                "CVDetail": "この火力なら…申し分ない…"
+            },
+            {
+                "CVType": "SPSkill",
+                "CVDetail": "これより…災獣Jagdを始める…"
+            }
+        ]
+    },
+    {
         "ARMSID": "ARM100701",
         "CVDesArray": [
             {
@@ -877,11 +1083,11 @@
             },
             {
                 "CVType": "LvUP",
-                "CVDetail": "代理人(エージェント)様、レベルアップしましたよ！"
+                "CVDetail": "代理人様、レベルアップしましたよ！"
             },
             {
                 "CVType": "Mail",
-                "CVDetail": "電文が来たようです。代理人(エージェント)様。"
+                "CVDetail": "電文が来たようです。代理人様。"
             },
             {
                 "CVType": "Miss",
@@ -917,7 +1123,7 @@
             },
             {
                 "CVType": "Ready1",
-                "CVDetail": "お仕事の時間です、準備はいいですか？　代理人(エージェント)様。今日も一緒に頑張りましょう。"
+                "CVDetail": "お仕事の時間です、準備はいいですか？　代理人様。今日も一緒に頑張りましょう。"
             },
             {
                 "CVType": "Recovery",
@@ -941,7 +1147,7 @@
             },
             {
                 "CVType": "TapBody1",
-                "CVDetail": "火力、装甲、そして機動性。戦車はそのバランスが重要なんです。代理人(エージェント)様、上手く使ってくださいね。"
+                "CVDetail": "火力、装甲、そして機動性。戦車はそのバランスが重要なんです。代理人様、上手く使ってくださいね。"
             },
             {
                 "CVType": "TapBody2",
@@ -957,7 +1163,7 @@
             },
             {
                 "CVType": "Title",
-                "CVDetail": "アッシュアームズ‐灰燼戦線"
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
             },
             {
                 "CVType": "Win",
@@ -1118,7 +1324,7 @@
             },
             {
                 "CVType": "Title",
-                "CVDetail": "アッシュアームズ‐灰燼戦線"
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
             },
             {
                 "CVType": "Win",
@@ -1279,7 +1485,7 @@
             },
             {
                 "CVType": "Title",
-                "CVDetail": "アッシュアームズ‐灰燼戦線"
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
             },
             {
                 "CVType": "Win",
@@ -1440,7 +1646,7 @@
             },
             {
                 "CVType": "Title",
-                "CVDetail": "アッシュアームズ‐灰燼戦線"
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
             },
             {
                 "CVType": "Win",
@@ -1646,7 +1852,7 @@
             },
             {
                 "CVType": "Title",
-                "CVDetail": "アッシュアームズ‐灰燼戦線"
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
             },
             {
                 "CVType": "Win",
@@ -1852,7 +2058,7 @@
             },
             {
                 "CVType": "Title",
-                "CVDetail": "アッシュアームズ‐灰燼戦線"
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
             },
             {
                 "CVType": "Win",
@@ -2058,7 +2264,7 @@
             },
             {
                 "CVType": "Title",
-                "CVDetail": "アッシュアームズ‐灰燼戦線"
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
             },
             {
                 "CVType": "Win",
@@ -2264,7 +2470,7 @@
             },
             {
                 "CVType": "Title",
-                "CVDetail": "アッシュアームズ‐灰燼戦線"
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
             },
             {
                 "CVType": "Win",
@@ -2470,7 +2676,7 @@
             },
             {
                 "CVType": "Title",
-                "CVDetail": "アッシュアームズ‐灰燼戦線"
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
             },
             {
                 "CVType": "Win",
@@ -2676,7 +2882,7 @@
             },
             {
                 "CVType": "Title",
-                "CVDetail": "アッシュアームズ‐灰燼戦線"
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
             },
             {
                 "CVType": "Win",
@@ -2882,7 +3088,7 @@
             },
             {
                 "CVType": "Title",
-                "CVDetail": "アッシュアームズ‐灰燼戦線"
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
             },
             {
                 "CVType": "Win",
@@ -3043,7 +3249,7 @@
             },
             {
                 "CVType": "Title",
-                "CVDetail": "アッシュアームズ‐灰燼戦線"
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
             },
             {
                 "CVType": "Win",
@@ -3204,7 +3410,7 @@
             },
             {
                 "CVType": "Title",
-                "CVDetail": "アッシュアームズ‐灰燼戦線"
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
             },
             {
                 "CVType": "Win",
@@ -3410,7 +3616,7 @@
             },
             {
                 "CVType": "Title",
-                "CVDetail": "アッシュアームズ‐灰燼戦線"
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
             },
             {
                 "CVType": "Win",
@@ -3475,7 +3681,7 @@
             },
             {
                 "CVType": "Intro",
-                "CVDetail": "えーっとメガネメガネ…これでよｓおわ！ビックリした！あなたが代理人君？私はⅣ号対空戦車のヴィルベルヴィント！旋風って意味よろしく！いやーメガネ無いとなーんも見えなくてさっきはごめんねー"
+                "CVDetail": "えーっとメガネメガネ…これでよし…おわ！ビックリした！あなたが代理人君？私はⅣ号対空戦車のヴィルベルヴィント！旋風って意味よろしく！いやーメガネ無いとなーんも見えなくてさっきはごめんねー"
             },
             {
                 "CVType": "Launch",
@@ -3571,11 +3777,172 @@
             },
             {
                 "CVType": "Title",
-                "CVDetail": "アッシュアームズ‐灰燼戦線"
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
             },
             {
                 "CVType": "Win",
                 "CVDetail": "当然の勝利ね、次も勝つよ"
+            }
+        ]
+    },
+    {
+        "ARMSID": "ARM104401",
+        "CVDesArray": [
+            {
+                "CVType": "Attack1",
+                "CVDetail": "ガウ！"
+            },
+            {
+                "CVType": "Attack2",
+                "CVDetail": "敵、敵！きしゃー！"
+            },
+            {
+                "CVType": "Change1",
+                "CVDetail": "ガルルルルル！"
+            },
+            {
+                "CVType": "Change2",
+                "CVDetail": "ここで、獲物を待つ！！"
+            },
+            {
+                "CVType": "Dead",
+                "CVDetail": "ウッ……！"
+            },
+            {
+                "CVType": "Dispatch",
+                "CVDetail": "ゴロゴロ……みんな、行っちゃった。寂しい、待つ……。"
+            },
+            {
+                "CVType": "Dmg1",
+                "CVDetail": "にゃっ！"
+            },
+            {
+                "CVType": "Dmg2",
+                "CVDetail": "ウウ！"
+            },
+            {
+                "CVType": "Emotion1",
+                "CVDetail": "ウン"
+            },
+            {
+                "CVType": "Emotion2",
+                "CVDetail": "ダメ！"
+            },
+            {
+                "CVType": "Emotion3",
+                "CVDetail": "にゃあ"
+            },
+            {
+                "CVType": "Emotion4",
+                "CVDetail": "しゃー！"
+            },
+            {
+                "CVType": "GoGo",
+                "CVDetail": "ウウウウウ……"
+            },
+            {
+                "CVType": "Intro",
+                "CVDetail": "シャアアアア……誰？代理人？「人間」？私は、VK1602。「レオパルド」って呼んでも、いい。何すればいい？教えて。私、倒す"
+            },
+            {
+                "CVType": "Launch",
+                "CVDetail": "アウ、行く"
+            },
+            {
+                "CVType": "LdSkill",
+                "CVDetail": "敵、来た！狩りの時間、来た！"
+            },
+            {
+                "CVType": "Lose",
+                "CVDetail": "ウウ……撤退"
+            },
+            {
+                "CVType": "LvUP",
+                "CVDetail": "もっと、頑張る"
+            },
+            {
+                "CVType": "Mail",
+                "CVDetail": "電信、来た"
+            },
+            {
+                "CVType": "Miss",
+                "CVDetail": "シュシュッ！"
+            },
+            {
+                "CVType": "ModificationChange",
+                "CVDetail": "シャアアアア……レオパルド、強い"
+            },
+            {
+                "CVType": "ModificationRockOn",
+                "CVDetail": "私、強くなる"
+            },
+            {
+                "CVType": "MVP",
+                "CVDetail": "代理人、褒めて？"
+            },
+            {
+                "CVType": "Order",
+                "CVDetail": "みんな、可愛い。にゃんにゃん"
+            },
+            {
+                "CVType": "PowerUp1",
+                "CVDetail": "シャアアアアア！！"
+            },
+            {
+                "CVType": "PowerUp2",
+                "CVDetail": "力、感じる……！"
+            },
+            {
+                "CVType": "PowerUp3",
+                "CVDetail": "見て見て、代理人"
+            },
+            {
+                "CVType": "Ready1",
+                "CVDetail": "アウウウ……代理人、きた。嬉しい"
+            },
+            {
+                "CVType": "Recovery",
+                "CVDetail": "フシャー！みんな！帰ってきた！嬉しい！"
+            },
+            {
+                "CVType": "RTB",
+                "CVDetail": "ごろごろ、ごろごろ"
+            },
+            {
+                "CVType": "Skill1",
+                "CVDetail": "パンターには、負けない！"
+            },
+            {
+                "CVType": "Skill2",
+                "CVDetail": "パオーン！えっ、違う？"
+            },
+            {
+                "CVType": "SPSkill",
+                "CVDetail": "その首、噛み砕く。任せろ！"
+            },
+            {
+                "CVType": "TapBody1",
+                "CVDetail": "ウウ……私、分からない。言葉、苦手。代理人、任せる"
+            },
+            {
+                "CVType": "TapBody2",
+                "CVDetail": "みんな、好き。でも、話せない。寂しい"
+            },
+            {
+                "CVType": "TapBody3",
+                "CVDetail": "にゃにゃ？んにゃにゃ……ウウン……"
+            },
+            {
+                "CVType": "TapHead1",
+                "CVDetail": "にゃ？「つうほう」、するよ？"
+            },
+            {
+                "CVType": "Title",
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
+            },
+            {
+                "CVType": "Win",
+                "CVDetail": "勝った……アウ！"
             }
         ]
     },
@@ -3732,7 +4099,7 @@
             },
             {
                 "CVType": "Title",
-                "CVDetail": "アッシュアームズ‐灰燼戦線"
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
             },
             {
                 "CVType": "Win",
@@ -3797,7 +4164,7 @@
             },
             {
                 "CVType": "Intro",
-                "CVDetail": "センチュリオンだ。私の力と全ては仲間達とその勝利のためにある。貴方が善き人であることを願うぞ、代理人(エージェント)"
+                "CVDetail": "センチュリオンだ。私の力と全ては仲間達とその勝利のためにある。貴方が善き人であることを願うぞ、代理人"
             },
             {
                 "CVType": "Launch",
@@ -3877,7 +4244,7 @@
             },
             {
                 "CVType": "TapBody1",
-                "CVDetail": "生まれつきの指導者など存在しない、指導者とは自ら成るもの……私はそれを志として胸に刻んでいる。もちろん代理人(エージェント)も心しておくことだ。ちっぽけなプライドの為に責任を他者に擦り付ける醜い「人間」を多く見てきた、あんな「人間」にはなって欲しくないものだ。"
+                "CVDetail": "生まれつきの指導者など存在しない、指導者とは自ら成るもの……私はそれを志として胸に刻んでいる。もちろん代理人も心しておくことだ。ちっぽけなプライドの為に責任を他者に擦り付ける醜い「人間」を多く見てきた、あんな「人間」にはなって欲しくないものだ。"
             },
             {
                 "CVType": "TapBody2",
@@ -3893,7 +4260,7 @@
             },
             {
                 "CVType": "Title",
-                "CVDetail": "アッシュアームズ‐灰燼戦線"
+                "CVDetail": "アッシュアームズ-灰燼戦線-"
             },
             {
                 "CVType": "Win",
@@ -4175,7 +4542,7 @@
             },
             {
                 "CVType": "Ready1",
-                "CVDetail": "おつかれさまです、代理人(エージェント)。今日も頑張りますね"
+                "CVDetail": "おつかれさまです、代理人。今日も頑張りますね"
             },
             {
                 "CVType": "Recovery",
@@ -8451,7 +8818,7 @@
             },
             {
                 "CVType": "Ready1",
-                "CVDetail": "予定時刻より遅れているわ、代理人(エージェント)。皆の士気に関わるのよ、しっかり顔は出してちょうだい"
+                "CVDetail": "予定時刻より遅れているわ、代理人。皆の士気に関わるのよ、しっかり顔は出してちょうだい"
             },
             {
                 "CVType": "Recovery",
@@ -8459,7 +8826,7 @@
             },
             {
                 "CVType": "RTB",
-                "CVDetail": "みんなを労ってあげて。それは代理人(エージェント)のお仕事よ"
+                "CVDetail": "みんなを労ってあげて。それは代理人のお仕事よ"
             },
             {
                 "CVType": "Skill1",
@@ -8962,11 +9329,11 @@
             },
             {
                 "CVType": "TapBody2",
-                "CVDetail": "代理人(エージェント)にとって、私は有益な存在だと思わない？　あなたが煩わしいと思う仕事は、全部私が処理してあげるのだから。ただ、私に任せるとどうなるかは……ね？"
+                "CVDetail": "代理人にとって、私は有益な存在だと思わない？　あなたが煩わしいと思う仕事は、全部私が処理してあげるのだから。ただ、私に任せるとどうなるかは……ね？"
             },
             {
                 "CVType": "TapBody3",
-                "CVDetail": "大丈夫よ、代理人(エージェント)。もっと私に頼っていいのよ？　もし良ければ私に指揮権を譲渡しても……。ふふ、それはやめておきましょう。楽しみが減ってしまうから……"
+                "CVDetail": "大丈夫よ、代理人。もっと私に頼っていいのよ？　もし良ければ私に指揮権を譲渡しても……。ふふ、それはやめておきましょう。楽しみが減ってしまうから……"
             },
             {
                 "CVType": "TapHead1",

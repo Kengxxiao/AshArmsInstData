@@ -1,17 +1,5 @@
 [
     {
-        "TypeNum": "101",
-        "TypeName": "資源補給",
-        "StoreType": 3,
-        "UseRes": "Icon_Res_6",
-        "Lock": 0,
-        "ShowRes": 1,
-        "CanBuyMore": 0,
-        "TagName": "",
-        "ShowType": 1,
-        "ResDes": ""
-    },
-    {
         "TypeNum": "102",
         "TypeName": "軍備交換",
         "StoreType": 3,
@@ -22,18 +10,6 @@
         "TagName": "Shop_Tag_RF",
         "ShowType": 1,
         "ResDes": ""
-    },
-    {
-        "TypeNum": "196",
-        "TypeName": "虹色硬貨",
-        "StoreType": 3,
-        "UseRes": "IM12",
-        "Lock": 0,
-        "ShowRes": 1,
-        "CanBuyMore": 0,
-        "TagName": "Shop_Tag_HLW",
-        "ShowType": 1,
-        "ResDes": "「<color=#00aab9>特別兵装限定召集</color>」から入手できる虹色に輝く特殊な硬貨。\\n※一定の期間が経過すると「記念硬貨」へ自動変換されます\\n<color=#7C7C7CFF>人類への偉大なる貢献に感謝します。何やら深い意味合いが込められているようだ…</color>"
     },
     {
         "TypeNum": "197",
@@ -57,30 +33,6 @@
         "CanBuyMore": 0,
         "TagName": "",
         "ShowType": 2,
-        "ResDes": ""
-    },
-    {
-        "TypeNum": "401",
-        "TypeName": "アイテム交換",
-        "StoreType": 3,
-        "UseRes": "IM99996",
-        "Lock": 0,
-        "ShowRes": 1,
-        "CanBuyMore": 1,
-        "TagName": "Shop_Tag_HLW",
-        "ShowType": 1,
-        "ResDes": ""
-    },
-    {
-        "TypeNum": "402",
-        "TypeName": "構成体交換",
-        "StoreType": 2,
-        "UseRes": "IM99996",
-        "Lock": 0,
-        "ShowRes": 1,
-        "CanBuyMore": 1,
-        "TagName": "Shop_Tag_HLW",
-        "ShowType": 1,
         "ResDes": ""
     },
     {

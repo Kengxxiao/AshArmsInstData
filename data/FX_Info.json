@@ -1027,8 +1027,8 @@
         "Skill_Info": [
             {
                 "Skill_ID": "SS40109",
-                "Spine_Anim": "shootMC1",
-                "Effect_ID": "shootHC1"
+                "Spine_Anim": "shootHC1",
+                "Effect_ID": ""
             },
             {
                 "Skill_ID": "SJ0501",
@@ -5292,7 +5292,7 @@
         "EnginePath": "",
         "Skill_Info": [
             {
-                "Skill_ID": "SS40107",
+                "Skill_ID": "SS30105",
                 "Spine_Anim": "CI1",
                 "Effect_ID": ""
             },
@@ -5343,7 +5343,7 @@
         "EnginePath": "",
         "Skill_Info": [
             {
-                "Skill_ID": "SS40107",
+                "Skill_ID": "SS30105",
                 "Spine_Anim": "CI_b",
                 "Effect_ID": ""
             },

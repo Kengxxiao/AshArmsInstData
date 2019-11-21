@@ -11,8 +11,8 @@
         "questsid": "1010001",
         "state": "1",
         "type": "1",
-        "userItems": "IM99996,30",
-        "userItemsBack": "[[IM99996,30]]"
+        "userItems": "",
+        "userItemsBack": ""
     },
     {
         "charid": "",
@@ -26,8 +26,8 @@
         "questsid": "1010002",
         "state": "1",
         "type": "1",
-        "userItems": "IM99996,30",
-        "userItemsBack": "[[IM99996,30]]"
+        "userItems": "",
+        "userItemsBack": ""
     },
     {
         "charid": "",
@@ -41,8 +41,8 @@
         "questsid": "1010003",
         "state": "1",
         "type": "1",
-        "userItems": "IC9001,5|IM99996,30",
-        "userItemsBack": "[[IC9001,5],[IM99996,30]]"
+        "userItems": "IC9001,5",
+        "userItemsBack": "[[IC9001,5]]"
     },
     {
         "charid": "",
@@ -56,8 +56,8 @@
         "questsid": "1010004",
         "state": "1",
         "type": "1",
-        "userItems": "IM90003,1|IM99996,30",
-        "userItemsBack": "[[IM90003,1],[IM99996,30]]"
+        "userItems": "IM90003,1",
+        "userItemsBack": "[[IM90003,1]]"
     },
     {
         "charid": "",
@@ -71,8 +71,8 @@
         "questsid": "1010005",
         "state": "1",
         "type": "1",
-        "userItems": "II10002,2|IM99996,30",
-        "userItemsBack": "[[II10002,2],[IM99996,30]]"
+        "userItems": "II10002,2",
+        "userItemsBack": "[[II10002,2]]"
     },
     {
         "charid": "",
@@ -86,8 +86,8 @@
         "questsid": "1010006",
         "state": "1",
         "type": "1",
-        "userItems": "IM99996,30",
-        "userItemsBack": "[[IM99996,30]]"
+        "userItems": "",
+        "userItemsBack": ""
     },
     {
         "charid": "",
@@ -101,8 +101,8 @@
         "questsid": "1010007",
         "state": "1",
         "type": "1",
-        "userItems": "II10002,2|IM99996,30",
-        "userItemsBack": "[[II10002,2],[IM99996,30]]"
+        "userItems": "II10002,2",
+        "userItemsBack": "[[II10002,2]]"
     },
     {
         "charid": "",
@@ -116,8 +116,8 @@
         "questsid": "1010008",
         "state": "1",
         "type": "1",
-        "userItems": "IM99996,30",
-        "userItemsBack": "[[IM99996,30]]"
+        "userItems": "",
+        "userItemsBack": ""
     },
     {
         "charid": "",
@@ -131,8 +131,8 @@
         "questsid": "1010009",
         "state": "1",
         "type": "1",
-        "userItems": "IM99996,30",
-        "userItemsBack": "[[IM99996,30]]"
+        "userItems": "",
+        "userItemsBack": ""
     },
     {
         "charid": "",
@@ -146,8 +146,8 @@
         "questsid": "1010010",
         "state": "1",
         "type": "1",
-        "userItems": "IM0006,2|IM99996,30",
-        "userItemsBack": "[[IM0006,2],[IM99996,30]]"
+        "userItems": "IM0006,2",
+        "userItemsBack": "[[IM0006,2]]"
     },
     {
         "charid": "",
@@ -161,8 +161,8 @@
         "questsid": "2010001",
         "state": "1",
         "type": "2",
-        "userItems": "IM99996,300",
-        "userItemsBack": "[[IM99996,300]]"
+        "userItems": "",
+        "userItemsBack": ""
     },
     {
         "charid": "",
@@ -176,8 +176,8 @@
         "questsid": "2010002",
         "state": "1",
         "type": "2",
-        "userItems": "IM90003,1|IM99996,300",
-        "userItemsBack": "[[IM90003,1],[IM99996,300]]"
+        "userItems": "IM90003,1",
+        "userItemsBack": "[[IM90003,1]]"
     },
     {
         "charid": "",
@@ -191,8 +191,8 @@
         "questsid": "2010003",
         "state": "1",
         "type": "2",
-        "userItems": "IM99996,300",
-        "userItemsBack": "[[IM99996,300]]"
+        "userItems": "",
+        "userItemsBack": ""
     },
     {
         "charid": "",
@@ -206,8 +206,8 @@
         "questsid": "2010004",
         "state": "1",
         "type": "2",
-        "userItems": "II10003,5|IM99996,300",
-        "userItemsBack": "[[II10003,5],[IM99996,300]]"
+        "userItems": "II10003,5",
+        "userItemsBack": "[[II10003,5]]"
     },
     {
         "charid": "",
@@ -221,8 +221,8 @@
         "questsid": "2010005",
         "state": "1",
         "type": "2",
-        "userItems": "IC3999,2|IM99996,300",
-        "userItemsBack": "[[IC3999,2],[IM99996,300]]"
+        "userItems": "IC3999,2",
+        "userItemsBack": "[[IC3999,2]]"
     },
     {
         "charid": "",
@@ -236,8 +236,8 @@
         "questsid": "2010006",
         "state": "1",
         "type": "2",
-        "userItems": "IM99996,300",
-        "userItemsBack": "[[IM99996,300]]"
+        "userItems": "",
+        "userItemsBack": ""
     },
     {
         "charid": "",
@@ -4498,6 +4498,231 @@
         "type": "3",
         "userItems": "",
         "userItemsBack": ""
+    },
+    {
+        "charid": "",
+        "content": "任意のステージでS勝利を150回達成",
+        "cycle": "0",
+        "exp": "0",
+        "name": "event",
+        "position": "",
+        "priceRewardBack": "[0,0,0,0,0,300]",
+        "priceRewardStr": "0,0,0,0,0,300",
+        "questsid": "9710001",
+        "state": "1",
+        "type": "97",
+        "userItems": "",
+        "userItemsBack": ""
+    },
+    {
+        "charid": "",
+        "content": "ポジション「火力型」と「対地型」のDOLLSを同時に含めた編成で共生種を15回撃破",
+        "cycle": "0",
+        "exp": "0",
+        "name": "event",
+        "position": "",
+        "priceRewardBack": "[0,0,0,10,0,0]",
+        "priceRewardStr": "0,0,0,10,0,0",
+        "questsid": "9710002",
+        "state": "1",
+        "type": "97",
+        "userItems": "",
+        "userItemsBack": ""
+    },
+    {
+        "charid": "",
+        "content": "ポジション「空戦型」の航空ユニットを含めた編成で任意の敵を100体撃破",
+        "cycle": "0",
+        "exp": "0",
+        "name": "event",
+        "position": "",
+        "priceRewardBack": "[500,0,0,0,0,0]",
+        "priceRewardStr": "500,0,0,0,0,0",
+        "questsid": "9710003",
+        "state": "1",
+        "type": "97",
+        "userItems": "",
+        "userItemsBack": ""
+    },
+    {
+        "charid": "",
+        "content": "ポジション「偵察型」の航空ユニットを含めた編成で任意の敵を100体撃破",
+        "cycle": "0",
+        "exp": "0",
+        "name": "event",
+        "position": "",
+        "priceRewardBack": "[0,0,0,0,0,0]",
+        "priceRewardStr": "0,0,0,0,0,0",
+        "questsid": "9710004",
+        "state": "1",
+        "type": "97",
+        "userItems": "IM3001,20",
+        "userItemsBack": "[[IM3001,20]]"
+    },
+    {
+        "charid": "",
+        "content": "ポジション「迎撃型」の航空ユニットを含めた編成で任意の敵を100体撃破",
+        "cycle": "0",
+        "exp": "0",
+        "name": "event",
+        "position": "",
+        "priceRewardBack": "[0,0,10000,0,0,0]",
+        "priceRewardStr": "0,0,10000,0,0,0",
+        "questsid": "9710005",
+        "state": "1",
+        "type": "97",
+        "userItems": "",
+        "userItemsBack": ""
+    },
+    {
+        "charid": "",
+        "content": "ポジション「制空型」の航空ユニットを含めた編成で任意の敵を100体撃破",
+        "cycle": "0",
+        "exp": "0",
+        "name": "event",
+        "position": "",
+        "priceRewardBack": "[0,0,0,0,0,0]",
+        "priceRewardStr": "0,0,0,0,0,0",
+        "questsid": "9710006",
+        "state": "1",
+        "type": "97",
+        "userItems": "IM3001,20",
+        "userItemsBack": "[[IM3001,20]]"
+    },
+    {
+        "charid": "",
+        "content": "ポジション「対地型」の航空ユニットを含めた編成で任意の敵を100体撃破",
+        "cycle": "0",
+        "exp": "0",
+        "name": "event",
+        "position": "",
+        "priceRewardBack": "[500,0,0,0,0,0]",
+        "priceRewardStr": "500,0,0,0,0,0",
+        "questsid": "9710007",
+        "state": "1",
+        "type": "97",
+        "userItems": "",
+        "userItemsBack": ""
+    },
+    {
+        "charid": "",
+        "content": "ポジション「前線型」の陸上ユニットを含めた編成で任意の敵を100体撃破",
+        "cycle": "0",
+        "exp": "0",
+        "name": "event",
+        "position": "",
+        "priceRewardBack": "[0,0,0,0,0,0]",
+        "priceRewardStr": "0,0,0,0,0,0",
+        "questsid": "9710008",
+        "state": "1",
+        "type": "97",
+        "userItems": "IM3011,20",
+        "userItemsBack": "[[IM3011,20]]"
+    },
+    {
+        "charid": "",
+        "content": "ポジション「遊撃型」の陸上ユニットを含めた編成で任意の敵を100体撃破",
+        "cycle": "0",
+        "exp": "0",
+        "name": "event",
+        "position": "",
+        "priceRewardBack": "[0,0,10000,0,0,0]",
+        "priceRewardStr": "0,0,10000,0,0,0",
+        "questsid": "9710009",
+        "state": "1",
+        "type": "97",
+        "userItems": "",
+        "userItemsBack": ""
+    },
+    {
+        "charid": "",
+        "content": "ポジション「突撃型」の陸上ユニットを含めた編成で任意の敵を100体撃破",
+        "cycle": "0",
+        "exp": "0",
+        "name": "event",
+        "position": "",
+        "priceRewardBack": "[0,0,0,0,0,0]",
+        "priceRewardStr": "0,0,0,0,0,0",
+        "questsid": "9710010",
+        "state": "1",
+        "type": "97",
+        "userItems": "IM3011,20",
+        "userItemsBack": "[[IM3011,20]]"
+    },
+    {
+        "charid": "",
+        "content": "ポジション「防衛型」の陸上ユニットを含めた編成で任意の敵を100体撃破",
+        "cycle": "0",
+        "exp": "0",
+        "name": "event",
+        "position": "",
+        "priceRewardBack": "[500,0,0,0,0,0]",
+        "priceRewardStr": "500,0,0,0,0,0",
+        "questsid": "9710011",
+        "state": "1",
+        "type": "97",
+        "userItems": "",
+        "userItemsBack": ""
+    },
+    {
+        "charid": "",
+        "content": "ポジション「火力型」の陸上ユニットを含めた編成で任意の敵を100体撃破",
+        "cycle": "0",
+        "exp": "0",
+        "name": "event",
+        "position": "",
+        "priceRewardBack": "[0,0,0,0,0,0]",
+        "priceRewardStr": "0,0,0,0,0,0",
+        "questsid": "9710012",
+        "state": "1",
+        "type": "97",
+        "userItems": "IM3103,10",
+        "userItemsBack": "[[IM3103,10]]"
+    },
+    {
+        "charid": "",
+        "content": "ポジション「邀撃型」の陸上ユニットを含めた編成で任意の敵を100体撃破",
+        "cycle": "0",
+        "exp": "0",
+        "name": "event",
+        "position": "",
+        "priceRewardBack": "[0,0,10000,0,0,0]",
+        "priceRewardStr": "0,0,10000,0,0,0",
+        "questsid": "9710013",
+        "state": "1",
+        "type": "97",
+        "userItems": "",
+        "userItemsBack": ""
+    },
+    {
+        "charid": "",
+        "content": "ポジション「長射程型」の陸上ユニットを含めた編成で任意の敵を100体撃破",
+        "cycle": "0",
+        "exp": "0",
+        "name": "event",
+        "position": "",
+        "priceRewardBack": "[0,0,0,0,0,0]",
+        "priceRewardStr": "0,0,0,0,0,0",
+        "questsid": "9710014",
+        "state": "1",
+        "type": "97",
+        "userItems": "IM3103,10",
+        "userItemsBack": "[[IM3103,10]]"
+    },
+    {
+        "charid": "",
+        "content": "全てのイベント任務を達成すると軽戦車「LT-38」を獲得可能",
+        "cycle": "0",
+        "exp": "0",
+        "name": "event",
+        "position": "",
+        "priceRewardBack": "[0,0,0,0,0,0]",
+        "priceRewardStr": "0,0,0,0,0,0",
+        "questsid": "9710015",
+        "state": "1",
+        "type": "97",
+        "userItems": "IM91006,40",
+        "userItemsBack": "[[IM91006,40]]"
     },
     {
         "charid": "",

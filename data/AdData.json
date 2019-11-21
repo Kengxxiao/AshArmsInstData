@@ -7,54 +7,24 @@
     },
     {
         "Id": "1",
-        "ImgRes": "Home_Banner_EQ02",
-        "Pos": "ACT*98",
+        "ImgRes": "Home_Banner_EQ03",
+        "Pos": "ACT*97",
         "Url": ""
     },
     {
         "Id": "2",
-        "ImgRes": "Home_Banner_ShopHLW",
-        "Pos": "SHOP*402",
-        "Url": ""
-    },
-    {
-        "Id": "3",
-        "ImgRes": "Home_Banner_EQ01",
-        "Pos": "ACT*99",
-        "Url": ""
-    },
-    {
-        "Id": "4",
-        "ImgRes": "Home_Banner_Login02",
-        "Pos": "ACT*SC3",
-        "Url": ""
-    },
-    {
-        "Id": "5",
         "ImgRes": "Home_Banner_LoginBeginer",
         "Pos": "ACT*SC1",
         "Url": ""
     },
     {
-        "Id": "6",
-        "ImgRes": "Home_Banner_Login01",
-        "Pos": "ACT*SC2",
-        "Url": ""
-    },
-    {
-        "Id": "7",
+        "Id": "3",
         "ImgRes": "Home_Banner_ShopSkin",
         "Pos": "SHOP*198",
         "Url": ""
     },
     {
-        "Id": "8",
-        "ImgRes": "Home_Banner_ShopBox",
-        "Pos": "SHOP*997",
-        "Url": ""
-    },
-    {
-        "Id": "9",
+        "Id": "4",
         "ImgRes": "Home_Banner_Default",
         "Pos": "ACT*SM",
         "Url": ""

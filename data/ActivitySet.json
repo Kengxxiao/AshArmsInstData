@@ -1,36 +1,14 @@
 [
     {
-        "activityContent": "ハロウィン イベント",
-        "activityId": "2",
+        "activityContent": "期間限定イベント",
+        "activityId": "1",
         "activityType": "3",
-        "activityTypeId": "98",
-        "endDatetimeT": "1573675199000",
+        "activityTypeId": "97",
+        "endDatetimeT": "1576108799000",
         "imgIndex": "Event_Quest03",
         "index": "1",
         "position": "",
-        "startDatetimeT": "1572465600000"
-    },
-    {
-        "activityContent": "期間限定    イベント",
-        "activityId": "1",
-        "activityType": "3",
-        "activityTypeId": "99",
-        "endDatetimeT": "1573675199000",
-        "imgIndex": "Event_Quest02",
-        "index": "2",
-        "position": "",
-        "startDatetimeT": "1571860800000"
-    },
-    {
-        "activityContent": "ハロウィン    ログインボーナス",
-        "activityId": "53",
-        "activityType": "1",
-        "activityTypeId": "SC3",
-        "endDatetimeT": "1573675199000",
-        "imgIndex": "Event_Login02",
-        "index": "3",
-        "position": "",
-        "startDatetimeT": "1571860800000"
+        "startDatetimeT": "1564603200000"
     },
     {
         "activityContent": "事前登録報酬",
@@ -42,17 +20,6 @@
         "index": "4",
         "position": "",
         "startDatetimeT": "0"
-    },
-    {
-        "activityContent": "リリース記念 ログインボーナス",
-        "activityId": "50",
-        "activityType": "1",
-        "activityTypeId": "SC2",
-        "endDatetimeT": "1573675199000",
-        "imgIndex": "Event_Login01",
-        "index": "5",
-        "position": "",
-        "startDatetimeT": "1571860800000"
     },
     {
         "activityContent": "月間          ログインボーナス",
